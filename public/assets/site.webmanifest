@@ -1,6 +1,6 @@
 {
-  "name": "MyWebSite",
-  "short_name": "MySite",
+  "name": "TryOut SNBT SKD",
+  "short_name": "TryOut Yuk",
   "icons": [
     {
       "src": "/public/assets/web-app-manifest-192x192.png",
