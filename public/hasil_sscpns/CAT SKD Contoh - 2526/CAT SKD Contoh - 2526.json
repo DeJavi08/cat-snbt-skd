@@ -1,0 +1,233 @@
+[
+  {
+    "nomor": 1,
+    "subtes": "Tes Wawasan Kebangsaan (TWK)",
+    "soal": "Perhatikan kutipan cerpen berikut!\n\nIa sering menyendiri di atas rumahnya. Berbaring telentang di atas genting, dengan berbantal kedua tangannya. Matanya fokus tertuju pada bulan purnama. Ia sering menanti malam-malam itu. Malam purnama penuh kenangan bersama Ibunya.\n\nSetelah kepergian Ibunya, Hasan sering menyendiri. Kebahagiaannya sudah tidak terlihat layaknya dulu. Ia lebih sering merenung, bertingkah aneh, bahkan sering menguji kesabaran orang-orang di sekitarnya. Keanehan-keanehan itu sangat tampak pada perilakunya yang sering memanjat genting rumahnya, sering berbicara sendiri, bahkan berteriak-teriak di malam hari.\n\nHubungan tema dan latar pada kutipan cerpen tersebut adalah ....",
+    "pilihan": {
+      "A": "Tema kekalutan dipengaruhi oleh gambaran tokoh Hasan yang sering merenung bersama Ibunya di atas rumah",
+      "B": "Tema kekacauan dipengaruhi oleh gambaran orang-orang yang ada di sekitar tokoh Hasan merasa terganggu dengan sikap yang aneh",
+      "C": "Tema kehilangan dipengaruhi oleh gambaran tokoh Hasan yang sering menyendiri, merenung, dan bertingkah aneh setelah kepergian Ibunya",
+      "D": "Tema kesedihan dipengaruhi oleh gambaran tokoh Hasan yang berdiam diri di atas rumahnya karena tidak memiliki teman untuk bermain bersama",
+      "E": "Tema kekaguman dipengaruhi oleh gambaran tokoh Hasan yang memandang panorama indah malam hari di atas rumah"
+    },
+    "jawaban": "C",
+    "pembahasan": "Kutipan cerpen tersebut menggambarkan tokoh Hasan yang sangat merasa kehilangan setelah kepergian ibunya, yang ditunjukkan melalui latar perilakunya yang sering menyendiri, merenung, dan bertingkah aneh di atas genting rumah."
+  },
+  {
+    "nomor": 2,
+    "subtes": "Tes Wawasan Kebangsaan (TWK)",
+    "soal": "Pancasila telah menjadi sebuah landasan untuk segala keputusan bangsa Indonesia. Ideologi negara ini menjadi sebuah cerminan dan kepribadian bangsa Indonesia. Pancasila pada hakikatnya bagi bangsa Indonesia adalah sumber nilai yang dilaksanakan dalam kehidupan bermasyarakat, berbangsa, dan bernegara. Dengan demikian Pancasila sebagai sumber nilai mengandung makna ....",
+    "pilihan": {
+      "A": "Dasar etis moral yang dijadikan panduan bagi pemerintah dalam menjalankan roda pemerintahan",
+      "B": "Tolak ukur dalam bersikap atau berperilaku dan menjadi pandangan hidup bagi generasi penerus bangsa",
+      "C": "Tolak ukur tentang etika pergaulan kehidupan remaja sebagai generasi penerus bangsa Indonesia",
+      "D": "Dasar moral tentang etika moral bangsa Indonesia dalam pergaulan dengan bangsa-bangsa lain di dunia",
+      "E": "Dasar moral dan tolak ukur tentang baik buruk, berkaitan dengan sikap, dan tingkah laku masyarakat bangsa Indonesia"
+    },
+    "jawaban": "E",
+    "pembahasan": "Pancasila sebagai sumber nilai mengartikan bahwa seluruh sila Pancasila merupakan dasar moral, tolok ukur, dan acuan normatif mengenai apa yang baik dan buruk dalam jalinan sikap serta tingkah laku kehidupan seluruh masyarakat Indonesia."
+  },
+  {
+    "nomor": 3,
+    "subtes": "Tes Wawasan Kebangsaan (TWK)",
+    "soal": "Seseorang ingin mengirim hewan ternak melalui pelabuhan, tetapi tidak memiliki surat kesehatan hewan yang dipersyaratkan. Setelah dilakukan pemeriksaan, ternyata hewan tersebut merupakan pembawa penyakit menular dan harus dimusnahkan. Sebagai petugas berwenang saya akan ....",
+    "pilihan": {
+      "A": "Menginformasikan kepada pemilik hewan tersebut bahwa hewan harus dimusnahkan dan tidak bisa dikirim",
+      "B": "Langsung memusnahkan hewan tersebut dan mengupayakan ganti rugi untuk pemiliknya",
+      "C": "Meminta kepada pemilik untuk membawa kembali hewannya dengan syarat harus dimusnahkan karena sangat berbahaya jika masih dibiarkan hidup",
+      "D": "Langsung memusnahkan hewan tersebut sesuai prosedur yang berlaku",
+      "E": "Menginformasikan kepada atasan terkait kasus tersebut dan menunggu keputusan atasan, baru akan melakukan tindakan"
+    },
+    "jawaban": "D",
+    "pembahasan": "Sebagai petugas yang berwenang, tindakan terbaik dan profesional adalah langsung mengeksekusi pemusnahan hewan pembawa penyakit menular tersebut sesuai dengan prosedur operasional standar (SOP) hukum yang berlaku demi melindungi kesehatan publik."
+  },
+  {
+    "nomor": 4,
+    "subtes": "Tes Inteligensi Umum (TIU)",
+    "soal": "Perhatikan baris angka berikut:\n\n12, 144, 14, 196, 17, 289, ...\n\nTentukan nilai logis berikutnya!",
+    "pilihan": {
+      "A": "18, 324",
+      "B": "19, 361",
+      "C": "20, 400",
+      "D": "21, 441",
+      "E": "22, 464"
+    },
+    "jawaban": "D",
+    "pembahasan": "Pola deret terdiri dari angka dan kuadratnya secara selang-seling:\n- 12, $12^2 = 144$\n- 14 (lomcat +2 dari 12), $14^2 = 196$\n- 17 (lomcat +3 dari 14), $17^2 = 289$\n\nAngka berikutnya meloncat +4 dari 17, yaitu 21, dan kuadratnya $21^2 = 441$. Jadi jawabannya adalah 21, 441."
+  },
+  {
+    "nomor": 5,
+    "subtes": "Tes Inteligensi Umum (TIU)",
+    "soal": "Tentukan angka selanjutnya dari deret pecahan berikut:\n\n$\\frac{9}{4}$, 4, $4\\frac{1}{2}$, 12, 9, 36, ...",
+    "pilihan": {
+      "A": "5$\\frac{1}{4}$",
+      "B": "5$\\frac{1}{2}$",
+      "C": "12",
+      "D": "15",
+      "E": "18"
+    },
+    "jawaban": "E",
+    "pembahasan": "Deret ini terdiri dari dua pola yang berselang-seling:\n- Pola 1 (posisi ganjil): $\\frac{9}{4}$, $4\\frac{1}{2}$, 9, ... (pola dikali 2)\n  - $\\frac{9}{4} \\times 2 = \\frac{18}{4} = 4.5$\n  - $4.5 \\times 2 = 9$\n  - $9 \\times 2 = 18$.\n- Suku ganjil berikutnya adalah 18."
+  },
+  {
+    "nomor": 6,
+    "subtes": "Tes Inteligensi Umum (TIU)",
+    "soal": "Perhatikan tabel berikut!\n\nBulan | Perpustakaan A | Perpustakaan B\nJanuari | 634 | 566\nFebruari | 723 | 497\nMaret | 648 | 512\nApril | 627 | 553\nMei | 713 | 527\nJuni | 660 | 520\n\nTabel di atas menunjukkan data jumlah pengunjung perpustakaan A dan perpustakaan B setiap bulannya pada tahun 2023. Pernyataan berikut ini yang benar adalah ....",
+    "pilihan": {
+      "A": "Rata-rata jumlah pengunjung perpustakaan paling sedikit pada bulan Januari.",
+      "B": "Rata-rata jumlah pengunjung perpustakaan paling banyak pada bulan Februari.",
+      "C": "Rata-rata jumlah pengunjung perpustakaan bulan Maret dan bulan April sama.",
+      "D": "Rata-rata jumlah pengunjung perpustakaan paling banyak pada bulan Mei.",
+      "E": "Rata-rata jumlah pengunjung paling sedikit pada bulan Juni."
+    },
+    "jawaban": "D",
+    "pembahasan": "Rata-rata paling banyak berkorelasi langsung dengan jumlah total pengunjung bulanan tertinggi:\n- Jan: 1200\n- Feb: 1220\n- Mar: 1160\n- Apr: 1180\n- Mei: 1240\n- Jun: 1180\n\nJumlah pengunjung terbanyak ada di bulan Mei (1240), sehingga rata-ratanya pun paling tinggi."
+  },
+  {
+    "nomor": 7,
+    "subtes": "Tes Inteligensi Umum (TIU)",
+    "soal": "Perhatikan hubungan kuantitatif x dan y pada tabel berikut!\n\nx | y\nHarga 20 Buku | Rp150.000,00\n\nJika diketahui harga satu lusin buku tulis adalah Rp96.000,00. Hubungan kuantitatif yang terjadi pada kedua pernyataan tersebut adalah ....",
+    "pilihan": {
+      "A": "x > y",
+      "B": "x < y",
+      "C": "x = y",
+      "D": "2x = 3y",
+      "E": "y - x = 10.000"
+    },
+    "jawaban": "A",
+    "pembahasan": "Langkah pengerjaan:\n1. Harga 1 buku = $\\frac{96.000}{12} = \\text{Rp}8.000,00$\n2. Harga 20 buku ($x$) = $20 \\times 8.000 = \\text{Rp}160.000,00$\n3. Nilai $y$ = Rp150.000,00\n\nKarena $x = 160.000$ dan $y = 150.000$, maka hubungan kuantitatif yang benar adalah $x > y$ (pilihan A)."
+  },
+  {
+    "nomor": 8,
+    "subtes": "Tes Inteligensi Umum (TIU)",
+    "soal": "Hitunglah nilai operasi bilangan campuran berikut:\n\nHasil dari $6 \\times \\frac{5}{3} - 3,25 \\div 1\\frac{5}{8} + 300\\% = ....$",
+    "pilihan": {
+      "A": "6",
+      "B": "9",
+      "C": "11",
+      "D": "13",
+      "E": "17"
+    },
+    "jawaban": "C",
+    "pembahasan": "Selesaikan operasi langkah demi langkah:\n1. $6 \\times \\frac{5}{3} = 10$\n2. $3,25 \\div 1\\frac{5}{8} = \\frac{13}{4} \\div \\frac{13}{8} = \\frac{13}{4} \\times \\frac{8}{13} = 2$\n3. $300\\% = 3$\n\nHasil akhir = $10 - 2 + 3 = 11$."
+  },
+  {
+    "nomor": 9,
+    "subtes": "Tes Inteligensi Umum (TIU)",
+    "soal": "Diketahui nilai $a = 2b, x = \\frac{1}{2}b$ dan $y = 4a$.\n\nManakah hubungan antara x dan y yang benar?",
+    "pilihan": {
+      "A": "a > b",
+      "B": "x < y",
+      "C": "x > y",
+      "D": "x = y",
+      "E": "3a > 2b"
+    },
+    "jawaban": "B",
+    "pembahasan": "Substitusi nilai:\n- $y = 4a = 4(2b) = 8b$\n- Bandingkan $x = 0,5b$ dan $y = 8b$\n\nUntuk nilai $b$ positif, maka $x < y$."
+  },
+  {
+    "nomor": 10,
+    "subtes": "Tes Karakteristik Pribadi (TKP)",
+    "soal": "Sosial Budaya (Harmonis)\n\nHingga Anda berada pada tahun akhir di universitas, Anda selalu mendapatkan bantuan dari orang tua Anda. Sementara orang tua Anda menyuruh supaya Anda dapat hidup mandiri dengan bekerja di luar kota setelah lulus dari universitas. Bagaimana sikap Anda saat disuruh untuk hidup mandiri tanpa bantuan orang tua?",
+    "pilihan": {
+      "A": "Menerima karena sudah saatnya hidup mandiri tetapi bingung untuk memulainya",
+      "B": "Menerima karena sudah saatnya meskipun ada perasaan bimbang jika tidak dapat hidup mandiri",
+      "C": "Bersemangat untuk hidup mandiri karena termasuk dalam pengalaman baru di kehidupan Anda",
+      "D": "Berani hidup mandiri tanpa bantuan dari orang tua karena sudah saatnya untuk hidup mandiri",
+      "E": "Bersikap bijaksana ketika harus hidup mandiri dengan mengubah sifat dan perilaku diri"
+    },
+    "jawaban": "D",
+    "poin": {
+      "A": 2,
+      "B": 3,
+      "C": 4,
+      "D": 5,
+      "E": 1
+    },
+    "pembahasan": "Menunjukkan kesiapan, keberanian, dan kemandirian penuh (opsi D, poin 5) untuk menghadapi tantangan hidup baru tanpa ketergantungan."
+  },
+  {
+    "nomor": 11,
+    "subtes": "Tes Karakteristik Pribadi (TKP)",
+    "soal": "Jejaring Kerja (Kolaboratif)\n\nPada divisi tempat kerja Anda terdapat pegawai baru, tetapi rekan baru tersebut termasuk orang yang pendiam. Dirinya jarang ikut bergabung dengan rekan kerja lainnya dan menjawab sekadarnya saja ketika ditanya. Sebagai rekan kerja satu divisi, apa yang akan Anda lakukan?",
+    "pilihan": {
+      "A": "Menyuruhnya untuk ikut serta dalam semua kegiatan divisi demi kesolidan tim kerja",
+      "B": "Melaporkan sikap dari rekan baru pada atasan supaya dilakukan evaluasi terhadapnya",
+      "C": "Menasihati rekan tersebut supaya menjadi orang yang lebih aktif lagi dan peduli pada lingkungan sekitar",
+      "D": "Mengajaknya untuk bersama-sama aktif dalam kegiatan divisi supaya dirinya terbiasa",
+      "E": "Mengajaknya berbincang untuk beberapa kesempatan supaya dapat melihat kemampuan bersosialisasinya"
+    },
+    "jawaban": "D",
+    "poin": {
+      "A": 3,
+      "B": 1,
+      "C": 2,
+      "D": 5,
+      "E": 4
+    },
+    "pembahasan": "Mengajak rekan baru beraktivitas bersama (opsi D, poin 5) membantu proses asimilasi tim berjalan lebih cepat dan nyaman."
+  },
+  {
+    "nomor": 12,
+    "subtes": "Tes Karakteristik Pribadi (TKP)",
+    "soal": "Pelayanan Publik (Berorientasi pelayanan)\n\nAnda adalah seorang pimpinan di kantor yang mendapatkan penghargaan sebagai kantor terbersih di lingkungan instansi. Saat Anda berkeliling lingkungan kantor, di taman belakang terdapat tumpukan sampah dan terlihat taman yang tidak terawat. Apa yang akan Anda lakukan?",
+    "pilihan": {
+      "A": "Memanggil dan menanyakan petugas kebersihan mengapa halaman belakang tidak terawat",
+      "B": "Memanggil dan menegur petugas kebersihan perihal kesanggupannya membersihkan lingkungan kantor untuk kedepannya",
+      "C": "Memanggil dan memerintahkan petugas kebersihan untuk segera merapikannya",
+      "D": "Memanggil dan mengingatkan kembali bahwa lingkungan kantor harus dijaga kebersihannya",
+      "E": "Memanggil dan melakukan dialog dengan petugas kebersihan mengenai kendala penataan taman selama ini"
+    },
+    "jawaban": "E",
+    "poin": {
+      "A": 3,
+      "B": 2,
+      "C": 1,
+      "D": 4,
+      "E": 5
+    },
+    "pembahasan": "Berdiskusi mencari akar masalah operasional (kendala) (opsi E, poin 5) menunjukkan gaya kepemimpinan solutif berorientasi kualitas jangka panjang."
+  },
+  {
+    "nomor": 13,
+    "subtes": "Tes Karakteristik Pribadi (TKP)",
+    "soal": "Teknologi Informasi dan Komunikasi (Adaptif)\n\nAnda bekerja sebagai seorang HRD yang memiliki karyawan lebih dari seribu orang. Anda harus melakukan berbagai tugas seperti evaluasi kerja dan mengurus sistem administrasi penggajian karyawan. Saat melakukan tugas tersebut terkadang Anda menemukan kesulitan karena banyaknya jumlah karyawan. Teman Anda mengusulkan untuk menggunakan aplikasi berbayar yang dapat memudahkan tugas Anda. Sikap Anda adalah ....",
+    "pilihan": {
+      "A": "Tidak ingin menggunakan aplikasi yang berbayar",
+      "B": "Akan menerapkan aplikasi tersebut karena dapat memudahkan pekerjaan yang ada",
+      "C": "Akan menyarankan instansi lain untuk menggunakan aplikasi tersebut sebagai uji coba",
+      "D": "Akan menggunakan cara manual seperti biasanya karena belum tentu aplikasi tersebut dapat memberikan hasil yang tepat",
+      "E": "Mencoba menggunakan aplikasinya hanya saat mengerjakan tugas tersebut segera selesai"
+    },
+    "jawaban": "B",
+    "poin": {
+      "A": 1,
+      "B": 5,
+      "C": 3,
+      "D": 2,
+      "E": 4
+    },
+    "pembahasan": "Terbuka menggunakan solusi perangkat lunak guna efisiensi kerja berskala besar (opsi B, poin 5) mencerminkan adaptasi TIK yang kuat."
+  },
+  {
+    "nomor": 14,
+    "subtes": "Tes Karakteristik Pribadi (TKP)",
+    "soal": "Anti Radikalisme (Harmonis)\n\nSetelah beranjak dewasa, Anda menyadari bahwa lingkungan tempat Anda dibesarkan ternyata memiliki budaya intoleran yang sampai saat ini masih banyak dilakukan oleh masyarakat setempat. Akibatnya, jarang ada pendatang baru yang tinggal di lingkungan tersebut, karena masyarakat di sana terlihat sangat tidak menyukai hal baru dan perbedaan baik dalam budaya maupun keyakinan. Saat ini Anda sudah menjadi aparatur sipil negara dan kembali tinggal di lingkungan tersebut, maka yang akan Anda lakukan ....",
+    "pilihan": {
+      "A": "Bekerja sama dengan tokoh masyarakat untuk secara perlahan menjelaskan dan menjalankan toleransi",
+      "B": "Berusaha melakukan toleransi pada setiap kesempatan supaya masyarakat juga akan sadar",
+      "C": "Meminta kepala desa untuk memberikan contoh tindakan toleransi supaya masyarakatnya mengikuti",
+      "D": "Meminta kepala desa untuk membuat aturan larangan tindakan intoleran dan ada sanksinya jika melakukan",
+      "E": "Meminta bantuan pemerintah daerah untuk mengatasinya karena cakupannya luas"
+    },
+    "jawaban": "A",
+    "poin": {
+      "A": 5,
+      "B": 4,
+      "C": 3,
+      "D": 2,
+      "E": 1
+    },
+    "pembahasan": "Sinergi dengan tokoh lokal (opinion leader) (opsi A, poin 5) adalah strategi kultural paling taktis dan persuasif untuk meredam intoleransi/radikalisme sejak lingkup masyarakat dasar."
+  }
+]

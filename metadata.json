@@ -1,0 +1,6 @@
+{
+  "name": "Tryout Viewer",
+  "description": "A feature-rich Computer Assisted Test (CAT) Tryout Viewer for SKD and SNBT, including exam simulation, live progress tracking, and detailed answer key discussion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
