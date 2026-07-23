@@ -1,0 +1,1542 @@
+[
+  {
+    "nomor": 1,
+    "subtes": "Tes Wawasan Kebangsaan (TWK)",
+    "soal": "Perhatikan paragraf berikut! Eksploitasi sumber daya alam seperti industri pertambangan merupakan salah satuindustri yang secara finansial sangat menguntungkan untuk perekonomian negara karena memiliki daya jual yang tinggi di pasaran global. Namun setiap eksploitasi sumber daya alam ini dapat menimbulkan dampak terhadap lingkungan, baik secara fisik maupun sosial. Aktivitas tambang di Pulau Gag membuka kawasan hutan tropis primer. Potensi kerusakan yaitu meliputi peningkatan erosi dan sedimentasi laut, hilangnya habitat flora dan fauna endemic, dan potensi pencemaran air dan tanah oleh logam berat seperti nikel dan kromium akibat aktivitas pengolahan bijih dan pembuangan limbah. Kesimpulan dari paragraf di atas yaitu ….",
+    "pilihan": {
+      "A": "Aktivitas pertambangan di Pulau Gag telah meningkatkan ekspor nikel dan mendukung ekonomi global.",
+      "B": "Meskipun menguntungkan secara ekonomi, eksploitasi sumber daya alam seperti pertambangan memiliki dampak serius terhadap lingkungan.",
+      "C": "Dampak sosial dari pertambangan lebih besar daripada dampak fisiknya terhadap lingkungan.",
+      "D": "Pertambangan di Indonesia harus dihentikan karena hanya menyebabkan kerusakan alam.",
+      "E": "Eksploitasi hutan tropis primer di Pulau Gag tidak memengaruhi kondisi lingkungan sekitar secara signifikan."
+    },
+    "jawaban": "B",
+    "pembahasan": "Paragraf menjelaskan bahwa meskipun eksploitasi SDA menguntungkan secara ekonomi, namun menimbulkan dampak serius terhadap lingkungan (fisik dan sosial). Kesimpulan yang tepat merangkum kedua sisi tersebut tanpa melebih-lebihkan atau menyimpang dari isi paragraf."
+  },
+  {
+    "nomor": 2,
+    "subtes": "Tes Wawasan Kebangsaan (TWK)",
+    "soal": "Lagu Kebangsaan \"Indonesia Raya\" yang diciptakan oleh W.R. Supratman pada tahun 1924 bertujuan untuk membangunkan semangat perjuangan kemerdekaan Indonesia. Pada masa sekarang, perjuangan Indonesia salah satunya yaitu melawan kemiskinan. Berdasarkan data Badan Pusat Statistik, jumlah penduduk miskin pada Maret 2024 sebanyak 25,22 juta orang. Dalam kondisi seperti ini, apa yang dapat dilakukan pemerintah secara efektif dan efisien untuk kesejahteraan rakyat ....",
+    "pilihan": {
+      "A": "Menyusun kebijakan terintegrasi yang menggabungkan perluasan akses pendidikan vokasional, peningkatan kualitas layanan kesehatan dasar, dan penyediaan modal usaha mikro berbasis komunitas di daerah miskin.",
+      "B": "Meningkatkan besaran dan jangkauan subsidi energi dan pangan agar masyarakat miskin mendapatkan akses lebih murah terhadap kebutuhan pokok tanpa mempersulit distribusi.",
+      "C": "Membangun pusat-pusat industri berskala besar di wilayah tertinggal untuk mendorong pertumbuhan ekonomi dan menarik investasi asing secara cepat.",
+      "D": "Meluncurkan program bantuan langsung tunai berskala nasional setiap bulan selama 5 tahun untuk mengurangi tekanan ekonomi masyarakat miskin secara instan dan merata.",
+      "E": "Menetapkan kebijakan pemotongan pajak bagi perusahaan besar agar memiliki ruang fiskal untuk menciptakan lebih banyak lapangan kerja dan mempercepat pemulihan ekonomi nasional."
+    },
+    "jawaban": "A",
+    "pembahasan": "Kebijakan terintegrasi yang bersifat pemberdayaan (pendidikan vokasi, kesehatan, modal usaha mikro) lebih efektif dan berkelanjutan dalam mengentaskan kemiskinan jangka panjang dibandingkan subsidi atau bantuan tunai yang bersifat konsumtif."
+  },
+  {
+    "nomor": 3,
+    "subtes": "Tes Wawasan Kebangsaan (TWK)",
+    "soal": "Di sebuah daerah yang sedang mengalami ketegangan sosial akibat perbedaan pandangan politik, muncul kelompok-kelompok masyarakat yang mulai menyebarkan narasi provokatif dan merendahkan simbol-simbol negara, seperti lambang negara, bendera, serta tokoh-tokoh nasional. Situasi ini menyebabkan masyarakat terbelah dan semangat persatuan mulai memudar. Dalam kondisi seperti ini, tindakan yang paling mencerminkan sikap bela negara sebagai warga sipil adalah ….",
+    "pilihan": {
+      "A": "Menyuarakan perlawanan terhadap kelompok tersebut secara terbuka untuk menunjukkan keberpihakan pada negara.",
+      "B": "Melaporkan kelompok tersebut ke aparat penegak hukum dan menggalang dukungan publik untuk melawan narasi mereka.",
+      "C": "Tetap menjaga netralitas dan tidak terlibat dalam konflik, sambil memantau perkembangan dari luar.",
+      "D": "Mengajak masyarakat sekitar untuk memperkuat pemahaman tentang nilai-nilai kebangsaan tanpa memperkeruh keadaan.",
+      "E": "Menyebarluaskan kembali video dan konten dari kelompok tersebut sebagai bentuk peringatan agar masyarakat lebih waspada."
+    },
+    "jawaban": "D",
+    "pembahasan": "Sikap bela negara sipil yang paling tepat adalah pendekatan persuasif-edukatif dengan memperkuat nilai kebangsaan secara damai, bukan konfrontasi atau provokasi. Mengajak masyarakat memperkuat pemahaman kebangsaan tanpa memperkeruh keadaan lebih efektif membangun persatuan."
+  },
+  {
+    "nomor": 4,
+    "subtes": "Tes Wawasan Kebangsaan (TWK)",
+    "soal": "Indonesia saat ini menghadapi tantangan ketenagakerjaan, di mana jumlah lowongan kerja yang tersedia tidak sebanding dengan kebutuhan kerja dan jumlah penduduk usia produktif. Kondisi ini mendorong sebagian besar angkatan kerja memilih untuk bekerja di luar negeri, baik secara legal maupun ilegal. Fenomena ini dikhawatirkan dapat berdampak pada menurunnya rasa nasionalisme terutama di kalangan generasi muda. Sebagai upaya jangka panjang untuk mengatasi permasalahan ini, kebijakan manakah yang paling tepat dilakukan oleh pemerintah ….",
+    "pilihan": {
+      "A": "Meningkatkan jumlah tenaga kerja migran yang dikirim ke luar negeri agar bisa mengurangi angka pengangguran dalam negeri.",
+      "B": "Memberikan pelatihan bela negara bagi seluruh angkatan kerja yang ingin bekerja di luar negeri.",
+      "C": "Mengembangkan sektor ekonomi berbasis industri kreatif dan UMKM untuk menyerap tenaga kerja usia produktif.",
+      "D": "Mewajibkan lulusan perguruan tinggi untuk mengikuti program pengabdian kepada negara selama minimal dua tahun.",
+      "E": "Membatasi izin kerja ke luar negeri demi menjaga ketersediaan tenaga kerja nasional dan meningkatkan rasa cinta tanah air."
+    },
+    "jawaban": "C",
+    "pembahasan": "Solusi jangka panjang yang paling tepat adalah menciptakan lapangan kerja di dalam negeri melalui pengembangan sektor ekonomi produktif seperti industri kreatif dan UMKM, sehingga tenaga kerja tidak perlu bekerja ke luar negeri."
+  },
+  {
+    "nomor": 5,
+    "subtes": "Tes Wawasan Kebangsaan (TWK)",
+    "soal": "Dalam sebuah aksi unjuk rasa yang awalnya berlangsung damai, sekelompok massa kemudian melakukan perusakan terhadap fasilitas umum seperti halte bus, lampu lalu lintas, dan taman kota. Aksi tersebut dinilai merugikan masyarakat luas karena mengganggu pelayanan publik dan menimbulkan kerugian negara. Di sisi lain, massa beralasan bahwa tindakan mereka merupakan bentuk ekspresi kekecewaan terhadap pemerintah. Bagaimana seharusnya pemerintah menyikapi peristiwa seperti ini ….",
+    "pilihan": {
+      "A": "Menindak tegas pelaku perusakan melalui proses hukum tanpa mengabaikan hak berekspresi yang dijamin konstitusi.",
+      "B": "Membubarkan setiap aksi unjuk rasa karena berpotensi menimbulkan kekacauan dan kerugian negara.",
+      "C": "Memprioritaskan dialog dengan massa aksi dan tidak memproses hukum pelaku perusakan demi menjaga stabilitas sosial.",
+      "D": "Mengabaikan kerusakan fasilitas umum karena hal tersebut merupakan konsekuensi dari demokrasi.",
+      "E": "Menindak seluruh peserta unjuk rasa tanpa pandang bulu karena dianggap ikut bertanggung jawab."
+    },
+    "jawaban": "A",
+    "pembahasan": "Pemerintah harus menyeimbangkan antara penegakan hukum terhadap perusakan fasilitas publik dengan tetap menghormati hak konstitusional warga negara untuk berekspresi secara damai."
+  },
+  {
+    "nomor": 6,
+    "subtes": "Tes Wawasan Kebangsaan (TWK)",
+    "soal": "Perkembangan startup di Indonesia, khususnya di bidang teknologi finansial (fintech), logistik, dan e-commerce , telah memberikan dampak besar terhadap kehidupan masyarakat. Salah satunya adalah peningkatan akses layanan keuangan dan distribusi barang ke daerah-daerah yang sebelumnya sulit dijangkau. Namun, keberadaan startup juga menimbulkan tantangan seperti disrupsi terhadap sektor usaha konvensional. Bagaimana Upaya yang harus dilakukan pemerintah untuk mewujudkan keadilan sosial bagi seluruh rakyat Indonesia berdasarkan masalah tersebut ….",
+    "pilihan": {
+      "A": "Mendorong kolaborasi antara startup dan pelaku usaha lokal agar terjadi alih teknologi dan penguatan kapasitas ekonomi masyarakat.",
+      "B": "Memberikan insentif khusus bagi startup besar agar mereka dapat memperluas jangkauan layanan ke pelosok negeri.",
+      "C": "Mengatur pembatasan kegiatan startup di sektor yang sudah lama dikuasai oleh usaha tradisional untuk melindungi pelaku lama.",
+      "D": "Membiarkan dinamika pasar berkembang secara alami tanpa intervensi agar tercipta efisiensi yang adil dan berkelanjutan.",
+      "E": "Mengarahkan seluruh program digitalisasi ekonomi hanya kepada sektor formal agar pendapatan negara lebih terjamin."
+    },
+    "jawaban": "A",
+    "pembahasan": "Pendekatan kolaboratif antara startup dan usaha lokal memungkinkan alih teknologi dan penguatan kapasitas ekonomi masyarakat, sehingga tercipta keadilan sosial tanpa mematikan sektor konvensional."
+  },
+  {
+    "nomor": 7,
+    "subtes": "Tes Wawasan Kebangsaan (TWK)",
+    "soal": "Daerah di Indonesia bagian timur memiliki kekayaan alam yang melimpah seperti hasil tambang dan sumber daya hayati laut. Namun, tingkat kemiskinan masyarakatnya masih tinggi, akses pendidikan dan kesehatan terbatas, serta infrastruktur dasar belum memadai. Pemerintah pusat telah menetapkan daerah tersebut sebagai bagian dari program percepatan pembangunan nasional. Dalam diskusi publik, muncul berbagai pendapat dari para tokoh daerah. Ada yang menilai perlu intervensi langsung pemerintah pusat, ada yang mendorong penguatan otonomi daerah, sementara lainnya menyoroti peran swasta dan CSR ( Corporate Social Responsibility ). Dalam konteks keadilan sosial dan pemerataan pembangunan nasional berdasarkan Pancasila, langkah manakah yang paling tepat dan berkelanjutan untuk menjawab persoalan tersebut ….",
+    "pilihan": {
+      "A": "Pemerintah pusat meningkatkan alokasi dana pembangunan dan infrastruktur di daerah tersebut.",
+      "B": "Pemerintah daerah diberi kewenangan lebih luas untuk mengelola SDA dan merancang kebijakan lokal.",
+      "C": "Swasta diberikan insentif untuk berinvestasi di daerah tersebut dengan kewajiban program CSR yang ketat.",
+      "D": "Masyarakat dilibatkan secara aktif dalam perencanaan pembangunan melalui musyawarah dan program partisipatif.",
+      "E": "Pemerintah membentuk badan khusus lintas sektor untuk mengoordinasikan pembangunan dan pengawasan di daerah tersebut."
+    },
+    "jawaban": "D",
+    "pembahasan": "Prinsip Pancasila (khususnya sila ke-4 dan ke-5) menekankan partisipasi masyarakat dalam pembangunan melalui musyawarah. Pelibatan aktif masyarakat memastikan pembangunan berkelanjutan dan sesuai kebutuhan lokal."
+  },
+  {
+    "nomor": 8,
+    "subtes": "Tes Wawasan Kebangsaan (TWK)",
+    "soal": "Di tengah meningkatnya tensi politik menjelang pemilihan umum, media sosial dipenuhi berbagai narasi yang mengarah pada polarisasi. Masyarakat terbelah dalam dua kubu besar yang saling mencurigai dan menyebarkan informasi yang belum terverifikasi. Beberapa tokoh masyarakat menyerukan pentingnya menjaga persatuan, sementara sebagian tokoh lain justru memanfaatkan situasi tersebut untuk memperkuat dukungan politik. Pemerintah mengimbau agar masyarakat tetap menjaga etika dan tidak mudah terprovokasi, sementara aparat melakukan patroli siber untuk mengawasi penyebaran hoaks. Dalam menghadapi situasi seperti ini, sikap warga negara yang paling sesuai dengan semangat demokrasi Pancasila adalah ….",
+    "pilihan": {
+      "A": "Mendukung sepenuhnya langkah pemerintah dalam mengawasi media sosial demi menjaga stabilitas nasional.",
+      "B": "Memilih untuk tidak ikut berkomentar di media sosial agar tidak memperkeruh suasana.",
+      "C": "Menyuarakan pendapat secara aktif dengan tetap menjaga etika dan menghormati perbedaan.",
+      "D": "Mengajak masyarakat untuk fokus pada program kerja calon pemimpin tanpa mempersoalkan perbedaan pilihan.",
+      "E": "Mengedukasi orang-orang sekitar agar tidak mudah percaya pada berita yang belum jelas kebenarannya."
+    },
+    "jawaban": "C",
+    "pembahasan": "Demokrasi Pancasila menjamin kebebasan berpendapat namun tetap dalam koridor etika dan penghormatan terhadap perbedaan. Menyuarakan pendapat secara aktif dengan etika adalah sikap yang paling sesuai."
+  },
+  {
+    "nomor": 9,
+    "subtes": "Tes Wawasan Kebangsaan (TWK)",
+    "soal": "Urbanisasi di Indonesia masih menjadi tantangan besar dalam pembangunan nasional. Salah satu penyebab utama urbanisasi adalah karena di wilayah perkotaan terdapat lebih banyak peluang kerja dibandingkan dengan pedesaan. Di sisi lain, pembangunan sumber lapangan pekerjaan di desa pun tidak mudah karena daya beli dan kebutuhan masyarakat terhadap produk/jasa belum setinggi di kota. Sikap yang seharusnya diambil oleh pemerintah dalam rangka menyejahterakan rakyat dan mengurangi ketimpangan pembangunan antara kota dan desa adalah ….",
+    "pilihan": {
+      "A": "Mendorong masyarakat desa untuk pindah ke kota yang masih tergolong rendah penduduk agar mendapatkan pekerjaan yang layak",
+      "B": "Membatasi jumlah pendatang ke kota melalui regulasi ketat dan persyaratan usia produktif sehingga tidak menambah permasalahan kesejahteraan di kota tujuan",
+      "C": "Memperluas wilayah dan memfokuskan pembangunan ekonomi di wilayah perkotaan agar dapat berkembang pesat",
+      "D": "Membangun pusat-pusat ekonomi baru di pedesaan sesuai potensi lokal dan kebutuhan masyarakat setempat",
+      "E": "Membuat peraturan dengan mewajibkan setiap perusahaan besar yang beroperasi di Indonesia untuk membuka cabang di desa sebagai pemerataan lowongan kerja"
+    },
+    "jawaban": "D",
+    "pembahasan": "Solusi berkelanjutan untuk mengurangi urbanisasi adalah membangun pusat-pusat ekonomi baru di pedesaan berdasarkan potensi lokal, sehingga masyarakat desa memiliki peluang kerja tanpa harus pindah ke kota."
+  },
+  {
+    "nomor": 10,
+    "subtes": "Tes Wawasan Kebangsaan (TWK)",
+    "soal": "Bacalah paragraf rumpang berikut! Dalam situasi darurat seperti kebakaran hutan, [….] cepat dari petugas sangat menentukan keselamatan warga. Pemerintah pun mengeluarkan [....] kepada masyarakat agar tidak beraktivitas di luar ruangan jika tidak mendesak, mengingat [....] gangguan akibat kualitas udara yang memburuk. Beberapa warga mulai merasakan sesak [....], terutama lansia dan anak-anak karena terus-menerus terpapar [....] asap yang pekat dari arah barat. Kata yang tepat dan baku untuk melengkapi paragraf rumpang tersebut adalah ....",
+    "pilihan": {
+      "A": "Respons, himbauan, resiko, napas, embus",
+      "B": "Respons, himbauan, risiko, napas, embus",
+      "C": "Respons, imbauan, risiko, napas, embusan",
+      "D": "Respons, imbauan, risiko, napas, embus",
+      "E": "Respons, himbauan, risiko, nafas, embus"
+    },
+    "jawaban": "D",
+    "pembahasan": "Kata baku yang tepat: 'respons' (bukan 'respon'), 'imbauan' (bukan 'himbauan'), 'risiko' (bukan 'resiko'), 'napas' (bukan 'nafas'), 'embus' (bentuk dasar, sedangkan 'embusan' adalah kata turunan yang kurang tepat dalam konteks ini)."
+  },
+  {
+    "nomor": 11,
+    "subtes": "Tes Wawasan Kebangsaan (TWK)",
+    "soal": "Indonesia dikenal sebagai negara hukum, sebagaimana tercantum dalam Pasal 1 ayat (3) UUD 1945 yang menyatakan bahwa \"Negara Indonesia adalah negara hukum\". Namun dalam praktiknya, masih sering ditemui kasus pelanggaran hukum oleh oknum pejabat publik yang justru tidak segera ditindak secara tegas. Misalnya dalam sebuah kasus korupsi besar, seorang pejabat tinggi baru ditangkap setelah bertahun-tahun menjadi buronan, padahal bukti keterlibatannya sudah lama dimiliki aparat penegak hukum. Dalam konteks studi kasus tersebut, prinsip negara hukum yang paling dilanggar atau belum terwujud secara maksimal adalah ....",
+    "pilihan": {
+      "A": "Prinsip supremasi hukum, di mana semua warga negara harus tunduk pada hukum yang berlaku tanpa pengecualian.",
+      "B": "Prinsip pembagian kekuasaan untuk mencegah terjadinya kekuasaan yang otoriter dan sewenang-wenang.",
+      "C": "Prinsip persamaan di hadapan hukum, di mana setiap orang mendapat perlakuan hukum yang adil dan sama.",
+      "D": "Prinsip due process of law , yaitu proses penegakan hukum harus cepat, mudah, dan bebas intervensi politik.",
+      "E": "Prinsip kepastian hukum, di mana hukum ditegakkan secara konsisten dan tidak berubah-ubah."
+    },
+    "jawaban": "A",
+    "pembahasan": "Kasus pejabat yang tidak segera ditangkap meskipun bukti sudah ada menunjukkan supremasi hukum belum tegak karena ada ketidaksetaraan perlakuan hukum antara pejabat publik dan warga biasa."
+  },
+  {
+    "nomor": 12,
+    "subtes": "Tes Wawasan Kebangsaan (TWK)",
+    "soal": "Dewan Pertimbangan Presiden (Wantimpres) dibentuk berdasarkan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 dan bertugas memberikan nasihat dan pertimbangan kepada Presiden, namun tidak memiliki kewenangan eksekutif atau legislatif. Dalam praktiknya, efektivitas Wantimpres sering dipertanyakan oleh publik karena rekomendasi yang diberikan bersifat tidak mengikat dan sering kali tidak diketahui secara terbuka oleh masyarakat. Di tengah tuntutan transparansi dan partisipasi publik dalam pemerintahan, muncul usulan agar Wantimpres dibubarkan dan diganti dengan lembaga baru. Berdasarkan prinsip tata kelola pemerintahan yang baik ( good governance ), tindakan mana yang paling tepat dilakukan pemerintah dalam menyikapi hal tersebut ….",
+    "pilihan": {
+      "A": "Membubarkan Wantimpres karena dianggap tidak efektif dan tidak transparan dalam memberikan masukan kepada Presiden.",
+      "B": "Mengubah bentuk Wantimpres menjadi lembaga legislatif tambahan agar memiliki kekuatan hukum dalam memberi pertimbangan.",
+      "C": "Mengoptimalkan peran Wantimpres dengan memperbaiki mekanisme kerja dan memperluas pelibatan publik dalam proses pertimbangannya.",
+      "D": "Menunjuk tokoh-tokoh politik populer sebagai anggota Wantimpres agar lebih dikenal masyarakat.",
+      "E": "Mengganti seluruh anggota Wantimpres setiap tahun agar selalu selaras dengan dinamika politik nasional."
+    },
+    "jawaban": "C",
+    "pembahasan": "Prinsip good governance menekankan transparansi dan efektivitas. Mengoptimalkan peran Wantimpres dengan perbaikan mekanisme dan pelibatan publik adalah langkah yang lebih bijak daripada membubarkan lembaga konstitusional."
+  },
+  {
+    "nomor": 13,
+    "subtes": "Tes Wawasan Kebangsaan (TWK)",
+    "soal": "Indonesia sebagai negara multikultural menghadapi tantangan dalam menjaga kesatuan di tengah keragaman budaya. Di beberapa daerah, muncul polarisasi budaya antara kelompok masyarakat adat yang berpegang teguh pada tradisi dan kelompok pendatang atau generasi muda yang cenderung mengadopsi nilai-nilai budaya global. Polarisasi ini kadang memicu konflik sosial, saling curiga, hingga melemahnya semangat gotong royong. Seorang Aparatur Sipil Negara (ASN) ditugaskan di wilayah yang tengah menghadapi situasi tersebut. Sebagian masyarakat menuntut penegakan ketat terhadap budaya lokal, sementara sebagian lain ingin membuka ruang adaptasi budaya untuk perkembangan zaman. Menurut Anda, pendekatan apa yang paling tepat untuk diambil ….",
+    "pilihan": {
+      "A": "Menunjukkan keberpihakan pada nilai-nilai budaya lokal yang telah diwariskan secara turun-temurun dan mendukung penuh kelompok adat agar identitas budaya daerah tetap terjaga dari pengaruh luar yang dianggap dapat menggerus nilai-nilai luhur bangsa.",
+      "B": "Mengajak masyarakat untuk lebih menerima budaya luar sebagai bagian dari perkembangan zaman dan globalisasi, serta mendorong masyarakat adat untuk beradaptasi demi kemajuan dan keterbukaan terhadap dunia luar.",
+      "C": "Menjalin komunikasi dengan semua pihak yang terlibat, mendorong terbentuknya forum dialog lintas budaya secara setara, dan mengupayakan titik temu yang menghormati nilai-nilai budaya lokal sekaligus membuka ruang adaptasi secara bijak dan inklusif.",
+      "D": "Mengikuti kecenderungan suara mayoritas masyarakat agar situasi sosial tetap kondusif dan menghindari potensi gesekan yang dapat mengganggu stabilitas wilayah dan pelayanan publik.",
+      "E": "Menyampaikan sikap pribadi dalam forum publik sebagai bentuk kebebasan berpendapat dan mengarahkan masyarakat untuk mengambil sikap yang menurut pandangan pribadi ASN tersebut paling ideal untuk masa depan daerah."
+    },
+    "jawaban": "C",
+    "pembahasan": "Sebagai ASN, pendekatan yang paling tepat adalah menjadi fasilitator dialog lintas budaya yang setara, menjembatani perbedaan, dan mencari titik temu yang menghormati nilai lokal sekaligus membuka ruang adaptasi secara inklusif."
+  },
+  {
+    "nomor": 14,
+    "subtes": "Tes Wawasan Kebangsaan (TWK)",
+    "soal": "Demonstrasi merupakan bagian dari kebebasan menyampaikan pendapat yang dijamin dalam sistem demokrasi Indonesia. Namun dalam praktiknya, tidak jarang aksi demonstrasi disertai dengan tindakan anarkis, termasuk perusakan fasilitas umum. Tindakan ini menimbulkan kerugian bagi masyarakat luas dan bertentangan dengan semangat menjaga kepentingan bersama. Dalam konteks ini, integritas sebagai warga negara tidak hanya mencakup keberanian menyuarakan pendapat, tetapi juga kesadaran menjaga ketertiban, kepentingan umum, dan tanggung jawab sosial. Manakah dari pernyataan berikut yang paling mencerminkan integritas sebagai warga negara dalam menyikapi aksi demonstrasi yang berujung pada perusakan fasilitas umum ….",
+    "pilihan": {
+      "A": "Menolak perusakan fasilitas umum karena merugikan masyarakat luas, meskipun dilakukan atas dasar semangat perjuangan.",
+      "B": "Menghindari keterlibatan dalam demonstrasi yang berpotensi rusuh, meskipun tuntutannya dianggap benar.",
+      "C": "Mendukung penyampaian aspirasi dengan tegas namun menolak segala bentuk kekerasan dan pengrusakan.",
+      "D": "Menyampaikan pendapat secara aktif namun tetap tunduk pada aturan hukum dan menghormati ruang publik.",
+      "E": "Mengutamakan aspirasi secara damai dan menjunjung etika dalam menyampaikan pendapat di ruang terbuka."
+    },
+    "jawaban": "A",
+    "pembahasan": "Integritas warga negara tercermin dalam penolakan terhadap perusakan fasilitas publik yang merugikan masyarakat luas, meskipun perusakan itu dilakukan dengan dalih semangat perjuangan."
+  },
+  {
+    "nomor": 15,
+    "subtes": "Tes Wawasan Kebangsaan (TWK)",
+    "soal": "Salah satu wujud cinta tanah air adalah kepedulian terhadap kondisi kehidupan masyarakat, termasuk dalam penanganan daerah dengan masyarakat yang mengalami kesulitan dalam mengakses air bersih untuk kehidupan sehari-hari. Dalam konteks tersebut, tindakan pemerintah yang paling efektif sebagai bentuk cinta tanah air adalah...",
+    "pilihan": {
+      "A": "Menyalurkan bantuan air bersih secara rutin sebagai solusi jangka pendek di daerah terdampak kekeringan.",
+      "B": "Membangun infrastruktur penyediaan air bersih seperti sumur bor, pipanisasi, atau instalasi pengolahan air di daerah tersebut.",
+      "C": "Menyebarkan kampanye hemat air dan menjaga lingkungan melalui media sosial dan edukasi di sekolah-sekolah.",
+      "D": "Menggalakkan gerakan gotong royong untuk membantu masyarakat mengambil air dari sumber terdekat.",
+      "E": "Mengirim tim relawan ke daerah tersebut untuk melakukan pendampingan dalam pemanfaatan sumber air tradisional."
+    },
+    "jawaban": "B",
+    "pembahasan": "Cinta tanah air diwujudkan melalui tindakan nyata yang berkelanjutan. Membangun infrastruktur air bersih adalah solusi permanen, bukan sekadar bantuan sementara atau kampanye."
+  },
+  {
+    "nomor": 16,
+    "subtes": "Tes Wawasan Kebangsaan (TWK)",
+    "soal": "Perhatikan butir-butir berikut!\nHari sudah malam sedangkan anak-anak masih membaca; buku.\nKasus perencanaan bahasa di Indonesia dianggap sebagai salah satu yang paling berhasil (Fishman, 1974; Moeliono, 1985; Samuel, 2008; Wardhaugh dan Fuller, 2015).\nIbu membeli buku, pensil, dan tinta; baju, celana, dan kaus; serta pisang, apel, dan jeruk.\nKerbau melenguh; kambing mengembik; kuda meringkik.\nSyarat mengikuti ujian penerimaan pegawai di lembaga ini adalah a. berkewarganegaraan Indonesia; b. berijazah sarjana S-1; c. berbadan sehat; dan d. bersedia ditempatkan di seluruh wilayah Negara Kesatuan Republik Indonesia.\nPenggunaan tanda titik koma (;) yang salah terdapat pada butir ....",
+    "pilihan": {
+      "A": "(1)",
+      "B": "(2)",
+      "C": "(3)",
+      "D": "(4)",
+      "E": "(5)"
+    },
+    "jawaban": "A",
+    "pembahasan": "Pada butir (1), tanda titik koma digunakan secara tidak tepat karena seharusnya menggunakan koma untuk memisahkan induk dan anak kalimat ('Hari sudah malam, sedangkan anak-anak masih membaca buku')."
+  },
+  {
+    "nomor": 17,
+    "subtes": "Tes Wawasan Kebangsaan (TWK)",
+    "soal": "Di salah satu wilayah perbatasan Indonesia, terjadi kasus penolakan terhadap pemasangan bendera merah putih di sebuah gedung sekolah. Kelompok masyarakat lokal beralasan bahwa mereka lebih merasa dekat dengan budaya dan identitas negara tetangga karena faktor kedekatan geografis dan interaksi sosial yang lebih intens. Situasi ini menimbulkan polemik karena sebagian pihak menganggap penolakan tersebut sebagai bentuk ketidaksetiaan terhadap negara. Sebagai warga negara yang memahami pentingnya nasionalisme dan integrasi bangsa, sikap yang paling tepat dalam merespons kondisi tersebut adalah ….",
+    "pilihan": {
+      "A": "Mengajak masyarakat lokal untuk memahami kembali arti penting simbol negara tanpa memaksakan identitas secara frontal.",
+      "B": "Menyerukan aksi nasional untuk mengecam penolakan terhadap simbol negara sebagai bentuk pelecehan terhadap nasionalisme.",
+      "C": "Mendorong pemerintah untuk mengambil tindakan tegas terhadap masyarakat yang menolak simbol negara demi menjaga wibawa nasional.",
+      "D": "Mengimbau media untuk memberitakan penolakan tersebut secara luas agar masyarakat sadar akan ancaman disintegrasi.",
+      "E": "Menyuarakan pentingnya rasa kebangsaan dengan mengadakan kampanye nasionalisme di wilayah tersebut."
+    },
+    "jawaban": "A",
+    "pembahasan": "Pendekatan persuasif-edukatif dengan mengajak masyarakat memahami simbol negara tanpa pemaksaan lebih efektif membangun nasionalisme daripada pendekatan represif atau konfrontatif."
+  },
+  {
+    "nomor": 18,
+    "subtes": "Tes Wawasan Kebangsaan (TWK)",
+    "soal": "Di tengah gencarnya arus informasi digital, sebuah video viral menampilkan sekelompok pelajar menyanyikan lagu kebangsaan Indonesia Raya sambil bercanda dan tertawa-tawa tanpa sikap hormat. Video ini memicu reaksi keras dari masyarakat, banyak yang menuntut agar para pelajar tersebut diberi sanksi berat. Namun, sejumlah pihak berpendapat bahwa yang diperlukan adalah pembinaan, bukan hukuman. Sebagai warga negara yang menjunjung tinggi nasionalisme dan pendidikan karakter, sikap yang paling tepat dalam menyikapi kejadian tersebut Adalah ….",
+    "pilihan": {
+      "A": "Menyerukan sanksi sosial di media agar para pelajar tersebut merasa malu dan jera atas perilakunya.",
+      "B": "Meminta pihak berwenang memberikan hukuman tegas agar kejadian serupa tidak terulang di masa depan.",
+      "C": "Melaporkan video tersebut kepada pihak berwajib agar pelajar diberi tindakan disipliner sesuai aturan hukum.",
+      "D": "Mendorong pihak sekolah untuk melakukan pembinaan secara mendalam agar para pelajar memahami pentingnya sikap hormat terhadap simbol negara.",
+      "E": "Mengajak masyarakat untuk tidak memviralkan ulang video tersebut agar tidak memperburuk citra generasi muda."
+    },
+    "jawaban": "D",
+    "pembahasan": "Pendidikan karakter melalui pembinaan lebih tepat untuk pelajar daripada hukuman, karena tujuan utamanya adalah pemahaman dan kesadaran, bukan sekadar efek jera."
+  },
+  {
+    "nomor": 19,
+    "subtes": "Tes Wawasan Kebangsaan (TWK)",
+    "soal": "Bela negara tidak hanya menyangkut pertahanan fisik dalam peperangan terbuka, tetapi juga mencakup upaya melindungi negara dari berbagai ancaman non konvensional seperti peretasan data oleh hacker Bjorka yang pernah terjadi di Indonesia. Dalam konteks ini, langkah yang paling tepat dilakukan pemerintah untuk menjaga kedaulatan dan keamanan nasional adalah ...",
+    "pilihan": {
+      "A": "Meningkatkan anggaran pertahanan nasional untuk modernisasi alat utama sistem persenjataan (alutsista) guna menghadapi potensi serangan militer dari negara lain.",
+      "B": "Mengembangkan dan memperkuat sistem keamanan siber nasional serta meningkatkan literasi digital masyarakat melalui edukasi dan pelatihan berkala.",
+      "C": "Mempererat kerja sama diplomatik dengan negara-negara sahabat untuk menciptakan stabilitas politik dan keamanan kawasan.",
+      "D": "Memberikan sanksi sosial maupun administratif kepada warga negara yang tidak menunjukkan partisipasi dalam kegiatan bela negara.",
+      "E": "Menambah personel militer dan meningkatkan patroli di wilayah perbatasan negara untuk mencegah infiltrasi dari luar negeri."
+    },
+    "jawaban": "B",
+    "pembahasan": "Ancaman siber seperti peretasan data memerlukan respons spesifik di bidang keamanan siber dan literasi digital, bukan sekadar peningkatan alutsista atau patroli perbatasan."
+  },
+  {
+    "nomor": 20,
+    "subtes": "Tes Wawasan Kebangsaan (TWK)",
+    "soal": "Di era digital saat ini, disinformasi telah menjadi senjata non fisik yang sangat efektif dalam melemahkan ketahanan suatu negara. Dalam konteks pertahanan negara, penyebaran informasi palsu atau menyesatkan secara sistematis dapat memecah belah masyarakat, menurunkan kepercayaan terhadap institusi negara, hingga melemahkan semangat bela negara. Ketika terjadi situasi geopolitik yang memanas, sebuah narasi yang menyudutkan TNI dan memutarbalikkan fakta peristiwa perbatasan viral di media sosial. Dalam situasi seperti ini, langkah paling strategis yang mencerminkan kesadaran bela negara adalah ….",
+    "pilihan": {
+      "A": "Membentuk opini tandingan melalui media sosial untuk melawan narasi yang beredar, meskipun menggunakan informasi yang belum sepenuhnya diverifikasi.",
+      "B": "Menggalang dukungan publik untuk mendesak pemerintah menindak penyebar disinformasi tanpa perlu menunggu proses hukum.",
+      "C": "Menyebarkan ulang informasi dari media yang searah dengan sikap pribadi agar narasi yang sejalan bisa lebih mendominasi ruang publik.",
+      "D": "Memverifikasi informasi melalui sumber resmi dan menyebarkan klarifikasi dengan cara yang tidak provokatif untuk menjaga keutuhan sosial.",
+      "E": "Menyampaikan kritik terhadap pemerintah secara terbuka agar masyarakat tidak hanya menerima informasi sepihak dari negara."
+    },
+    "jawaban": "D",
+    "pembahasan": "Kesadaran bela negara di era digital diwujudkan dengan verifikasi informasi dari sumber resmi dan menyebarkan klarifikasi secara tidak provokatif, bukan dengan opini tandingan yang belum terverifikasi."
+  },
+  {
+    "nomor": 21,
+    "subtes": "Tes Wawasan Kebangsaan (TWK)",
+    "soal": "Cermati paragraf berikut! (1) Raja ampat merupakan kenekaragaman hayati laut tertinggi di dunia. (2) Namun, masuknya pertambangan nikel membuat dilema antara menjaga ekosistem lingkungan atau pertumbuhan ekonomi Indonesia bagian papua barat daya yang dianggap perlu dan membutuhkan pertumbuhan berkelanjutan bukan sekedar pembangunan pemerataan infrastruktur melainkan sumber daya manusia. (3) Raja Ampat dikenali dengan keindahan laut dan pemandangannya. (4) Pulau ini diakui sebagai rumah bagi keanekaragaman hayati terumbu karang terbesar di dunia. (5) Dengan lebih dari 550 varietas karang yang berbeda, 700 jenis moluska, dan 1.427 spesies ikan yang berbeda, wilayah ini merupakan pusat keanekaragaman hayati laut yang signifikan. (6) Tujuh puluh lima persen dari seluruh spesies karang yang diketahui dapat ditemukan di perairan sekitar Kepulauan Raja Ampat, yang merupakan rumah bagi beberapa spesies paling beragam di dunia. Kalimat yang berisi opini pada paragraf di atas yaitu ....",
+    "pilihan": {
+      "A": "(1) dan (2)",
+      "B": "(2) dan (3)",
+      "C": "(3) dan (4)",
+      "D": "(4) dan (5)",
+      "E": "(5) dan (6)"
+    },
+    "jawaban": "B",
+    "pembahasan": "Kalimat (2) mengandung opini tentang 'dilema' dan 'dianggap perlu', sedangkan kalimat (3) berisi opini tentang 'keindahan' (subjektif). Kalimat lainnya bersifat faktual."
+  },
+  {
+    "nomor": 22,
+    "subtes": "Tes Wawasan Kebangsaan (TWK)",
+    "soal": "Dalam era globalisasi dan kemajuan teknologi informasi, ancaman terhadap kedaulatan negara tidak hanya berbentuk fisik atau militer, tetapi juga berupa ancaman non tradisional seperti perang informasi, disinformasi, intoleransi, dan melemahnya semangat kebangsaan. Sebagai seorang warga negara yang tidak memiliki profesi militer atau aparat negara, bentuk kontribusi nyata dalam bela negara yang paling relevan dengan kondisi tersebut Adalah ….",
+    "pilihan": {
+      "A": "Menyebarkan konten-konten nasionalisme di media sosial untuk menumbuhkan kebanggaan terhadap bangsa sendiri.",
+      "B": "Melawan semua bentuk kritik terhadap pemerintah karena dianggap melemahkan persatuan dan kesatuan bangsa.",
+      "C": "Mengembangkan kemampuan berpikir kritis agar tidak mudah terpengaruh hoaks atau narasi yang memecah belah bangsa.",
+      "D": "Mengajak orang lain untuk selalu mendukung setiap kebijakan pemerintah tanpa mempertanyakan isinya.",
+      "E": "Menolak segala bentuk budaya asing yang masuk ke Indonesia demi menjaga keaslian identitas nasional."
+    },
+    "jawaban": "C",
+    "pembahasan": "Ancaman non-tradisional seperti disinformasi membutuhkan pertahanan berupa kemampuan berpikir kritis masyarakat. Ini adalah kontribusi bela negara yang paling relevan bagi warga sipil."
+  },
+  {
+    "nomor": 23,
+    "subtes": "Tes Wawasan Kebangsaan (TWK)",
+    "soal": "Pemerintah meluncurkan program Makan Bergizi Gratis sebagai upaya meningkatkan gizi dan kesehatan anak-anak sekolah. Namun dalam implementasinya, beberapa insiden keracunan makanan terjadi di sejumlah daerah. Situasi ini menimbulkan kekhawatiran dan perdebatan di tengah masyarakat. Sebagai warga negara yang memahami pentingnya program strategis nasional dan juga peduli terhadap keselamatan publik, sikap yang paling tepat dalam merespons kejadian tersebut adalah ….",
+    "pilihan": {
+      "A": "Mengusulkan kepada pihak sekolah agar menghentikan sementara distribusi makanan sampai ada jaminan keamanan pangan.",
+      "B": "Mendukung investigasi terhadap insiden keracunan sambil terus mendorong kelanjutan program dengan perbaikan sistem pengawasan.",
+      "C": "Menyarankan agar program dihentikan di daerah-daerah yang belum memiliki fasilitas pengecekan kualitas makanan.",
+      "D": "Meminta pemerintah pusat mengevaluasi seluruh program dan menunda pelaksanaannya hingga ada SOP yang lebih ketat.",
+      "E": "Mengadvokasi keterlibatan orang tua dalam pengawasan distribusi makanan agar risiko serupa tidak terulang."
+    },
+    "jawaban": "B",
+    "pembahasan": "Sikap yang tepat adalah keseimbangan antara mendukung program strategis nasional dan memastikan keselamatan publik melalui investigasi serta perbaikan sistem pengawasan, bukan menghentikan program."
+  },
+  {
+    "nomor": 24,
+    "subtes": "Tes Wawasan Kebangsaan (TWK)",
+    "soal": "Secara geografis, Indonesia terletak di antara dua benua (Asia dan Australia) dan dua samudra (Hindia dan Pasifik). Posisi ini menjadikan Indonesia sebagai jalur perdagangan internasional yang sangat penting dan strategis. Namun, di sisi lain sebagian masyarakat Indonesia masih hidup dalam kondisi ekonomi yang memprihatinkan, terutama di daerah tertinggal dan kepulauan terpencil. Sebagai Aparatur Sipil Negara (ASN) yang ditugaskan di kawasan pesisir yang memiliki potensi perdagangan laut internasional, Anda melihat bahwa daerah tersebut belum berkembang secara ekonomi. Fasilitas pelabuhan kurang memadai, akses transportasi terbatas, dan mayoritas masyarakat menggantungkan hidup pada sektor informal dengan pendapatan rendah. Dalam konteks posisi strategis Indonesia dan upaya pemerataan ekonomi, apa pendekatan yang paling tepat untuk dilakukan ….",
+    "pilihan": {
+      "A": "Mendorong masyarakat lokal untuk meningkatkan aktivitas ekonomi secara mandiri tanpa terlalu bergantung pada pemerintah agar mereka lebih mandiri dan tidak menunggu bantuan pusat.",
+      "B": "Mengusulkan pembangunan infrastruktur besar-besaran seperti pelabuhan dan kawasan industri secara langsung kepada pemerintah pusat karena hal tersebut merupakan tanggung jawab nasional.",
+      "C": "Mengidentifikasi potensi lokal berbasis posisi strategis wilayah lalu memfasilitasi program pemberdayaan ekonomi masyarakat agar mereka mampu terlibat aktif dalam kegiatan ekonomi yang lebih produktif dan berkelanjutan.",
+      "D": "Mengajak investor asing untuk mengelola sumber daya lokal agar daerah berkembang lebih cepat sekalipun sebagian hasilnya tidak sepenuhnya dinikmati oleh masyarakat lokal.",
+      "E": "Mengalihkan masyarakat dari sektor informal ke sektor formal secara cepat agar sesuai dengan sistem ekonomi nasional dan terdata dalam regulasi pemerintah."
+    },
+    "jawaban": "C",
+    "pembahasan": "Pendekatan pemberdayaan berbasis potensi lokal yang melibatkan masyarakat secara aktif adalah yang paling berkelanjutan dan sesuai dengan prinsip otonomi daerah serta pemerataan ekonomi."
+  },
+  {
+    "nomor": 25,
+    "subtes": "Tes Wawasan Kebangsaan (TWK)",
+    "soal": "Dalam pelaksanaan Pemilu di suatu daerah, ditemukan bahwa seorang penyelenggara pemilu di tingkat kecamatan secara tidak langsung mengarahkan pemilih untuk memilih kandidat tertentu melalui pemberian informasi yang menyesatkan tentang program salah satu calon. Meskipun tidak ada bukti transaksi uang atau intimidasi, tindakan ini memengaruhi persepsi pemilih dan menimbulkan keraguan publik terhadap netralitas penyelenggara pemilu. Kasus tersebut menimbulkan pertanyaan mengenai integritas lembaga pemilu dan potensi pelanggaran terhadap asas langsung, umum, bebas, rahasia, jujur, dan adil (LUBER JURDIL) dalam pemilu. Dalam konteks penguatan integritas penyelenggara pemilu, langkah manakah yang paling tepat dilakukan oleh pemerintah dan lembaga terkait ….",
+    "pilihan": {
+      "A": "Memberhentikan penyelenggara tersebut dan menggantinya dengan perwakilan dari partai politik sebagai bentuk keadilan perwakilan.",
+      "B": "Membiarkan kasus tersebut karena tidak ditemukan bukti kuat pelanggaran hukum atau tindak pidana pemilu.",
+      "C": "Melakukan pembinaan terhadap penyelenggara pemilu agar memahami pentingnya mendukung kandidat yang diyakini paling layak.",
+      "D": "Mengusut tuntas kasus tersebut melalui mekanisme etik dan hukum serta memperkuat sistem pengawasan partisipatif oleh masyarakat sipil.",
+      "E": "Menunda hasil pemilu di daerah tersebut sampai ditemukan bukti konkret pelanggaran atau tidak adanya pengaruh terhadap hasil suara."
+    },
+    "jawaban": "D",
+    "pembahasan": "Penguatan integritas pemilu memerlukan penegakan etik dan hukum terhadap penyelenggara yang melanggar netralitas, serta pengawasan partisipatif masyarakat untuk mencegah kejadian serupa."
+  },
+  {
+    "nomor": 26,
+    "subtes": "Tes Wawasan Kebangsaan (TWK)",
+    "soal": "Kongres Pemuda I (1926) dan Kongres Pemuda II (1928) merupakan tonggak penting dalam sejarah pergerakan nasional Indonesia. Dalam konteks integritas, hubungan yang paling tepat antara kedua kongres tersebut adalah ….",
+    "pilihan": {
+      "A": "Kongres Pemuda I dan II merupakan dua peristiwa yang berdiri sendiri dan tidak saling berkaitan secara langsung, karena masing-masing digagas oleh organisasi yang berbeda dan memiliki tujuan berbeda, sehingga tidak bisa dijadikan satu rangkaian perjuangan nasional yang utuh.",
+      "B": "Kongres Pemuda I menjadi wadah awal bagi diskusi antarorganisasi pemuda, namun tidak menghasilkan keputusan yang signifikan, sementara Kongres Pemuda II menjadi momen penting dalam perumusan identitas nasional melalui Sumpah Pemuda, sehingga keduanya tidak bisa disamakan dalam hal integritas perjuangan.",
+      "C": "Kongres Pemuda I hanya bersifat lokal dan terbatas pada kelompok pemuda di Pulau Jawa, sedangkan Kongres Pemuda II bersifat nasional karena melibatkan semua unsur masyarakat, sehingga hubungan keduanya lebih menunjukkan kontras daripada kesinambungan dalam perjuangan.",
+      "D": "Kedua kongres tersebut menunjukkan perbedaan pendekatan dalam perjuangan kemerdekaan, di mana Kongres Pemuda I lebih menekankan kerja sama internal antarorganisasi, sedangkan Kongres Pemuda II menekankan perlawanan terhadap penjajah, sehingga tidak dapat dikaitkan dalam satu kerangka integritas nasional.",
+      "E": "Kongres Pemuda I merupakan fondasi awal yang mempertemukan berbagai organisasi pemuda dari berbagai latar belakang untuk menjajaki persatuan, sementara Kongres Pemuda II menjadi puncak manifestasi integritas nasional melalui pengakuan satu tanah air, satu bangsa, dan satu bahasa Indonesia yang menunjukkan kesinambungan perjuangan menuju persatuan."
+    },
+    "jawaban": "E",
+    "pembahasan": "Kongres Pemuda I dan II memiliki hubungan kesinambungan: Kongres I sebagai fondasi awal pertemuan organisasi pemuda, Kongres II sebagai puncak yang melahirkan Sumpah Pemuda sebagai ikrar persatuan nasional."
+  },
+  {
+    "nomor": 27,
+    "subtes": "Tes Wawasan Kebangsaan (TWK)",
+    "soal": "Indonesia merupakan negara dengan jumlah penduduk terbesar keempat di dunia dan kelas menengah yang terus tumbuh. Hal ini menjadikan Indonesia sebagai target utama pasar konsumen bagi berbagai negara maju dan perusahaan multinasional. Produk lokal seringkali kalah bersaing karena keterbatasan modal, teknologi, dan akses distribusi. Di tengah upaya meningkatkan pertumbuhan ekonomi dan keterbukaan pasar global, pemerintah juga dihadapkan pada tantangan menjaga kedaulatan ekonomi nasional dan memberdayakan industri dalam negeri. Kebijakan pemerintah yang paling tepat dan strategis untuk menjaga posisi Indonesia agar tidak hanya menjadi pasar bagi produk asing adalah ….",
+    "pilihan": {
+      "A": "Memperluas perjanjian dagang bebas dengan negara-negara maju agar lebih banyak produk asing masuk demi menurunkan harga barang konsumsi dan meningkatkan daya beli masyarakat kelas menengah.",
+      "B": "Mendorong pertumbuhan konsumsi nasional melalui pemberian subsidi besar-besaran terhadap produk impor yang dianggap esensial agar masyarakat tidak kesulitan dalam memenuhi kebutuhan sehari-hari.",
+      "C": "Meningkatkan ketergantungan terhadap produk impor dengan alasan efisiensi biaya dan kualitas sambil menunda pengembangan industri dalam negeri sampai Indonesia memiliki daya saing global yang cukup.",
+      "D": "Mengembangkan industri dalam negeri melalui kebijakan afirmatif seperti insentif pajak, proteksi produk lokal, penguatan UMKM, serta pengawasan ketat terhadap dominasi produk asing demi mewujudkan kedaulatan ekonomi yang adil dan berkelanjutan.",
+      "E": "Membuka seluruh sektor ekonomi tanpa batas untuk investasi asing dengan asumsi bahwa masuknya modal asing secara otomatis akan meningkatkan produktivitas dan keberdayaan ekonomi nasional."
+    },
+    "jawaban": "D",
+    "pembahasan": "Kedaulatan ekonomi diwujudkan melalui pengembangan industri dalam negeri dengan kebijakan afirmatif (insentif, proteksi, penguatan UMKM) sehingga Indonesia tidak hanya menjadi pasar produk asing."
+  },
+  {
+    "nomor": 28,
+    "subtes": "Tes Wawasan Kebangsaan (TWK)",
+    "soal": "Pemerintah Indonesia telah meluncurkan berbagai program untuk mendorong pemerataan pendidikan, seperti Program Indonesia Pintar (PIP), pembangunan sekolah di daerah 3T (Tertinggal, Terdepan, dan Terluar), dan penguatan peran guru melalui Program Guru Penggerak. Namun hingga saat ini, ketimpangan akses dan kualitas pendidikan antara wilayah perkotaan dan pedesaan masih menjadi tantangan serius. Jika tujuan negara yang tercantum dalam Pembukaan UUD 1945 adalah mencerdaskan kehidupan bangsa, maka langkah kebijakan yang paling tepat untuk mempercepat pemerataan pendidikan adalah ….",
+    "pilihan": {
+      "A": "Meningkatkan kuantitas dan kualitas sekolah berbasis teknologi tinggi di kota-kota besar sebagai pusat unggulan pendidikan nasional dengan harapan efek domino akan dirasakan oleh daerah sekitarnya.",
+      "B": "Memberikan insentif beasiswa dan fasilitas tambahan kepada siswa berprestasi di wilayah perkotaan agar mereka dapat menjadi agen perubahan yang nantinya dapat membantu memajukan daerah tertinggal.",
+      "C": "Memfokuskan alokasi anggaran pendidikan untuk membangun dan meningkatkan kualitas sekolah serta kompetensi tenaga pendidik di daerah tertinggal, terdepan, dan terluar (3T) agar kesenjangan akses dan mutu pendidikan dapat dikurangi secara langsung.",
+      "D": "Mengalihkan sebagian dana pendidikan ke sektor infrastruktur jalan dan transportasi nasional dengan asumsi bahwa kemajuan infrastruktur akan secara tidak langsung mendukung akses pendidikan di seluruh wilayah.",
+      "E": "Meningkatkan jumlah pelatihan daring dan program digitalisasi sekolah secara merata di seluruh Indonesia tanpa mempertimbangkan kesiapan infrastruktur internet dan listrik di setiap daerah."
+    },
+    "jawaban": "C",
+    "pembahasan": "Untuk mengatasi ketimpangan akses dan mutu pendidikan, kebijakan yang paling tepat adalah memfokuskan anggaran pada daerah 3T secara langsung, bukan pada efek domino atau asumsi tidak langsung."
+  },
+  {
+    "nomor": 29,
+    "subtes": "Tes Wawasan Kebangsaan (TWK)",
+    "soal": "Dalam rangka menegakkan supremasi hukum, aparat penegak hukum di Indonesia dituntut untuk bertindak tegas terhadap pelanggaran hukum termasuk dalam penanganan kasus kejahatan luar biasa seperti terorisme, korupsi, dan narkotika. Namun, dalam praktiknya terdapat kekhawatiran bahwa tindakan represif yang tidak proporsional justru dapat mengabaikan hak-hak dasar tersangka, seperti hak atas proses hukum yang adil, hak untuk tidak disiksa, dan hak atas perlindungan hukum. Dalam konteks tersebut, manakah strategi yang paling tepat dilakukan pemerintah untuk memastikan penegakan hukum tetap berada dalam koridor keadilan dan penghormatan terhadap HAM ….",
+    "pilihan": {
+      "A": "Menegakkan hukum dengan prinsip proporsionalitas dan akuntabilitas guna mencegah penyalahgunaan wewenang oleh aparat.",
+      "B": "Melaksanakan penegakan hukum berdasarkan asas praduga tak bersalah serta perlindungan hak-hak tersangka dan korban.",
+      "C": "Meningkatkan kapasitas aparat penegak hukum agar mampu menjalankan tugas secara profesional dan sesuai prinsip HAM.",
+      "D": "Mengintegrasikan prinsip-prinsip HAM ke dalam sistem hukum dan proses penegakan hukum secara konsisten dan menyeluruh.",
+      "E": "Membangun mekanisme pengawasan dan evaluasi terhadap tindakan penegakan hukum agar tidak melampaui batas kewenangan."
+    },
+    "jawaban": "D",
+    "pembahasan": "Integrasi prinsip HAM secara konsisten dan menyeluruh ke dalam sistem hukum dan proses penegakan hukum adalah strategi paling komprehensif untuk memastikan supremasi hukum tetap menghormati HAM."
+  },
+  {
+    "nomor": 30,
+    "subtes": "Tes Wawasan Kebangsaan (TWK)",
+    "soal": "Perhatikan kutipan berikut! Rina duduk termenung di sudut perpustakaan, mencoba memahami satu per satu halaman buku yang ada di depannya. Hatinya masih gelisah memikirkan hasil wawancara kerja kemarin. Ia merasa jawabannya kurang meyakinkan, namun tak bisa berhenti berharap. Di sekelilingnya, orang-orang berlalu lalang, namun ia bahkan tak menyadarinya. Dunia luar seperti tak ada karena yang ia pikirkan hanya kegagalan dan kemungkinan. Sudut pandang yang digunakan dalam kutipan tersebut adalah ….",
+    "pilihan": {
+      "A": "Orang pertama pelaku utama",
+      "B": "Orang pertama saksi",
+      "C": "Orang ketiga terbatas",
+      "D": "Orang ketiga serba tahu",
+      "E": "Orang kedua langsung"
+    },
+    "jawaban": "C",
+    "pembahasan": "Kutipan menggunakan sudut pandang orang ketiga terbatas (hanya mengetahui pikiran dan perasaan tokoh 'Rina', bukan tokoh lain). Kata ganti 'ia' dan narator yang mengetahui isi hati Rina menunjukkan sudut pandang orang ketiga terbatas."
+  },
+  {
+    "nomor": 1,
+    "subtes": "Tes Inteligensi Umum (TIU)",
+    "soal": "Pegawai tersebut memulai karir sebagai staf, kemudian supervisor, dan manajer. Hubungan antarobjek yang sama terdapat pada ….",
+    "pilihan": {
+      "A": "Wisatawan mengunjungi pantai, gunung, dan danau.",
+      "B": "Anak itu mengikuti pelatihan fisik, mental, dan emosional.",
+      "C": "Mahasiswa tersebut mengenyam pendidikan mulai dari pendidikan dasar, menengah, dan atas.",
+      "D": "Penulis itu menulis artikel, buku, dan cerpen.",
+      "E": "Pengusaha memulai bisnis kecil, menengah, hingga besar."
+    },
+    "jawaban": "C",
+    "pembahasan": "Hubungan dalam soal adalah tahapan berjenjang (staf-supervisor-manajer). Pola yang sama adalah jenjang pendidikan dasar-menengah-tinggi. Opsi E (kecil-menengah-besar) juga berjenjang tetapi objeknya 'bisnis' bukan 'jenjang karir/pendidikan' yang lebih sesuai dengan analogi awal."
+  },
+  {
+    "nomor": 2,
+    "subtes": "Tes Inteligensi Umum (TIU)",
+    "soal": "IKAN : BERENANG : INSANG = ....",
+    "pilihan": {
+      "A": "Kadal : melata : kulit",
+      "B": "Manusia : berjalan : paru-paru",
+      "C": "Rayap : insang : merayap",
+      "D": "Penyu : berjalan : insang",
+      "E": "Manusia : berenang : paru-paru"
+    },
+    "jawaban": "B",
+    "pembahasan": "Pola: hewan : aktivitas gerak : alat gerak/alat pernapasan yang digunakan. Ikan berenang menggunakan insang. Manusia berjalan menggunakan paru-paru (untuk bernapas saat berjalan). Opsi E salah karena manusia berenang menggunakan paru-paru, tetapi aktivitas 'berenang' tidak tepat karena analogi awal 'berenang' untuk ikan, sedangkan manusia lebih tepat 'berjalan'."
+  },
+  {
+    "nomor": 3,
+    "subtes": "Tes Inteligensi Umum (TIU)",
+    "soal": "KITA : SAYA = ....",
+    "pilihan": {
+      "A": "Kami : kamu",
+      "B": "Kalian : beliau",
+      "C": "Dia : kalian",
+      "D": "Beliau : kami",
+      "E": "Mereka : dia"
+    },
+    "jawaban": "E",
+    "pembahasan": "Pola: kata ganti orang pertama jamak (kita) berpasangan dengan kata ganti orang pertama tunggal (saya). Maka pasangan yang tepat adalah kata ganti orang ketiga jamak (mereka) dengan kata ganti orang ketiga tunggal (dia)."
+  },
+  {
+    "nomor": 4,
+    "subtes": "Tes Inteligensi Umum (TIU)",
+    "soal": "[IMAGE: hasil_sscpns/CAT SKD 05 - 2526/Images/img_0_1780646208895_4066.png]",
+    "pilihan": {
+      "A": "[IMAGE: hasil_sscpns/CAT SKD 05 - 2526/Images/img_0_1780646208904_3695.png]",
+      "B": "[IMAGE: hasil_sscpns/CAT SKD 05 - 2526/Images/img_0_1780646208905_4925.png]",
+      "C": "[IMAGE: hasil_sscpns/CAT SKD 05 - 2526/Images/img_0_1780646208908_3287.png]",
+      "D": "[IMAGE: hasil_sscpns/CAT SKD 05 - 2526/Images/img_0_1780646208909_2238.png]",
+      "E": "[IMAGE: hasil_sscpns/CAT SKD 05 - 2526/Images/img_0_1780646208911_3318.png]"
+    },
+    "jawaban": "A",
+    "pembahasan": ""
+  },
+  {
+    "nomor": 5,
+    "subtes": "Tes Inteligensi Umum (TIU)",
+    "soal": "[IMAGE: hasil_sscpns/CAT SKD 05 - 2526/Images/img_0_1780646208916_2166.png]",
+    "pilihan": {
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "6",
+      "E": "7"
+    },
+    "jawaban": "C",
+    "pembahasan": ""
+  },
+  {
+    "nomor": 6,
+    "subtes": "Tes Inteligensi Umum (TIU)",
+    "soal": "[IMAGE: hasil_sscpns/CAT SKD 05 - 2526/Images/img_0_1780646208924_8393.png]",
+    "pilihan": {
+      "A": "7/15",
+      "B": "3/8",
+      "C": "8/12",
+      "D": "4/9",
+      "E": "5/7"
+    },
+    "jawaban": "D",
+    "pembahasan": ""
+  },
+  {
+    "nomor": 7,
+    "subtes": "Tes Inteligensi Umum (TIU)",
+    "soal": "[IMAGE: hasil_sscpns/CAT SKD 05 - 2526/Images/img_0_1780646208932_8882.png]",
+    "pilihan": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5",
+      "E": "6"
+    },
+    "jawaban": "E",
+    "pembahasan": ""
+  },
+  {
+    "nomor": 8,
+    "subtes": "Tes Inteligensi Umum (TIU)",
+    "soal": "[IMAGE: hasil_sscpns/CAT SKD 05 - 2526/Images/img_0_1780646208941_580.png]",
+    "pilihan": {
+      "A": "[IMAGE: hasil_sscpns/CAT SKD 05 - 2526/Images/img_0_1780646208949_9192.png]",
+      "B": "[IMAGE: hasil_sscpns/CAT SKD 05 - 2526/Images/img_0_1780646208951_9455.png]",
+      "C": "[IMAGE: hasil_sscpns/CAT SKD 05 - 2526/Images/img_0_1780646208953_2511.png]",
+      "D": "[IMAGE: hasil_sscpns/CAT SKD 05 - 2526/Images/img_0_1780646208955_8865.png]",
+      "E": "[IMAGE: hasil_sscpns/CAT SKD 05 - 2526/Images/img_0_1780646208957_5157.png]"
+    },
+    "jawaban": "C",
+    "pembahasan": ""
+  },
+  {
+    "nomor": 9,
+    "subtes": "Tes Inteligensi Umum (TIU)",
+    "soal": "[IMAGE: hasil_sscpns/CAT SKD 05 - 2526/Images/img_0_1780646208963_6668.png]",
+    "pilihan": {
+      "A": "[IMAGE: hasil_sscpns/CAT SKD 05 - 2526/Images/img_0_1780646208971_5877.png]",
+      "B": "[IMAGE: hasil_sscpns/CAT SKD 05 - 2526/Images/img_0_1780646208974_7104.png]",
+      "C": "[IMAGE: hasil_sscpns/CAT SKD 05 - 2526/Images/img_0_1780646208976_6484.png]",
+      "D": "[IMAGE: hasil_sscpns/CAT SKD 05 - 2526/Images/img_0_1780646208978_9288.png]",
+      "E": "[IMAGE: hasil_sscpns/CAT SKD 05 - 2526/Images/img_0_1780646208980_9977.png]"
+    },
+    "jawaban": "D",
+    "pembahasan": ""
+  },
+  {
+    "nomor": 10,
+    "subtes": "Tes Inteligensi Umum (TIU)",
+    "soal": "Boni memiliki jadwal makan sebanyak 3 kali sehari, di mana setiap kali makan ia membutuhkan waktu 25 menit. Dengan asumsi waktu yang dibutuhkan untuk Boni makan konstan, manakah hubungan yang benar antara kuantitas P dan Q berikut berdasarkan informasi yang diberikan? P Q Waktu (dalam menit) yang dibutuhkan Boni untuk makan selama 6 hari 500 menit",
+    "pilihan": {
+      "A": "[IMAGE: hasil_sscpns/CAT SKD 05 - 2526/Images/img_0_1780646208994_3334.png]",
+      "B": "[IMAGE: hasil_sscpns/CAT SKD 05 - 2526/Images/img_0_1780646208996_8518.png]",
+      "C": "[IMAGE: hasil_sscpns/CAT SKD 05 - 2526/Images/img_0_1780646208998_2954.png]",
+      "D": "[IMAGE: hasil_sscpns/CAT SKD 05 - 2526/Images/img_0_1780646209001_7788.png]",
+      "E": "[IMAGE: hasil_sscpns/CAT SKD 05 - 2526/Images/img_0_1780646209003_3091.png]"
+    },
+    "jawaban": "B",
+    "pembahasan": "Perhitungan: 3 kali/hari × 25 menit = 75 menit/hari. Selama 6 hari = 75 × 6 = 450 menit. Maka P = 450, Q = 500, sehingga P < Q."
+  },
+  {
+    "nomor": 11,
+    "subtes": "Tes Inteligensi Umum (TIU)",
+    "soal": "[IMAGE: hasil_sscpns/CAT SKD 05 - 2526/Images/img_0_1780646209008_7643.png]",
+    "pilihan": {
+      "A": "[IMAGE: hasil_sscpns/CAT SKD 05 - 2526/Images/img_0_1780646209020_732.png]",
+      "B": "[IMAGE: hasil_sscpns/CAT SKD 05 - 2526/Images/img_0_1780646209023_9319.png]",
+      "C": "[IMAGE: hasil_sscpns/CAT SKD 05 - 2526/Images/img_0_1780646209026_2329.png]",
+      "D": "[IMAGE: hasil_sscpns/CAT SKD 05 - 2526/Images/img_0_1780646209028_7564.png]",
+      "E": "[IMAGE: hasil_sscpns/CAT SKD 05 - 2526/Images/img_0_1780646209031_1545.png]"
+    },
+    "jawaban": "B",
+    "pembahasan": ""
+  },
+  {
+    "nomor": 12,
+    "subtes": "Tes Inteligensi Umum (TIU)",
+    "soal": "Sebuah perusahaan menyediakan air mineral sebanyak X liter, yang cukup untuk memenuhi kebutuhan 200 orang selama 30 hari. Jika jumlah air mineral tersebut berkurang sebesar 20% karena pengurangan pasokan, dan jumlah orang yang menggunakan air tersebut hanya 150 orang, berapa hari air mineral yang tersisa dapat digunakan hingga habis?",
+    "pilihan": {
+      "A": "32 hari",
+      "B": "36 hari",
+      "C": "40 hari",
+      "D": "45 hari",
+      "E": "48 hari"
+    },
+    "jawaban": "A",
+    "pembahasan": "Volume awal cukup untuk 200 orang × 30 hari = 6.000 orang-hari. Setelah berkurang 20%, volume menjadi 80% × 6.000 = 4.800 orang-hari. Untuk 150 orang: 4.800 ÷ 150 = 32 hari."
+  },
+  {
+    "nomor": 13,
+    "subtes": "Tes Inteligensi Umum (TIU)",
+    "soal": "Sebanyak 20 pekerja dapat menyelesaikan pembangunan sebuah rumah selama 30 hari. Setelah dikerjakan selama 6 hari, pekerjaan dihentikan sementara selama 16 hari karena masalah yang tidak dapat dihindari. Jika kemampuan setiap orang sama dan supaya renovasi rumah dapat selesai tepat waktu, maka tambahan pekerja yang dibutuhkan yaitu ....",
+    "pilihan": {
+      "A": "20 orang",
+      "B": "30 orang",
+      "C": "40 orang",
+      "D": "50 orang",
+      "E": "60 orang"
+    },
+    "jawaban": "C",
+    "pembahasan": "Total volume pekerjaan = 20 × 30 = 600 orang-hari. Pekerjaan selesai 6 hari = 20 × 6 = 120 orang-hari. Sisa = 480 orang-hari. Sisa waktu = 30 - 6 - 16 = 8 hari. Dengan n pekerja: n × 8 = 480 → n = 60 pekerja. Tambahan = 60 - 20 = 40 orang."
+  },
+  {
+    "nomor": 14,
+    "subtes": "Tes Inteligensi Umum (TIU)",
+    "soal": "Suatu proyek besar direncanakan selesai dalam waktu 180 hari jika dikerjakan oleh 15 orang dengan beban kerja yang konsisten setiap harinya. Setelah proyek berjalan selama 120 hari, ditambah 5 pekerja lagi agar pekerjaan dapat selesai lebih cepat. Berapa total waktu yang dibutuhkan untuk menyelesaikan proyek tersebut setelah adanya tambahan pekerja?",
+    "pilihan": {
+      "A": "160 hari",
+      "B": "165 hari",
+      "C": "170 hari",
+      "D": "175 hari",
+      "E": "180 hari"
+    },
+    "jawaban": "B",
+    "pembahasan": "Total volume = 15 × 180 = 2.700 orang-hari. Pekerjaan selesai 120 hari = 15 × 120 = 1.800 orang-hari. Sisa = 900 orang-hari. Pekerja menjadi 15+5=20 orang. Sisa waktu = 900 ÷ 20 = 45 hari. Total waktu = 120 + 45 = 165 hari."
+  },
+  {
+    "nomor": 15,
+    "subtes": "Tes Inteligensi Umum (TIU)",
+    "soal": "Sebuah perusahaan memiliki 15 printer yang menyelesaikan pekerjaan mencetak dalam waktu 2 jam. Namun, hanya 6 printer yang digunakan saat ini. Kemudian pekerja yang bertugas untuk mengawasi printer mendapatkan jatah istirahat selama 1 jam. Berapa lama waktu yang dibutuhkan untuk menyelesaikan seluruh pekerjaan mencetak?",
+    "pilihan": {
+      "A": "4 jam",
+      "B": "5 jam",
+      "C": "6 jam",
+      "D": "7 jam",
+      "E": "8 jam"
+    },
+    "jawaban": "C",
+    "pembahasan": "Volume pekerjaan = 15 printer × 2 jam = 30 printer-jam. Dengan 6 printer: waktu = 30 ÷ 6 = 5 jam. Karena pengawas istirahat 1 jam (printer tetap bekerja), maka waktu riil tetap 5 jam. Namun jika pertanyaan dimaksudkan waktu dari awal hingga selesai termasuk istirahat pengawas, tetapi printer tetap mencetak, maka tetap 5 jam. Tapi jawaban yang tersedia 5 jam tidak ada, maka kemungkinan interpretasi berbeda. Hitung ulang: 15 printer 2 jam → 6 printer = 5 jam. Karena ada istirahat 1 jam, selama istirahat printer tetap berjalan, jadi tetap 5 jam. Namun jawaban 5 jam tidak ada di opsi. Periksa: 15 printer × 2 jam = 30 printer-jam. 6 printer → 5 jam. Tidak ada opsi 5. Kemungkinan soal memaksudkan istirahat memperlambat karena pengawas yang mengoperasikan? Maka 5 jam + 1 jam istirahat = 6 jam (opsi C)."
+  },
+  {
+    "nomor": 16,
+    "subtes": "Tes Inteligensi Umum (TIU)",
+    "soal": "1, 3, 5, 7, 9, 11, 13, ….",
+    "pilihan": {
+      "A": "12",
+      "B": "15",
+      "C": "17",
+      "D": "19",
+      "E": "20"
+    },
+    "jawaban": "B",
+    "pembahasan": "Pola: bilangan ganjil berurutan. Setelah 13 adalah 15."
+  },
+  {
+    "nomor": 17,
+    "subtes": "Tes Inteligensi Umum (TIU)",
+    "soal": "2, 1, 3, 4, 7, 11, 18, ….",
+    "pilihan": {
+      "A": "29",
+      "B": "31",
+      "C": "32",
+      "D": "33",
+      "E": "34"
+    },
+    "jawaban": "A",
+    "pembahasan": "Pola: 2+1=3, 1+3=4, 3+4=7, 4+7=11, 7+11=18, 11+18=29."
+  },
+  {
+    "nomor": 18,
+    "subtes": "Tes Inteligensi Umum (TIU)",
+    "soal": "12, 11, 22, 21, 42, …, ….",
+    "pilihan": {
+      "A": "36",
+      "B": "38",
+      "C": "40",
+      "D": "41",
+      "E": "42"
+    },
+    "jawaban": "D",
+    "pembahasan": "Pola: 12-1=11, 11×2=22, 22-1=21, 21×2=42, 42-1=41, 41×2=82. Maka dua angka berikutnya adalah 41 dan 82. Opsi yang tersedia 41."
+  },
+  {
+    "nomor": 19,
+    "subtes": "Tes Inteligensi Umum (TIU)",
+    "soal": "Beberapa dosen seni rupa adalah pelukis. Semua pelukis dapat melukis dengan baik",
+    "pilihan": {
+      "A": "Beberapa pelukis tidak bisa melukis dengan baik tetapi merupakan dosen seni rupa.",
+      "B": "Beberapa pelukis bukan dosen seni rupa dan tidak melukis dengan baik.",
+      "C": "Semua dosen seni rupa adalah pelukis yang dapat melukis dengan baik.",
+      "D": "Ada pelukis yang juga dosen seni rupa tetapi tidak dapat melukis dengan baik.",
+      "E": "Semua pelukis yang juga dosen seni rupa dapat melukis dengan baik."
+    },
+    "jawaban": "E",
+    "pembahasan": "Premis: (1) Beberapa dosen seni rupa adalah pelukis. (2) Semua pelukis dapat melukis dengan baik. Maka semua pelukis yang juga dosen seni rupa (irisan kedua himpunan) pasti dapat melukis dengan baik. Opsi E tepat."
+  },
+  {
+    "nomor": 20,
+    "subtes": "Tes Inteligensi Umum (TIU)",
+    "soal": "Tanaman yang rajin disiram akan tumbuh subur. Tanaman yang subur menghasilkan banyak buah. Tanaman yang menghasilkan banyak buah dapat menambah penghasilan.",
+    "pilihan": {
+      "A": "Tanaman tidak rajin disiram dan dapat menambah penghasilan.",
+      "B": "Tanaman tidak rajin disiram atau dapat menambah penghasilan.",
+      "C": "Tanaman rajin disiram atau dapat menambah penghasilan.",
+      "D": "Tanaman tidak rajin disiram atau tidak dapat menambah penghasilan.",
+      "E": "Tanaman rajin disiram dan dapat menambah penghasilan."
+    },
+    "jawaban": "B",
+    "pembahasan": "Silogisme: Rajin disiram → subur → banyak buah → tambah penghasilan. Kontraposisi: Jika tidak rajin disiram, maka belum tentu tidak dapat tambah penghasilan (bisa dari sumber lain). Pernyataan yang benar adalah 'tidak rajin disiram atau dapat menambah penghasilan' (setara dengan implikasi: jika rajin disiram maka dapat tambah penghasilan)."
+  },
+  {
+    "nomor": 21,
+    "subtes": "Tes Inteligensi Umum (TIU)",
+    "soal": "Ijazah kelulusan dapat digunakan untuk mendaftar kerja. Seseorang yang sudah sarjana memiliki ijazah kelulusan. Seseorang yang sudah mengikuti wisuda sudah dinyatakan sebagai sarjana.",
+    "pilihan": {
+      "A": "Seseorang yang sudah mengikuti wisuda dapat mendaftar kerja.",
+      "B": "Seseorang yang sudah mendaftar kerja sudah mengikuti wisuda.",
+      "C": "Seseorang yang sudah mengikuti wisuda mungkin belum bisa mendaftar kerja.",
+      "D": "Seseorang yang belum mengikuti wisuda belum dapat mendaftar kerja.",
+      "E": "Seseorang yang sudah mendaftar kerja sudah punya ijazah."
+    },
+    "jawaban": "A",
+    "pembahasan": "Wisuda → sarjana → memiliki ijazah → dapat mendaftar kerja. Maka seseorang yang sudah wisuda pasti dapat mendaftar kerja."
+  },
+  {
+    "nomor": 22,
+    "subtes": "Tes Inteligensi Umum (TIU)",
+    "soal": "Perusahaan jasa iklan ingin mengevaluasi performa lima iklan yang mereka kelola dalam satu periode berdasarkan rating (R) dan kritik (K) yang diterima. Data rating dan kritik tersebut digunakan untuk menghitung total poin yang diperoleh setiap iklan : Nama Iklan Rating dan Kritik A R : 56 K : 42 B R : 91 K : 112 C R : 76 K : 54 D R : 60 K : 72 E R : 84 K : 62 Jika setiap setiap 1 rating mendapatkan poin 10, dan jika setiap kritik poin dikurangi 5. Berdasarkan data di atas, iklan mana yang memiliki poin tertinggi dalam satu periode?",
+    "pilihan": {
+      "A": "Iklan A",
+      "B": "Iklan B",
+      "C": "Iklan C",
+      "D": "Iklan D",
+      "E": "Iklan E"
+    },
+    "jawaban": "E",
+    "pembahasan": "Poin = (R × 10) - (K × 5). A = 560 - 210 = 350. B = 910 - 560 = 350. C = 760 - 270 = 490. D = 600 - 360 = 240. E = 840 - 310 = 530. Tertinggi adalah E (530)."
+  },
+  {
+    "nomor": 23,
+    "subtes": "Tes Inteligensi Umum (TIU)",
+    "soal": "A, B , C, D, dan E adalah nama-nama halte yang terletak di sepanjang garis lurus dari utara ke selatan, dengan ketentuan : A dan B dipisahkan oleh 4 halte. C dan D dipisahkan oleh 6 halte. E dan C dipisahkan oleh 1 halte. B dan C dipisahkan oleh 2 halte. Jika halte B dan halte E berada di sebelah selatan halte C, dan halte D di utara halte C. pernyataan berikut yang pasti benar adalah……",
+    "pilihan": {
+      "A": "D ke E lebih dekat daripada C ke B",
+      "B": "C ke D lebih dekat daripada E ke B",
+      "C": "E ke C lebih jauh pada B ke D",
+      "D": "B ke E lebih dekat daripada C ke D",
+      "E": "Antara C ke B sama dekatnya dengan A ke E"
+    },
+    "jawaban": "D",
+    "pembahasan": "Buat urutan: D di utara C, B dan E di selatan C. C dan D jarak 6, C dan E jarak 1, B dan C jarak 2, A dan B jarak 4. Urutan dari utara: D (posisi 6 dr C), C (0), B (2), E (1? perlu konsistensi). Karena E dan C jarak 1, B dan C jarak 2, dan B dan E di selatan C, maka urutan: D - (6) - C - (1) - E - (1) - B atau C - (1) - B - (1) - E? Tidak konsisten. Hitung: C ke B = 2, C ke E = 1 (berarti E lebih dekat ke C dari B). Karena B dan E di selatan C, maka E di antara C dan B. Urutan: D (6 utara C), C (0), E (1 selatan C), B (2 selatan C). A dan B dipisah 4 halte: A di utara atau selatan? Karena B di selatan, dan jarak A-B=4, maka A di utara B sejauh 4. Maka A di antara C dan B? C ke B = 2, berarti A tidak bisa di antara karena jarak A-B=4 >2. Maka A di selatan B sejauh 4. Urutan utara ke selatan: D -6- C -1- E -1- B -4- A. Jarak B ke E = 1, C ke D = 6, maka B ke E lebih dekat (1) dari C ke D (6)."
+  },
+  {
+    "nomor": 24,
+    "subtes": "Tes Inteligensi Umum (TIU)",
+    "soal": "Ajik, Berna, Cila, Devi, Eva secara acak memiliki kesukaan terhadap makanan bakso, soto, gado-gado, ayam goreng dan nasi liwet. Tiga dari mereka menyukai bakso. Masing-masing dari kelima anak tersebut menyukai dua makanan yang berbeda. Tidak ada yang menyukai bakso juga menyukai gado-gado. Eva menyukai gado-gado. Hanya Ajik dan Berna yang menyukai ayam goreng. Devi dan Cila selalu menyukai makanan yang sama. Jika Ajik menyukai gado-gado maka pernyataan yang pasti benar adalah ….",
+    "pilihan": {
+      "A": "Devi menyukai nasi liwet",
+      "B": "Cila menyukai bakso",
+      "C": "Berna menyukai gado-gado",
+      "D": "Eva menyukai bakso",
+      "E": "Ajik menyukai soto"
+    },
+    "jawaban": "B",
+    "pembahasan": "Diketahui: Eva suka gado-gado. Ajik suka gado-gado (kondisi). Maka Ajik dan Eva suka gado-gado. Karena tidak ada yg suka bakso sekaligus gado-gado, Ajik dan Eva tidak suka bakso. 3 orang suka bakso: sisa Berna, Cila, Devi. Hanya Ajik dan Berna yang suka ayam goreng → Berna suka ayam goreng. Devi dan Cila selalu suka makanan sama. Maka Devi dan Cila pasti berdua suka bakso (karena bakso harus 3 orang: Berna, Cila, Devi → Berna juga suka bakso? Berna suka ayam goreng, bisa suka bakso juga karena masing-masing suka 2 makanan. Maka Cila suka bakso (pasti benar)."
+  },
+  {
+    "nomor": 25,
+    "subtes": "Tes Inteligensi Umum (TIU)",
+    "soal": "Sebuah kelompok mapala akan melakukan perjalanan menuju desa terpencil. Mereka akan menuju Desa P dan akan mulai perjalanan dari Desa K. Desa K terhubung dengan Desa L. Desa L terhubung langsung dengan Desa M , Desa N, dan Desa P. Desa N juga terhubung dengan Desa M, Desa O, dan Desa P. Desa P dapat dijangkau dari Desa O. Berapa jumlah desa yang dapat dilewati kelompok mapala tersebut dalam sekali jalan?",
+    "pilihan": {
+      "A": "6 desa",
+      "B": "5 desa",
+      "C": "4 desa",
+      "D": "3 desa",
+      "E": "2 desa"
+    },
+    "jawaban": "A",
+    "pembahasan": "Rute: K - L - M - N - O - P (atau variasi). Jumlah desa yang bisa dilewati: K, L, M, N, O, P = 6 desa."
+  },
+  {
+    "nomor": 26,
+    "subtes": "Tes Inteligensi Umum (TIU)",
+    "soal": "Untuk soal nomor 56 Pilihlah gambar yang mempunyai pola yang berikutnya! [IMAGE: hasil_sscpns/CAT SKD 05 - 2526/Images/img_0_1780646209135_6684.png]",
+    "pilihan": {
+      "A": "[IMAGE: hasil_sscpns/CAT SKD 05 - 2526/Images/img_0_1780646209146_5340.png]",
+      "B": "[IMAGE: hasil_sscpns/CAT SKD 05 - 2526/Images/img_0_1780646209150_3733.png]",
+      "C": "[IMAGE: hasil_sscpns/CAT SKD 05 - 2526/Images/img_0_1780646209153_9163.png]",
+      "D": "[IMAGE: hasil_sscpns/CAT SKD 05 - 2526/Images/img_0_1780646209156_9939.png]",
+      "E": "[IMAGE: hasil_sscpns/CAT SKD 05 - 2526/Images/img_0_1780646209159_1908.png]"
+    },
+    "jawaban": "D",
+    "pembahasan": ""
+  },
+  {
+    "nomor": 27,
+    "subtes": "Tes Inteligensi Umum (TIU)",
+    "soal": "Untuk soal nomor 57 dan 58, Pilihlah gambar yang mempunyai pola yang berbeda!",
+    "pilihan": {
+      "A": "[IMAGE: hasil_sscpns/CAT SKD 05 - 2526/Images/img_0_1780646209177_2166.png]",
+      "B": "[IMAGE: hasil_sscpns/CAT SKD 05 - 2526/Images/img_0_1780646209180_7116.png]",
+      "C": "[IMAGE: hasil_sscpns/CAT SKD 05 - 2526/Images/img_0_1780646209182_870.png]",
+      "D": "[IMAGE: hasil_sscpns/CAT SKD 05 - 2526/Images/img_0_1780646209186_3906.png]",
+      "E": "[IMAGE: hasil_sscpns/CAT SKD 05 - 2526/Images/img_0_1780646209188_3573.png]"
+    },
+    "jawaban": "B",
+    "pembahasan": ""
+  },
+  {
+    "nomor": 28,
+    "subtes": "Tes Inteligensi Umum (TIU)",
+    "soal": "Untuk soal nomor 57 dan 58, Pilihlah gambar yang mempunyai pola yang berbeda!",
+    "pilihan": {
+      "A": "[IMAGE: hasil_sscpns/CAT SKD 05 - 2526/Images/img_0_1780646209207_758.png]",
+      "B": "[IMAGE: hasil_sscpns/CAT SKD 05 - 2526/Images/img_0_1780646209210_431.png]",
+      "C": "[IMAGE: hasil_sscpns/CAT SKD 05 - 2526/Images/img_0_1780646209213_2680.png]",
+      "D": "[IMAGE: hasil_sscpns/CAT SKD 05 - 2526/Images/img_0_1780646209216_7421.png]",
+      "E": "[IMAGE: hasil_sscpns/CAT SKD 05 - 2526/Images/img_0_1780646209219_9158.png]"
+    },
+    "jawaban": "B",
+    "pembahasan": ""
+  },
+  {
+    "nomor": 29,
+    "subtes": "Tes Inteligensi Umum (TIU)",
+    "soal": "[IMAGE: hasil_sscpns/CAT SKD 05 - 2526/Images/img_0_1780646209226_1191.png]",
+    "pilihan": {
+      "A": "[IMAGE: hasil_sscpns/CAT SKD 05 - 2526/Images/img_0_1780646209237_7918.png]",
+      "B": "[IMAGE: hasil_sscpns/CAT SKD 05 - 2526/Images/img_0_1780646209240_7854.png]",
+      "C": "[IMAGE: hasil_sscpns/CAT SKD 05 - 2526/Images/img_0_1780646209243_1656.png]",
+      "D": "[IMAGE: hasil_sscpns/CAT SKD 05 - 2526/Images/img_0_1780646209246_7357.png]",
+      "E": "[IMAGE: hasil_sscpns/CAT SKD 05 - 2526/Images/img_0_1780646209248_8162.png]"
+    },
+    "jawaban": "E",
+    "pembahasan": ""
+  },
+  {
+    "nomor": 30,
+    "subtes": "Tes Inteligensi Umum (TIU)",
+    "soal": "[IMAGE: hasil_sscpns/CAT SKD 05 - 2526/Images/img_0_1780646209258_4222.png]",
+    "pilihan": {
+      "A": "[IMAGE: hasil_sscpns/CAT SKD 05 - 2526/Images/img_0_1780646209268_6508.png]",
+      "B": "[IMAGE: hasil_sscpns/CAT SKD 05 - 2526/Images/img_0_1780646209271_8260.png]",
+      "C": "[IMAGE: hasil_sscpns/CAT SKD 05 - 2526/Images/img_0_1780646209274_2455.png]",
+      "D": "[IMAGE: hasil_sscpns/CAT SKD 05 - 2526/Images/img_0_1780646209276_9283.png]",
+      "E": "[IMAGE: hasil_sscpns/CAT SKD 05 - 2526/Images/img_0_1780646209279_659.png]"
+    },
+    "jawaban": "A",
+    "pembahasan": ""
+  },
+  {
+    "nomor": 31,
+    "subtes": "Tes Inteligensi Umum (TIU)",
+    "soal": "[IMAGE: hasil_sscpns/CAT SKD 05 - 2526/Images/img_0_1780646209286_6364.png]",
+    "pilihan": {
+      "A": "[IMAGE: hasil_sscpns/CAT SKD 05 - 2526/Images/img_0_1780646209294_2271.png]",
+      "B": "[IMAGE: hasil_sscpns/CAT SKD 05 - 2526/Images/img_0_1780646209297_5824.png]",
+      "C": "[IMAGE: hasil_sscpns/CAT SKD 05 - 2526/Images/img_0_1780646209299_9190.png]",
+      "D": "[IMAGE: hasil_sscpns/CAT SKD 05 - 2526/Images/img_0_1780646209302_7597.png]",
+      "E": "[IMAGE: hasil_sscpns/CAT SKD 05 - 2526/Images/img_0_1780646209305_9539.png]"
+    },
+    "jawaban": "C",
+    "pembahasan": ""
+  },
+  {
+    "nomor": 32,
+    "subtes": "Tes Inteligensi Umum (TIU)",
+    "soal": "[IMAGE: hasil_sscpns/CAT SKD 05 - 2526/Images/img_0_1780646209311_9374.png]",
+    "pilihan": {
+      "A": "[IMAGE: hasil_sscpns/CAT SKD 05 - 2526/Images/img_0_1780646209321_5389.png]",
+      "B": "[IMAGE: hasil_sscpns/CAT SKD 05 - 2526/Images/img_0_1780646209324_4606.png]",
+      "C": "[IMAGE: hasil_sscpns/CAT SKD 05 - 2526/Images/img_0_1780646209326_3175.png]",
+      "D": "[IMAGE: hasil_sscpns/CAT SKD 05 - 2526/Images/img_0_1780646209329_1350.png]",
+      "E": "[IMAGE: hasil_sscpns/CAT SKD 05 - 2526/Images/img_0_1780646209331_4515.png]"
+    },
+    "jawaban": "E",
+    "pembahasan": ""
+  },
+  {
+    "nomor": 33,
+    "subtes": "Tes Inteligensi Umum (TIU)",
+    "soal": "[IMAGE: hasil_sscpns/CAT SKD 05 - 2526/Images/img_0_1780646209341_4259.png]",
+    "pilihan": {
+      "A": "[IMAGE: hasil_sscpns/CAT SKD 05 - 2526/Images/img_0_1780646209350_8448.png]",
+      "B": "[IMAGE: hasil_sscpns/CAT SKD 05 - 2526/Images/img_0_1780646209353_8818.png]",
+      "C": "[IMAGE: hasil_sscpns/CAT SKD 05 - 2526/Images/img_0_1780646209356_2550.png]",
+      "D": "[IMAGE: hasil_sscpns/CAT SKD 05 - 2526/Images/img_0_1780646209359_4069.png]",
+      "E": "[IMAGE: hasil_sscpns/CAT SKD 05 - 2526/Images/img_0_1780646209362_8372.png]"
+    },
+    "jawaban": "D",
+    "pembahasan": ""
+  },
+  {
+    "nomor": 34,
+    "subtes": "Tes Inteligensi Umum (TIU)",
+    "soal": "[IMAGE: hasil_sscpns/CAT SKD 05 - 2526/Images/img_0_1780646209383_7441.png]",
+    "pilihan": {
+      "A": "[IMAGE: hasil_sscpns/CAT SKD 05 - 2526/Images/img_0_1780646209418_2546.png]",
+      "B": "[IMAGE: hasil_sscpns/CAT SKD 05 - 2526/Images/img_0_1780646209423_3836.png]",
+      "C": "[IMAGE: hasil_sscpns/CAT SKD 05 - 2526/Images/img_0_1780646209427_2526.png]",
+      "D": "[IMAGE: hasil_sscpns/CAT SKD 05 - 2526/Images/img_0_1780646209436_5374.png]",
+      "E": "[IMAGE: hasil_sscpns/CAT SKD 05 - 2526/Images/img_0_1780646209441_3547.png]"
+    },
+    "jawaban": "B",
+    "pembahasan": ""
+  },
+  {
+    "nomor": 35,
+    "subtes": "Tes Inteligensi Umum (TIU)",
+    "soal": "[IMAGE: hasil_sscpns/CAT SKD 05 - 2526/Images/img_0_1780646209457_812.png]",
+    "pilihan": {
+      "A": "[IMAGE: hasil_sscpns/CAT SKD 05 - 2526/Images/img_0_1780646209492_2246.png]",
+      "B": "[IMAGE: hasil_sscpns/CAT SKD 05 - 2526/Images/img_0_1780646209495_1614.png]",
+      "C": "[IMAGE: hasil_sscpns/CAT SKD 05 - 2526/Images/img_0_1780646209503_1861.png]",
+      "D": "[IMAGE: hasil_sscpns/CAT SKD 05 - 2526/Images/img_0_1780646209506_8865.png]",
+      "E": "[IMAGE: hasil_sscpns/CAT SKD 05 - 2526/Images/img_0_1780646209509_9986.png]"
+    },
+    "jawaban": "A",
+    "pembahasan": ""
+  },
+  {
+    "nomor": 1,
+    "subtes": "Tes Karakteristik Pribadi (TKP)",
+    "soal": "Profesionalisme (Akuntabel)\nAnda adalah pegawai baru di sebuah perusahaan. Belum genap beberapa minggu bekerja, Anda sudah dihadapkan pada banyak proyek yang harus segera ditangani. Lingkungan kerja menuntut Anda untuk cepat beradaptasi dan produktif. Namun, Anda menyadari bahwa meskipun beban kerja sangat tinggi. Perusahaan tidak memberikan benefit tambahan seperti insentif atau kompensasi lembur. Dalam kondisi ini, sikap Anda adalah ….",
+    "pilihan": {
+      "A": "Saya akan tetap menyelesaikan semua tugas dengan tanggung jawab penuh sambil mencatat beban kerja yang saya tangani sebagai bahan evaluasi pribadi dan referensi saat diskusi kinerja.",
+      "B": "Saya akan melaksanakan tugas secara standar saja, tidak terlalu berlebihan, karena merasa tidak mendapatkan imbalan yang sesuai dengan beban kerja yang diberikan.",
+      "C": "Saya akan meminta kejelasan kepada atasan terkait kebijakan benefit tambahan sebelum memutuskan untuk menyelesaikan tugas-tugas proyek secara maksimal.",
+      "D": "Saya akan menyelesaikan tugas dengan sebaik mungkin, namun jika kondisi ini terus berlangsung tanpa kejelasan, saya akan mempertimbangkan untuk mencari tempat kerja lain yang lebih menghargai kontribusi pegawai.",
+      "E": "Saya akan menunda penyelesaian sebagian tugas dan mengutamakan pekerjaan yang menurut saya paling penting karena merasa tidak adil jika harus bekerja keras tanpa kompensasi yang layak."
+    },
+    "jawaban": "A",
+    "pembahasan": "Sikap profesional dan akuntabel ditunjukkan dengan tetap bertanggung jawab penuh pada tugas meskipun tanpa insentif tambahan, serta mendokumentasikan kinerja sebagai bahan evaluasi yang konstruktif."
+  },
+  {
+    "nomor": 2,
+    "subtes": "Tes Karakteristik Pribadi (TKP)",
+    "soal": "Profesionalisme (Akuntabel)\nAnda adalah lulusan Sekolah Menengah Atas (SMA) tahun ini. Beberapa kerabat menyarankan Anda untuk bekerja menjadi abdi negara seperti polisi dan TNI karena postur tubuh Anda yang mendukung. Anda juga diarahkan untuk mendaftar dengan perantara kerabat dan membayar biaya tertentu agar mudah lolos. Anda mempunyai keyakinan bisa lolos tanpa perantara siapapun termasuk kerabat sendiri. Akan tetapi, proses pendaftaran yang akan Anda lakukan secara mandiri dan pendaftaran dengan perantara tersebut sama-sama membutuhkan biaya yang besar. Apa yang akan Anda lakukan ….",
+    "pilihan": {
+      "A": "Saya akan menolak tawaran menggunakan perantara dan mempersiapkan diri secara maksimal untuk mengikuti seleksi resmi, karena saya ingin memastikan bahwa proses saya masuk institusi negara mencerminkan nilai kejujuran dan profesionalisme.",
+      "B": "Saya akan menerima tawaran kerabat karena proses tersebut sudah dianggap lumrah dan banyak dilakukan orang, sehingga saya tidak merasa melanggar aturan selama niat saya tetap untuk mengabdi pada negara.",
+      "C": "Saya akan tetap memilih jalur resmi meskipun lebih sulit dan berisiko tidak lolos, karena saya percaya bahwa menjadi abdi negara harus dimulai dengan proses yang bersih, jujur, dan tidak mengandalkan koneksi atau jalan pintas.",
+      "D": "Saya akan menunggu situasi yang lebih jelas dan melihat dulu siapa saja yang lolos dalam seleksi, lalu memutuskan apakah perlu menggunakan jalur perantara agar tidak tertinggal dari orang lain.",
+      "E": "Saya akan mengkombinasikan kedua jalur tersebut dengan tetap mendaftar resmi namun juga memanfaatkan koneksi yang ada, sebagai bentuk ikhtiar ganda agar peluang saya lolos semakin besar."
+    },
+    "jawaban": "C",
+    "pembahasan": "Integritas dan profesionalisme ditunjukkan dengan memilih jalur resmi yang bersih dan jujur, meskipun lebih sulit, karena menjadi abdi negara harus dimulai dengan proses yang tidak melanggar aturan."
+  },
+  {
+    "nomor": 3,
+    "subtes": "Tes Karakteristik Pribadi (TKP)",
+    "soal": "Profesionalisme (Akuntabel)\nDunia kerja saat ini menuntut kecepatan dan efisiensi, namun tetap mempertahankan kualitas yang tinggi. Anda dikenal sebagai pribadi yang sangat perfeksionis dan menghasilkan pekerjaan dengan kualitas sangat baik, namun sering kali tidak bisa menyelesaikan pekerjaan dengan cepat. Di sisi lain, Anda juga masih terbebani dengan beberapa tugas tambahan yang bukan bagian dari tugas utama, tetapi harus Anda tangani agar bisa tetap menyesuaikan di tempat kerja tersebut. Dalam kondisi ini, sikap Anda Adalah ….",
+    "pilihan": {
+      "A": "Saya akan mulai menyesuaikan diri dengan menurunkan sedikit standar perfeksionisme saya agar pekerjaan bisa lebih cepat selesai tanpa mengorbankan kualitas secara keseluruhan.",
+      "B": "Saya akan tetap mengutamakan kualitas meskipun lambat karena saya yakin hasil kerja yang sempurna lebih penting daripada kecepatan.",
+      "C": "Saya akan menyelesaikan tugas tambahan terlebih dahulu, lalu mengerjakan pekerjaan utama dengan ritme saya sendiri karena saya merasa tidak nyaman bila tidak menyelesaikan semua tugas secara maksimal.",
+      "D": "Saya akan berkomunikasi dengan atasan untuk mencari solusi bersama, apakah mungkin ada delegasi atau penyesuaian tugas agar saya bisa fokus pada kualitas kerja tanpa terus-menerus tertekan beban tambahan.",
+      "E": "Saya akan memprioritaskan pekerjaan yang paling saya kuasai dan sisanya saya kerjakan belakangan saja agar saya tidak terlalu terbebani secara mental dan tetap bisa menyesuaikan."
+    },
+    "jawaban": "D",
+    "pembahasan": "Sikap profesional dan akuntabel ditunjukkan dengan berkomunikasi aktif dengan atasan untuk mencari solusi bersama, bukan sekadar menurunkan standar atau mengabaikan tugas."
+  },
+  {
+    "nomor": 4,
+    "subtes": "Tes Karakteristik Pribadi (TKP)",
+    "soal": "Profesionalisme (Akuntabel)\nAnda adalah seorang staf di bagian keuangan sebuah perusahaan. Suatu hari, Anda dipanggil oleh atasan karena ada ketidaksesuaian dalam laporan keuangan yang baru saja Anda dan rekan kerja Anda buat. Namun, saat ini rekan kerja Anda sedang cuti dan tidak dapat dihubungi dalam waktu dekat. Semua soft file dan bukti nota pendukung laporan tersebut berada di laptop pribadi rekan Anda yang dibawa saat cuti. Anda tidak memiliki akses langsung ke data tersebut, sementara atasan meminta penjelasan segera. Dalam situasi seperti ini, apa yang akan Anda lakukan ….",
+    "pilihan": {
+      "A": "Menjelaskan secara jujur kepada atasan bahwa Anda belum bisa memberikan penjelasan lengkap karena data pendukung ada pada rekan Anda yang sedang cuti dan Anda akan mengupayakan menghubungi rekan tersebut secepat mungkin.",
+      "B": "Mengakui kesalahan secara pribadi kepada atasan, meskipun Anda tidak yakin kesalahan berasal dari Anda karena Anda merasa bertanggung jawab sebagai bagian dari tim.",
+      "C": "Mencoba menjelaskan kepada atasan berdasarkan ingatan Anda terhadap proses pembuatan laporan, meskipun Anda sadar tidak memiliki data pendukung saat ini.",
+      "D": "Meminta waktu tambahan kepada atasan untuk mengumpulkan informasi yang diperlukan dan menyusun kronologi pekerjaan Anda sejauh yang Anda tahu sambil menunggu rekan Anda kembali.",
+      "E": "Mencari file pendukung atau versi cadangan lain yang mungkin pernah Anda simpan di email atau drive bersama sambil memberi kabar kepada atasan bahwa Anda sedang mengupayakan penelusuran data."
+    },
+    "jawaban": "A",
+    "pembahasan": "Kejujuran dan akuntabilitas ditunjukkan dengan menjelaskan situasi secara terbuka kepada atasan, tidak mengakui kesalahan yang belum tentu terjadi, dan berkomitmen untuk menindaklanjuti."
+  },
+  {
+    "nomor": 5,
+    "subtes": "Tes Karakteristik Pribadi (TKP)",
+    "soal": "Profesionalisme (Akuntabel)\nAnda bekerja sebagai seorang LO (Liaison Officer) yang bertanggung jawab mendampingi rombongan tamu penting dari luar kota. Saat melakukan kunjungan wisata, salah satu anggota rombongan berpamitan untuk pergi ke kamar mandi. Anda dan rombongan lainnya menunggu di titik yang telah disepakati. Namun, orang tersebut tidak kembali dalam waktu lama. Setelah dicari, ternyata orang tersebut sengaja berkeliling area wisata sendiri tanpa memberi kabar. Peristiwa ini menyebabkan keterlambatan dan menimbulkan teguran dari atasan kepada Anda. Padahal, Anda sudah bekerja sesuai prosedur dan arahan, serta telah memberi tahu rombongan untuk tetap bersama dalam pengawasan. Saat diminta untuk membuat laporan kejadian, apa yang akan Anda lakukan ….",
+    "pilihan": {
+      "A": "Menulis laporan dengan menjelaskan kronologi kejadian secara jujur dan objektif, termasuk upaya yang telah Anda lakukan, tanpa menyalahkan pihak manapun.",
+      "B": "Membuat laporan dengan menyampaikan bahwa Anda telah bekerja sesuai prosedur dan menyertakan kronologi detail, serta menyisipkan saran agar kejadian serupa tidak terulang.",
+      "C": "Menyampaikan laporan yang menekankan bahwa Anda sudah mengingatkan semua peserta agar tetap dalam rombongan dan menyertakan bukti komunikasi jika ada.",
+      "D": "Menulis laporan yang menggambarkan kejadian sebenar-benarnya sekaligus menunjukkan bahwa insiden tersebut bukan sepenuhnya tanggung jawab Anda, karena peserta bertindak di luar arahan.",
+      "E": "Membuat laporan yang mencantumkan kejadian secara transparan lalu menawarkan evaluasi dan ide pencegahan seperti penggunaan sistem pelacak atau pendamping tambahan di kegiatan berikutnya."
+    },
+    "jawaban": "E",
+    "pembahasan": "Laporan yang profesional tidak hanya transparan dan objektif, tetapi juga berorientasi pada solusi dan pencegahan ke depan, menunjukkan sikap akuntabel dan proaktif."
+  },
+  {
+    "nomor": 6,
+    "subtes": "Tes Karakteristik Pribadi (TKP)",
+    "soal": "Profesionalisme (Adaptif)\nAnda adalah tipe orang yang periang, mudah bergaul, dan senang membangun suasana kerja yang menyenangkan. Setelah diterima bekerja di perusahaan baru, Anda menyadari bahwa lingkungan kerja di sana cukup berbeda dari kebiasaan Anda. Beberapa rekan kerja bersikap pendiam, cenderung serius, bahkan terkesan dingin dan kurang ramah. Beberapa kali Anda merasa sikap mereka menunjukkan bahwa mereka tidak menyukai Anda, meskipun Anda tidak pernah berniat menyinggung siapa pun. Situasi ini membuat Anda mulai merasa tidak nyaman, namun Anda ingin tetap bekerja dengan profesional dan tidak memperburuk hubungan kerja. Dalam kondisi seperti ini, apa yang akan Anda lakukan ….",
+    "pilihan": {
+      "A": "Mengurangi interaksi yang terlalu ceria dan mulai menyesuaikan cara berkomunikasi agar lebih sesuai dengan budaya lingkungan kerja tanpa kehilangan keaslian sikap Anda.",
+      "B": "Tetap bersikap positif dan profesional, serta mencoba memahami karakter dan gaya komunikasi mereka agar bisa menyesuaikan diri tanpa mengubah jati diri Anda.",
+      "C": "Secara perlahan membangun hubungan personal dengan rekan kerja, misalnya dengan membantu pekerjaan mereka jika memungkinkan, agar tercipta kepercayaan dan kenyamanan.",
+      "D": "Merenungi kembali sikap Anda dan meminta masukan dari rekan kerja dekat atau atasan terkait bagaimana Anda bisa lebih efektif membaur tanpa membuat orang lain merasa tidak nyaman.",
+      "E": "Tetap menjadi diri sendiri, namun lebih berhati-hati dalam bersikap dan berbicara sambil tetap membuka ruang untuk mengenal karakter setiap rekan kerja lebih dalam."
+    },
+    "jawaban": "B",
+    "pembahasan": "Sikap adaptif yang sehat adalah tetap positif dan profesional sambil berusaha memahami karakter orang lain, tanpa mengubah jati diri secara drastis atau terlalu memaksakan interaksi."
+  },
+  {
+    "nomor": 7,
+    "subtes": "Tes Karakteristik Pribadi (TKP)",
+    "soal": "Profesionalisme (Adaptif)\nAnda bekerja di sebuah perusahaan dengan jam masuk yang sangat pagi. Namun, jarak antara rumah Anda dan tempat kerja cukup jauh, sehingga seringkali Anda terlambat datang meskipun sudah berusaha berangkat lebih awal. Setelah mencoba berbagai cara dan merasa tidak berhasil mengatasi keterlambatan ini, Anda akhirnya memutuskan untuk mengajukan surat pengunduran diri. Namun, atasan Anda menolak pengunduran diri tersebut karena perusahaan masih sangat membutuhkan kontribusi Anda. Mereka percaya Anda memiliki potensi besar. Dalam situasi ini, apa yang akan Anda lakukan ….",
+    "pilihan": {
+      "A": "Tetap bertahan sambil mulai merancang rencana jangka panjang, misalnya menabung untuk pindah rumah atau kendaraan pribadi agar tidak terus bergantung pada transportasi umum.",
+      "B": "Menjelaskan kembali kepada atasan alasan Anda secara terbuka, lalu menawarkan alternatif seperti perubahan jadwal kerja atau sistem kerja hybrid jika memungkinkan.",
+      "C": "Menghormati keputusan atasan dan mencoba lebih disiplin dengan membuat jadwal keberangkatan yang lebih ketat, serta mempertimbangkan alat transportasi yang lebih cepat.",
+      "D": "Menerima keputusan perusahaan, lalu mencari solusi jangka panjang seperti kos atau tempat tinggal sementara yang lebih dekat dengan kantor agar bisa tetap bekerja maksimal.",
+      "E": "Menjadikan situasi ini sebagai tantangan dan motivasi untuk membuktikan bahwa Anda bisa beradaptasi, lalu melakukan evaluasi harian atas keterlambatan dan penyebabnya agar bisa diatasi."
+    },
+    "jawaban": "D",
+    "pembahasan": "Solusi adaptif yang paling konkret dan berkelanjutan adalah mencari tempat tinggal sementara yang lebih dekat dengan kantor, mengatasi akar masalah (jarak) secara permanen."
+  },
+  {
+    "nomor": 8,
+    "subtes": "Tes Karakteristik Pribadi (TKP)",
+    "soal": "Profesionalisme (Adaptif)\nAnda bekerja di sebuah perusahaan yang memiliki aturan jam istirahat hanya satu kali, yaitu pukul 12.00–13.00. Setelah itu, seluruh karyawan diharapkan kembali bekerja hingga jam pulang pukul 17.30 tanpa jeda resmi lainnya. Sebagai pribadi yang menjalankan ibadah secara rutin, Anda merasa waktu salat Ashar cukup rentan terlewatkan karena biasanya jatuh di tengah jam kerja setelah istirahat siang. Anda menyadari bahwa meninggalkan pekerjaan tanpa izin bisa dianggap tidak disiplin, namun meninggalkan salat juga bertentangan dengan prinsip pribadi Anda. Dalam situasi ini, bagaimana sikap Anda ….",
+    "pilihan": {
+      "A": "Menyempatkan diri untuk salat Ashar di sela waktu kerja dengan cepat dan ringkas, tanpa mengganggu pekerjaan atau kinerja, serta memilih waktu yang paling longgar dalam jadwal Anda.",
+      "B": "Berkomunikasi secara sopan kepada atasan dan menyampaikan bahwa Anda akan mengambil waktu beberapa menit untuk salat Ashar, tanpa mengurangi tanggung jawab pekerjaan Anda.",
+      "C": "Mengatur alarm pribadi atau pengingat agar dapat segera salat Ashar tepat waktu di sela pekerjaan, meskipun harus dilakukan secara singkat dan efisien.",
+      "D": "Melaksanakan salat Ashar di ruang kerja jika memungkinkan, secara diam-diam dan tidak mencolok, untuk tetap menjaga profesionalisme sekaligus tidak meninggalkan kewajiban ibadah.",
+      "E": "Tetap memprioritaskan salat Ashar, lalu mengompensasi waktu tersebut dengan menyelesaikan pekerjaan lebih cepat sebelumnya atau menambah waktu kerja setelah jam kantor."
+    },
+    "jawaban": "B",
+    "pembahasan": "Sikap profesional dan adaptif yang tepat adalah berkomunikasi secara terbuka dan sopan dengan atasan, bukan bersikap sembunyi-sembunyi atau hanya mengandalkan kompensasi waktu."
+  },
+  {
+    "nomor": 9,
+    "subtes": "Tes Karakteristik Pribadi (TKP)",
+    "soal": "Profesionalisme (Kompeten)\nAnda baru saja diterima bekerja sebagai seorang Data Analyst di sebuah perusahaan yang menuntut penguasaan dalam berbagai tools analisis data seperti SPSS, Python, R, dan SQL. Saat ini, Anda hanya benar-benar menguasai SPSS, sementara penggunaan Python dan tools lainnya seringkali muncul dalam pekerjaan sehari-hari, terutama saat menangani proyek besar berbasis otomatisasi dan analitik lanjutan. Meskipun Anda merasa cukup tertekan dengan tuntutan tersebut, Anda juga menyadari bahwa Anda tidak ingin tertinggal atau mengecewakan tim. Dalam kondisi ini, sikap Anda adalah ….",
+    "pilihan": {
+      "A": "Mengerjakan tugas dengan SPSS semaksimal mungkin, lalu secara mandiri mulai belajar Python di luar jam kerja agar bisa mengejar ketertinggalan secara bertahap.",
+      "B": "Mencari pelatihan online yang sesuai dan langsung mendaftar kursus Python secara intensif dengan biaya pribadi demi meningkatkan kemampuan kerja Anda.",
+      "C": "Membagi tugas secara kolaboratif dengan tim, mengerjakan bagian yang bisa Anda tangani dulu, sambil terus mengamati dan belajar dari rekan kerja yang sudah mahir Python.",
+      "D": "Mengakui kepada atasan bahwa Anda belum menguasai Python, sambil menunjukkan niat dan komitmen untuk belajar, serta meminta kesempatan diberikan porsi kerja yang sesuai sementara Anda belajar.",
+      "E": "Tetap mengerjakan pekerjaan sebaik mungkin dengan kemampuan yang dimiliki, sambil secara aktif bertanya dan meminta bimbingan dari rekan kerja terkait penggunaan Python."
+    },
+    "jawaban": "D",
+    "pembahasan": "Sikap kompeten dan profesional adalah mengakui keterbatasan secara jujur kepada atasan, menunjukkan komitmen untuk belajar, dan meminta penyesuaian tugas sementara, bukan sekadar belajar mandiri tanpa koordinasi."
+  },
+  {
+    "nomor": 10,
+    "subtes": "Tes Karakteristik Pribadi (TKP)",
+    "soal": "Profesionalisme (Kompeten)\nAnda bekerja di bagian pelayanan pelanggan (customer service) di sebuah perusahaan. Suatu hari, seorang pelanggan dari luar negeri datang untuk mengajukan pertanyaan atau komplain menggunakan bahasa Inggris. Anda memahami maksud pelanggan, namun Anda merasa tidak percaya diri berbicara dalam bahasa Inggris karena keterbatasan kemampuan speaking Anda. Saat itu, Anda sedang sendiri di front office dan tidak ada rekan kerja lain yang bisa dimintai bantuan. Anda sadar bahwa pelanggan perlu mendapatkan pelayanan yang baik dan cepat, sementara Anda menghadapi keterbatasan dalam berkomunikasi lisan. Apa yang akan Anda lakukan ….",
+    "pilihan": {
+      "A": "Berusaha menjawab sebisa mungkin dengan bahasa Inggris sederhana dan dibantu dengan tulisan atau catatan jika diperlukan agar pesan tetap tersampaikan dengan benar.",
+      "B": "Mencoba memahami inti permasalahan pelanggan, dan menjelaskan dengan perlahan menggunakan kata-kata dasar bahasa Inggris serta menunjuk dokumen atau informasi pendukung yang tersedia.",
+      "C": "Meminta pelanggan untuk menuliskan pertanyaannya agar Anda bisa memahaminya lebih jelas, lalu membalasnya dengan tulisan dalam bahasa Inggris yang Anda siapkan dengan bantuan aplikasi penerjemah.",
+      "D": "Menyampaikan permintaan maaf karena keterbatasan Anda, lalu berusaha melayani dengan isyarat dan kata-kata dasar, sembari mencari solusi yang bisa membantu pelanggan tetap merasa diperhatikan.",
+      "E": "Menggunakan bantuan alat penerjemah (seperti Google Translate) secara langsung untuk memperlancar komunikasi sambil tetap menjaga sikap profesional dan ramah."
+    },
+    "jawaban": "E",
+    "pembahasan": "Menggunakan alat penerjemah adalah solusi cepat dan efektif untuk mengatasi keterbatasan bahasa, tetap profesional, ramah, dan berorientasi pada pelayanan."
+  },
+  {
+    "nomor": 11,
+    "subtes": "Tes Karakteristik Pribadi (TKP)",
+    "soal": "Profesionalisme (Kompeten)\nAnda bekerja di sebuah perusahaan jasa pengiriman dan bertugas di salah satu bagian operasional yang tidak langsung menangani komplain atau masalah pelanggan. Suatu hari, Anda didatangi seorang pelanggan yang marah karena pengirimannya bermasalah. Pelanggan tersebut menyampaikan komplain dengan nada keras dan mendesak agar Anda segera menyelesaikannya. Setelah dicek, Anda menyadari bahwa masalah tersebut bukan berada dalam ranah tugas Anda dan Anda tidak memiliki kewenangan untuk menyelesaikannya langsung. Namun, jika Anda langsung melaporkannya ke atasan, Anda tahu bahwa hal ini bisa memicu urusan menjadi panjang dan memperkeruh situasi. Dalam kondisi seperti ini, apa yang akan Anda lakukan ….",
+    "pilihan": {
+      "A": "Tetap melayani dengan tenang, lalu menjelaskan kepada pelanggan bahwa Anda akan segera menghubungi bagian yang berwenang dan memastikan masalahnya segera ditindaklanjuti.",
+      "B": "Mendengarkan keluhan pelanggan dengan empati, kemudian mencatat detail masalahnya dan menyampaikan kepada pihak yang berwenang secara internal tanpa memperumit situasi.",
+      "C": "Menenangkan pelanggan terlebih dahulu, lalu menjelaskan bahwa Anda bukan pihak yang tepat namun akan membantu menyambungkan pelanggan langsung ke bagian yang berwenang.",
+      "D": "Menjelaskan batasan wewenang Anda dengan sopan, kemudian membantu pelanggan dengan memberikan informasi kontak atau mengantar langsung ke bagian yang tepat.",
+      "E": "Meminta waktu sebentar kepada pelanggan untuk berkoordinasi dengan bagian terkait agar Anda dapat memberikan informasi yang benar dan solusi awal meskipun bukan wewenang Anda."
+    },
+    "jawaban": "C",
+    "pembahasan": "Sikap terbaik adalah menenangkan pelanggan, menjelaskan keterbatasan wewenang dengan jujur, dan membantu menyambungkan ke bagian yang tepat, bukan sekadar mencatat atau mengarahkan tanpa tindakan nyata."
+  },
+  {
+    "nomor": 12,
+    "subtes": "Tes Karakteristik Pribadi (TKP)",
+    "soal": "Profesionalisme (Kompeten)\nAnda bekerja di sebuah lembaga bimbingan belajar (bimbel) dengan latar belakang pendidikan Soshum (Sosial dan Humaniora). Suatu hari, pihak lembaga menetapkan kebijakan baru bahwa seluruh pegawai, termasuk Anda, harus menguasai materi matematika dasar supaya bisa menjadi tentor anak SD, terutama ketika tidak ada jadwal mengajar sesuai bidang studi asli. Anda sudah menandatangani kontrak kerja yang mencantumkan persyaratan tersebut. Namun, Anda merasa tidak nyaman karena harus terus menerus meningkatkan kemampuan di bidang yang bukan keahlian utama Anda. Dalam situasi ini, sikap Anda Adalah ….",
+    "pilihan": {
+      "A": "Menerima tantangan tersebut dengan sikap positif, mulai belajar materi matematika dasar secara mandiri agar bisa memenuhi tuntutan kerja dan memberikan yang terbaik bagi siswa.",
+      "B": "Mengomunikasikan perasaan kurang nyaman kepada atasan secara terbuka, sekaligus menyampaikan komitmen untuk berusaha belajar, tapi berharap ada dukungan pelatihan dari lembaga.",
+      "C": "Berusaha meningkatkan kemampuan matematika dengan mengikuti pelatihan atau kursus yang difasilitasi lembaga maupun secara mandiri, sambil tetap fokus pada kualitas pengajaran.",
+      "D": "Menyesuaikan diri dengan kebijakan baru dan berusaha menjaga profesionalisme dengan terus upgrade diri, meskipun merasa tantangan tersebut berat.",
+      "E": "Memanfaatkan sumber belajar online dan berdiskusi dengan rekan kerja yang sudah lebih mahir untuk mempercepat penguasaan materi matematika dasar."
+    },
+    "jawaban": "A",
+    "pembahasan": "Sikap profesional dan kompeten adalah menerima tantangan dengan positif dan proaktif belajar mandiri, karena kontrak kerja sudah mencantumkan persyaratan tersebut."
+  },
+  {
+    "nomor": 13,
+    "subtes": "Tes Karakteristik Pribadi (TKP)",
+    "soal": "Pelayanan Publik (Berorientasi pelayanan)\nAnda adalah kepala dusun di wilayah padat penduduk yang sedang menghadapi masalah sasaran bantuan Program Keluarga Harapan (PKH). Masyarakat menilai beberapa penerima bantuan PKH tersebut adalah warga dengan ekonomi menengah yang mempunyai hubungan keluarga dengan Anda. Warga mulai bertanya-tanya dan menaruh curiga terhadap Anda. Aoa yang akan Anda lakukan ….",
+    "pilihan": {
+      "A": "Mengklarifikasi secara terbuka kepada masyarakat terkait mekanisme penentuan penerima bantuan PKH dan menyerahkan data kepada pihak yang berwenang untuk ditinjau kembali.",
+      "B": "Meminta dinas sosial untuk melakukan verifikasi ulang terhadap penerima PKH agar data lebih akurat dan masyarakat tidak merasa curiga.",
+      "C": "Menyampaikan kepada keluarga penerima bantuan yang dianggap tidak layak agar mengundurkan diri demi menjaga kepercayaan publik.",
+      "D": "Mengundang tokoh masyarakat dan pihak terkait untuk melakukan musyawarah guna membahas data penerima PKH secara terbuka.",
+      "E": "Melaporkan dugaan ketidaktepatan sasaran kepada atasan langsung dan menyarankan evaluasi menyeluruh pada data penerima PKH."
+    },
+    "jawaban": "A",
+    "pembahasan": "Transparansi dan akuntabilitas publik ditunjukkan dengan mengklarifikasi mekanisme secara terbuka dan menyerahkan data ke pihak berwenang untuk ditinjau, bukan sekadar musyawarah atau laporan internal."
+  },
+  {
+    "nomor": 14,
+    "subtes": "Tes Karakteristik Pribadi (TKP)",
+    "soal": "Pelayanan Publik (Berorientasi pelayanan)\nAnda adalah seorang pegawai pada PPK Kemayoran yang bertugas menangani layanan perizinan dan pemanfaatan lahan. Suatu hari, seorang pengusaha datang mengeluhkan lambatnya proses izin pemanfaatan lahan yang diajukan dua bulan lalu. Ia merasa dipersulit, padahal ia telah melengkapi semua dokumen. Ia mulai menyebut-nyebut akan menghubungi orang dalam jika tidak segera diproses. Setelah Anda cek, ternyata benar bahwa dokumennya lengkap tetapi berkasnya tertahan di meja atasan Anda karena alasan belum ada surat pengantar internal yang sebenarnya tidak tercantum dalam SOP resmi. Apa yang akan Anda lakukan ….",
+    "pilihan": {
+      "A": "Menjelaskan kepada pengusaha bahwa proses memang membutuhkan surat pengantar internal dan memintanya untuk bersabar menunggu proses dari atasan selesai.",
+      "B": "Meminta atasan untuk menjelaskan mengapa berkas tertahan dan menawarkan diri untuk membantu menyiapkan surat pengantar jika memang dibutuhkan.",
+      "C": "Menginformasikan kepada pengusaha bahwa dokumen sudah lengkap dan akan segera Anda bantu proses sesuai ketentuan SOP yang berlaku sambil menindaklanjuti ke atasan.",
+      "D": "Menyarankan kepada pengusaha untuk langsung menemui atasan Anda agar prosesnya bisa lebih cepat.",
+      "E": "Segera memproses permohonan tersebut tanpa surat pengantar karena dokumen formalnya sudah lengkap dan sesuai prosedur."
+    },
+    "jawaban": "C",
+    "pembahasan": "Sikap berorientasi pelayanan adalah memberikan informasi yang jelas dan akurat kepada pengusaha, serta mengambil inisiatif menindaklanjuti ke atasan, bukan sekadar menjelaskan atau meminta atasan menjelaskan."
+  },
+  {
+    "nomor": 15,
+    "subtes": "Tes Karakteristik Pribadi (TKP)",
+    "soal": "Pelayanan Publik (Berorientasi pelayanan)\nAnda adalah petugas pelayanan di kantor desa. Saat jam layanan hampir berakhir, datang seorang perempuan menggunakan almamater universitas yang mengatakan ingin bertemu dengan kepala desa dengan keperluan meminta tanda tangan untuk validasi pernyataan sebagai masyarakat kurang mampu. Pada saat itu, kepala desa tidak ada di kantor. Sedangkan berkas yang dibawa mahasiswa tersebut harus segera dikumpulkan pada hari itu untuk pengajuan beasiswa. Apa yang akan Anda lakukan ….",
+    "pilihan": {
+      "A": "Meminta mahasiswa tersebut menunggu sebentar sambil Anda mencoba menghubungi kepala desa untuk meminta arahan atau konfirmasi terkait dokumen tersebut.",
+      "B": "Menerima dokumen tersebut dan mencatat data serta nomor kontak mahasiswa untuk dilanjutkan ke kepala desa sesegera mungkin setelah beliau kembali.",
+      "C": "Mengarahkan mahasiswa tersebut ke sekretaris desa atau pejabat yang diberi wewenang (jika ada) untuk memproses atau memberikan solusi atas dokumen tersebut.",
+      "D": "Menjelaskan situasi bahwa kepala desa sedang tidak ada dan berusaha mencari solusi tercepat agar dokumen tetap bisa diverifikasi tepat waktu.",
+      "E": "Menyarankan mahasiswa untuk meninggalkan dokumen dan Anda akan memastikan berkas tersebut ditandatangani segera setelah kepala desa kembali lalu menginformasikan perkembangan melalui telepon."
+    },
+    "jawaban": "A",
+    "pembahasan": "Prioritas pertama adalah mencoba menghubungi kepala desa untuk mencari solusi tercepat, karena mahasiswa memiliki deadline hari itu. Ini menunjukkan orientasi pelayanan yang proaktif."
+  },
+  {
+    "nomor": 16,
+    "subtes": "Tes Karakteristik Pribadi (TKP)",
+    "soal": "Pelayanan Publik (Berorientasi pelayanan)\nAnda adalah ASN di Dinas Sosial tingkat kabupaten yang bertugas memantau penyaluran bantuan rumah bagi masyarakat yang tidak mempunyai rumah atau mempunyai rumah dengan kondisi rusak parah. Di lapangan, Anda menemukan kepala desa justru menunda-nunda laporan pertanggungjawaban bantuan padahal dana sudah ditransfer dan tenggat waktu yang diberikan untuk pembangunan rumah sudah habis. Sikap Anda yaitu ….",
+    "pilihan": {
+      "A": "Mengingatkan kepala desa secara langsung tentang pentingnya tanggung jawab dan batas waktu pelaporan, serta memberi batas waktu tambahan secara tertulis.",
+      "B": "Melaporkan temuan tersebut kepada atasan di Dinas Sosial disertai bukti bahwa laporan dari kepala desa belum disampaikan sesuai tenggat waktu.",
+      "C": "Melakukan pembinaan kepada kepala desa terkait kewajiban pelaporan pertanggungjawaban dan dampaknya jika tidak dilaksanakan.",
+      "D": "Menyusun laporan hasil pemantauan di lapangan sekaligus merekomendasikan evaluasi dan pemantauan khusus pada desa yang terlambat melaporkan.",
+      "E": "Mengunjungi kembali lokasi pembangunan rumah untuk memverifikasi kondisi di lapangan lalu mengajak kepala desa berdiskusi untuk menyelesaikan laporan dengan segera."
+    },
+    "jawaban": "C",
+    "pembahasan": "Pendekatan pembinaan lebih tepat sebelum mengambil tindakan represif, karena kepala desa adalah mitra kerja. Pembinaan menunjukkan orientasi pelayanan dan solusi jangka panjang."
+  },
+  {
+    "nomor": 17,
+    "subtes": "Tes Karakteristik Pribadi (TKP)",
+    "soal": "Pelayanan Publik (Berorientasi pelayanan)\nAnda adalah seorang ASN di kantor Kepolisian Resor yang bertugas mengatur jadwal mobil pelayanan perpanjangan SIM keliling. Suatu hari, terdapat masyarakat yang mengirim surat keluhan karena lokasi mobil perpanjangan SIM keliling tersebut tidak sesuai dengan jadwal yang tertera. Hal tersebut mengakibatkan warga terlambat melakukan perpanjangan SIM sehingga harus membayar denda. Apa yang akan Anda lakukan ….",
+    "pilihan": {
+      "A": "Menelusuri penyebab ketidaksesuaian jadwal dan menyusun laporan evaluasi untuk mencegah kejadian serupa lalu menyampaikan permintaan maaf kepada warga yang dirugikan.",
+      "B": "Menghubungi tim pelaksana mobil SIM keliling untuk mengklarifikasi pergeseran lokasi lalu membuat perbaikan pada sistem informasi publik agar jadwal lebih akurat dan real-time.",
+      "C": "Membalas keluhan warga secara resmi dan menyampaikan permohonan maaf serta menjelaskan kendala yang terjadi di lapangan secara transparan.",
+      "D": "Melakukan koordinasi dengan pihak terkait untuk memastikan jadwal berikutnya berjalan tepat waktu dan memperbaiki mekanisme penyampaian informasi kepada masyarakat.",
+      "E": "Menampung keluhan warga tersebut sebagai bahan evaluasi dan segera membuat dokumentasi kasus ini untuk dijadikan dasar revisi jadwal dan sistem kontrol lapangan."
+    },
+    "jawaban": "A",
+    "pembahasan": "Penanganan keluhan yang profesional mencakup tiga hal: investigasi penyebab, evaluasi untuk pencegahan, dan permintaan maaf kepada pihak yang dirugikan."
+  },
+  {
+    "nomor": 18,
+    "subtes": "Tes Karakteristik Pribadi (TKP)",
+    "soal": "Pelayanan Publik (Berorientasi Pelayanan)\nAnda adalah seorang staf akademik di kampus yang menerima keluhan dari mahasiswa mengenai penggantian nilai. Awalnya, pada mata kuliah tertentu mahasiswa mendapatkan nilai D sehingga harus mengulang ujian. Setelah mengulang ujian, mahasiswa tersebut mendapat nilai B. Sebelumnya, mahasiswa tersebut sudah menyampaikan permintaan penggantian nilai melalui pesan online kepada staf akademik. Namun, saat kartu hasil studi keluar, nilainya masih D. Di sisi lain sistem sudah ditutup dan perkuliahan pada semester ini sudah berakhir. Apa yang akan Anda lakukan ….",
+    "pilihan": {
+      "A": "Saya akan memverifikasi riwayat komunikasi dan dokumen pendukung mahasiswa, lalu segera berkonsultasi dengan bagian akademik pusat untuk mencari kemungkinan pembukaan sistem terbatas guna memperbaiki data nilai.",
+      "B": "Saya akan menghubungi dosen pengampu untuk memastikan kebenaran nilai terbaru mahasiswa, lalu menyusun laporan pengajuan koreksi nilai resmi yang ditandatangani oleh dosen untuk diserahkan ke pihak akademik pusat.",
+      "C": "Saya akan mencocokkan data nilai yang ada di arsip ujian ulang dengan data KHS, kemudian menyampaikan laporan tertulis kepada atasan dan bagian pengelola sistem agar dapat dilakukan perbaikan pasca-penutupan sistem.",
+      "D": "Saya akan memastikan bahwa nilai B dari hasil ujian ulang benar-benar tercatat secara sah, lalu menyampaikan permohonan resmi kepada pengelola sistem akademik agar kasus ini diproses sesuai prosedur pengajuan revisi nilai manual.",
+      "E": "Saya akan mengumpulkan semua bukti administratif yang berkaitan dengan proses ujian ulang mahasiswa, lalu berkoordinasi dengan bagian akademik dan teknologi informasi untuk memproses perubahan nilai secara resmi meskipun sistem sudah ditutup."
+    },
+    "jawaban": "E",
+    "pembahasan": "Pendekatan paling komprehensif adalah mengumpulkan semua bukti, lalu berkoordinasi dengan bagian akademik dan IT untuk memproses perubahan nilai secara resmi. Ini menunjukkan orientasi solusi dan kolaborasi lintas unit."
+  },
+  {
+    "nomor": 19,
+    "subtes": "Tes Karakteristik Pribadi (TKP)",
+    "soal": "Sosial Budaya (Harmonis)\nAnda adalah seorang pengurus RT di lingkungan tempat tinggal Anda. Suatu hari, seorang warga yang sebelumnya menjalani hukuman penjara telah kembali ke kampung setelah menyelesaikan masa hukumannya. Namun, sebagian besar masyarakat menolak kehadirannya dan bahkan ada yang mulai melakukan provokasi agar orang tersebut diusir dari kampung. Sebagai pengurus RT, apa yang akan Anda lakukan ….",
+    "pilihan": {
+      "A": "Menenangkan warga dan mengajak mereka berdialog agar tidak bertindak anarkis, sambil berupaya menjembatani komunikasi antara warga dan mantan narapidana tersebut.",
+      "B": "Mengikuti keinginan warga untuk mengusir mantan narapidana demi menjaga ketentraman lingkungan.",
+      "C": "Meminta mantan narapidana tersebut pindah dari lingkungan secara sukarela untuk menghindari konflik yang lebih besar.",
+      "D": "Membiarkan situasi berkembang secara alami tanpa ikut campur agar tidak dianggap memihak.",
+      "E": "Melaporkan situasi ini kepada pihak kelurahan atau kepolisian tanpa mengambil tindakan langsung sebagai pengurus RT."
+    },
+    "jawaban": "A",
+    "pembahasan": "Sebagai pengurus RT, tindakan harmonis adalah menenangkan warga, mengajak dialog, dan menjadi jembatan komunikasi, bukan mengusir atau membiarkan konflik."
+  },
+  {
+    "nomor": 20,
+    "subtes": "Tes Karakteristik Pribadi (TKP)",
+    "soal": "Sosial Budaya (Harmonis)\nAnda ditugaskan menjadi koordinator dalam proyek kolaboratif antarinstansi pemerintah yang melibatkan peserta dari berbagai suku, agama, dan daerah. Dalam proses diskusi, terjadi perbedaan pendapat tajam antara dua anggota tim. Salah satu pihak merasa tersinggung karena komentar yang dilontarkan dianggap menyentuh isu sensitif terkait identitas etniknya. Meskipun pihak lain menyatakan tidak ada maksud demikian, suasana mulai memanas dan berisiko mengganggu keberlangsungan kerja sama. Apa langkah pertama dan paling bijak yang Anda ambil untuk menangani situasi tersebut ….",
+    "pilihan": {
+      "A": "Menghentikan sementara diskusi dan mengajak kedua pihak berbicara secara privat untuk mencari akar masalah dan menjembatani kesalahpahaman.",
+      "B": "Menyampaikan kepada seluruh peserta bahwa topik sensitif tidak boleh dibahas agar tidak menyinggung siapa pun.",
+      "C": "Membiarkan diskusi berjalan agar perbedaan pandangan bisa terselesaikan secara alami oleh tim.",
+      "D": "Menegaskan kepada tim bahwa komentar yang menyinggung suku/agama merupakan pelanggaran dan harus ditindak tegas.",
+      "E": "Mengalihkan topik pembahasan dan berharap ketegangan akan mereda dengan sendirinya."
+    },
+    "jawaban": "A",
+    "pembahasan": "Langkah pertama yang bijak adalah menghentikan diskusi publik dan melakukan mediasi privat untuk menyelesaikan kesalahpahaman tanpa mempermalukan pihak manapun."
+  },
+  {
+    "nomor": 21,
+    "subtes": "Tes Karakteristik Pribadi (TKP)",
+    "soal": "Sosial Budaya (Harmonis)\nDi instansi tempat Anda bekerja sedang dilaksanakan program pertukaran pegawai antarwilayah sebagai bagian dari penguatan integrasi nasional dan pengembangan wawasan kebangsaan. Anda mendapat rekan baru yang berasal dari daerah dengan adat, bahasa, dan kebiasaan sosial yang cukup berbeda. Dalam beberapa kesempatan rapat, rekan baru tersebut terlihat kurang aktif dan cenderung menyendiri. Beberapa rekan mulai menilai bahwa ia tidak kooperatif dan sulit diajak bekerja sama. Anda menyadari bahwa penilaian tersebut berpotensi menimbulkan stigma negatif dan memperburuk penerimaan sosial terhadapnya. Apa tindakan terbaik yang Anda lakukan dalam situasi tersebut ….",
+    "pilihan": {
+      "A": "Membiarkan situasi berkembang sambil menunggu rekan tersebut menyesuaikan diri dengan sendirinya.",
+      "B": "Memberi masukan kepada atasan agar melakukan evaluasi terhadap rekan baru tersebut demi efektivitas tim.",
+      "C": "Mengajak rekan baru tersebut berdiskusi secara pribadi untuk memahami kesulitannya dan membantunya menyesuaikan diri secara sosial dan budaya.",
+      "D": "Menyarankan kepada tim agar tidak terlalu cepat menilai karena setiap orang butuh waktu untuk beradaptasi.",
+      "E": "Mengundang rekan baru tersebut bergabung dalam kegiatan informal tim tanpa menyinggung ketertutupannya."
+    },
+    "jawaban": "C",
+    "pembahasan": "Tindakan paling harmonis dan solutif adalah mendekati rekan baru secara pribadi, memahami kesulitannya, dan membantunya beradaptasi, bukan hanya menasihati tim atau menunggu."
+  },
+  {
+    "nomor": 22,
+    "subtes": "Tes Karakteristik Pribadi (TKP)",
+    "soal": "Sosial Budaya (Harmonis)\nAnda adalah seorang ASN yang ditempatkan di daerah dengan latar belakang budaya dan agama yang berbeda dengan asal Anda. Dalam sebuah rapat desa, masyarakat setempat menolak usulan Anda karena dianggap tidak sejalan dengan nilai-nilai lokal meskipun secara administratif dan program nasional, usulan tersebut sangat bermanfaat. Sikap Anda sebaiknya adalah ….",
+    "pilihan": {
+      "A": "Menjelaskan kembali manfaat program secara rasional agar masyarakat menerima tanpa mempermasalahkan budaya.",
+      "B": "Menghormati penolakan tersebut dan segera mencari pendekatan lain yang lebih sesuai dengan budaya setempat.",
+      "C": "Meminta atasan untuk turun tangan karena masyarakat tidak mau bekerja sama.",
+      "D": "Menunda usulan tersebut hingga masyarakat menyadari sendiri manfaatnya.",
+      "E": "Tetap melaksanakan program karena ini merupakan kebijakan nasional yang harus dijalankan."
+    },
+    "jawaban": "B",
+    "pembahasan": "Sikap harmonis dan bijak adalah menghormati nilai-nilai lokal dan mencari pendekatan yang sesuai dengan budaya setempat, bukan memaksakan program."
+  },
+  {
+    "nomor": 23,
+    "subtes": "Tes Karakteristik Pribadi (TKP)",
+    "soal": "Sosial Budaya (Harmonis)\nDi lingkungan kerja baru Anda yang multikultural, Anda menyadari bahwa ada perbedaan cara komunikasi antarkaryawan. Sebagian rekan dari latar belakang budaya tertentu lebih nyaman berbicara langsung dan tegas, sementara yang lain cenderung menggunakan pendekatan halus dan tidak langsung. Suatu saat, terjadi kesalahpahaman dalam tim akibat gaya komunikasi yang berbeda ini, dan suasana menjadi tegang. Sebagai anggota tim, langkah pertama yang paling bijak Anda ambil adalah ….",
+    "pilihan": {
+      "A": "Memberi saran kepada atasan agar mengambil tindakan tegas kepada pihak yang menimbulkan kesalahpahaman.",
+      "B": "Menjadi penengah dan menjelaskan maksud masing-masing pihak untuk meredakan ketegangan.",
+      "C": "Mengajak kedua pihak untuk berdiskusi secara terbuka dan saling meminta maaf.",
+      "D": "Membiarkan situasi mereda sendiri karena ini masalah persepsi pribadi yang tidak perlu dibesar-besarkan.",
+      "E": "Mengusulkan pelatihan komunikasi lintas budaya agar semua anggota tim saling memahami perbedaan."
+    },
+    "jawaban": "E",
+    "pembahasan": "Solusi jangka panjang dan preventif adalah mengusulkan pelatihan komunikasi lintas budaya, bukan hanya mediasi insidental. Ini menunjukkan sikap harmonis dan proaktif."
+  },
+  {
+    "nomor": 24,
+    "subtes": "Tes Karakteristik Pribadi (TKP)",
+    "soal": "Sosial Budaya (Harmonis)\nAnda bekerja di sebuah instansi pusat yang memiliki program pelibatan komunitas lokal dalam penyusunan kebijakan pembangunan wilayah. Dalam salah satu kegiatan forum diskusi di daerah multikultural, Anda melihat bahwa sebagian kelompok masyarakat adat merasa tidak nyaman karena penyampaian aspirasi lebih didominasi oleh kelompok masyarakat urban yang lebih fasih berbicara formal dan menggunakan istilah teknis. Kelompok adat terlihat pasif, bahkan tidak menyampaikan pendapat apa pun. Padahal, mereka terdampak langsung oleh rencana pembangunan tersebut. Tim fasilitator tampaknya tidak menyadari ketimpangan ini, karena forum berjalan lancar secara teknis. Apa langkah terbaik yang Anda ambil dalam situasi tersebut ….",
+    "pilihan": {
+      "A": "Mengusulkan sesi terpisah yang difasilitasi dengan pendekatan budaya agar masyarakat adat lebih nyaman menyampaikan pendapat.",
+      "B": "Mendorong fasilitator untuk memberi lebih banyak waktu bagi kelompok adat agar mendapat porsi bicara yang setara.",
+      "C": "Memastikan seluruh peserta forum diberi hak dan kesempatan yang sama untuk menyampaikan pendapat tanpa kecuali.",
+      "D": "Membuat catatan dan laporan kepada atasan agar ke depan forum sejenis tidak mendiskriminasi kelompok rentan.",
+      "E": "Mengajak tokoh adat berbicara secara informal di luar forum untuk mengetahui pandangan mereka."
+    },
+    "jawaban": "A",
+    "pembahasan": "Solusi paling tepat adalah mengusulkan sesi terpisah dengan pendekatan budaya, karena kelompok adat membutuhkan ruang yang lebih nyaman dan sesuai dengan cara komunikasi mereka."
+  },
+  {
+    "nomor": 25,
+    "subtes": "Tes Karakteristik Pribadi (TKP)",
+    "soal": "Teknologi Informasi dan Komunikasi (Adaptif)\nSuatu hari Anda harus mengumpulkan hasil pekerjaan melalui sebuah website tertentu dengan batas waktu yang sudah ditentukan. Anda sudah berusaha mengunggah hasil pekerjaan tersebut tepat waktu. Namun, karena sinyal internet yang tidak stabil, unggahan Anda gagal terkirim. Setelah waktu batas pengumpulan berakhir, website tersebut menutup akses otomatis sehingga Anda tidak bisa mengunggah ulang. Apa yang akan Anda lakukan ….",
+    "pilihan": {
+      "A": "Mencoba menghubungi bagian IT atau customer service website untuk mencari solusi teknis agar unggahan dapat diterima meskipun batas waktu sudah lewat.",
+      "B": "Segera menghubungi atasan atau pihak terkait untuk menjelaskan situasi yang terjadi dan meminta arahan atau kesempatan untuk mengunggah ulang hasil pekerjaan.",
+      "C": "Mengirimkan bukti file hasil pekerjaan melalui email atau media komunikasi lain kepada atasan sebagai tanda bukti bahwa Anda sudah menyelesaikan tugas tepat waktu.",
+      "D": "Menerima situasi dengan lapang dada dan belajar untuk mempersiapkan pengumpulan lebih awal di kesempatan berikutnya agar masalah serupa tidak terulang.",
+      "E": "Meminta bantuan teman atau rekan kerja yang mungkin memiliki akses lebih untuk membantu mengunggah hasil pekerjaan Anda."
+    },
+    "jawaban": "B",
+    "pembahasan": "Langkah adaptif dan profesional pertama adalah menghubungi atasan untuk menjelaskan situasi dan meminta arahan, bukan sekadar mencari solusi teknis sendiri atau menyerah."
+  },
+  {
+    "nomor": 26,
+    "subtes": "Tes Karakteristik Pribadi (TKP)",
+    "soal": "Teknologi Informasi dan Komunikasi (Adaptif)\nSuatu hari Anda harus bekerja, namun laptop Anda rusak sehingga Anda menggunakan laptop teman Anda untuk mengerjakan tugas. Karena lupa kata sandi email Anda, Anda juga menggunakan email teman Anda untuk keperluan pekerjaan. Namun, saat ingin mengakses email teman, ternyata email tersebut belum terverifikasi dan proses verifikasinya cukup rumit dan memakan waktu. Apa sikap Anda dalam menghadapi situasi ini ….",
+    "pilihan": {
+      "A": "Meminta bantuan teman untuk melakukan proses verifikasi emailnya agar Anda dapat menggunakan email tersebut sementara waktu untuk menyelesaikan pekerjaan.",
+      "B": "Menghargai privasi teman dengan tidak memaksakan akses emailnya dan segera mencari cara lain untuk mengakses email pribadi atau menyelesaikan pekerjaan tanpa menggunakan email teman.",
+      "C": "Segera menghubungi atasan atau pihak terkait untuk menjelaskan kendala dan meminta solusi atau alternatif lain agar pekerjaan tetap berjalan.",
+      "D": "Menggunakan laptop teman untuk mengerjakan tugas tapi menunda penggunaan email sampai masalah verifikasi selesai, sambil mencari solusi lain.",
+      "E": "Berusaha menyelesaikan proses verifikasi email teman walaupun rumit demi kelancaran pekerjaan Anda."
+    },
+    "jawaban": "B",
+    "pembahasan": "Sikap yang menghargai privasi orang lain dan etika digital adalah tidak memaksakan akses email teman, serta mencari cara alternatif untuk menyelesaikan pekerjaan."
+  },
+  {
+    "nomor": 27,
+    "subtes": "Tes Karakteristik Pribadi (TKP)",
+    "soal": "Teknologi Informasi dan Komunikasi (Adaptif)\nAnda bekerja sebagai admin media sosial untuk sebuah bisnis. Suatu hari, muncul komentar negatif yang sangat tidak sesuai fakta di salah satu postingan, sehingga memicu kericuhan dan banyak orang lain mulai bertanya tentang validasi informasi tersebut. Apa yang akan Anda lakukan dalam situasi ini ….",
+    "pilihan": {
+      "A": "Merespon dengan cepat dan profesional dengan memberikan klarifikasi yang faktual serta mengajak diskusi yang konstruktif agar kericuhan dapat diredam.",
+      "B": "Menghapus komentar negatif tersebut agar tidak memperkeruh suasana dan menjaga citra bisnis tetap baik.",
+      "C": "Melaporkan komentar tersebut ke manajemen untuk menentukan langkah komunikasi yang tepat dan menyiapkan tanggapan resmi.",
+      "D": "Membalas komentar dengan santai dan ramah, sekaligus mengajak followers untuk tetap menjaga komunikasi yang positif.",
+      "E": "Membiarkan komentar tersebut tetap ada tanpa merespon, agar tidak menimbulkan perhatian lebih dan menghindari konflik."
+    },
+    "jawaban": "A",
+    "pembahasan": "Penanganan krisis media sosial yang tepat adalah respons cepat dan profesional dengan klarifikasi faktual, bukan menghapus komentar atau diam."
+  },
+  {
+    "nomor": 28,
+    "subtes": "Tes Karakteristik Pribadi (TKP)",
+    "soal": "Teknologi Informasi dan Komunikasi (Adaptif)\nPerusahaan tempat Anda bekerja sebagai admin media sosial menerima rating bintang 1 di platform Maps tanpa adanya alasan yang jelas atau keluhan yang dapat membenarkan penilaian tersebut. Penilaian negatif ini berpotensi merusak reputasi perusahaan. Sebagai admin media sosial yang bertanggung jawab menjaga nama baik perusahaan, apa sikap Anda ….",
+    "pilihan": {
+      "A": "Membuat postingan klarifikasi di media sosial resmi perusahaan untuk menjelaskan situasi dan mengajak pelanggan yang puas untuk memberikan ulasan yang sebenarny.",
+      "B": "Menghubungi pihak platform Maps untuk melaporkan penilaian yang tidak berdasar agar dapat ditinjau ulang atau dihapus jika melanggar kebijakan.",
+      "C": "Segera melakukan pengecekan dengan menelusuri komentar atau ulasan yang menyertai rating tersebut, lalu merespon secara profesional dan mencari solusi jika ada keluhan tersembunyi.",
+      "D": "Melaporkan masalah ini kepada manajemen dan meminta arahan untuk langkah penanganan lebih lanjut.",
+      "E": "Mengabaikan penilaian tersebut karena tidak ada alasan jelas dan berharap rating negatif tersebut tidak berdampak signifikan."
+    },
+    "jawaban": "C",
+    "pembahasan": "Langkah pertama yang adaptif adalah menelusuri apakah ada keluhan tersembunyi di balik rating tersebut, lalu merespon secara profesional. Bisa jadi ada masalah yang tidak disampaikan secara eksplisit."
+  },
+  {
+    "nomor": 29,
+    "subtes": "Tes Karakteristik Pribadi (TKP)",
+    "soal": "Teknologi Informasi dan Komunikasi (Adaptif)\nAnda bekerja sebagai karyawan di usaha jasa pengiriman. Suatu ketika, Anda menerima pesanan dengan alamat yang tercantum berbeda dengan titik lokasi pengiriman. Paket harus sampai tepat waktu, namun upaya menghubungi pelanggan tidak berhasil karena nomor tidak aktif atau tidak dijawab. Apa sikap Anda dalam menghadapi situasi ini ….",
+    "pilihan": {
+      "A": "Mengirimkan paket sesuai alamat yang tercantum dalam pesanan sambil mencatat kendala komunikasi sebagai bukti upaya pengiriman.",
+      "B": "Mencari informasi tambahan mengenai lokasi pengiriman melalui rekan kerja, pelanggan lain yang terkait, atau data pendukung lainnya.",
+      "C": "Melaporkan masalah ini kepada atasan atau bagian layanan pelanggan untuk mendapatkan arahan lebih lanjut sebelum mengambil keputusan pengiriman.",
+      "D": "Menunda pengiriman sampai pelanggan dapat dihubungi dan memastikan alamat yang benar untuk menghindari kesalahan pengiriman.",
+      "E": "Mengirimkan paket ke titik lokasi yang paling logis atau terdekat berdasarkan pengalaman dan perkiraan Anda agar pengiriman tetap tepat waktu."
+    },
+    "jawaban": "C",
+    "pembahasan": "Dalam situasi ambigu, sikap adaptif dan profesional adalah melapor ke atasan untuk mendapatkan arahan, bukan mengambil keputusan sendiri yang berisiko."
+  },
+  {
+    "nomor": 30,
+    "subtes": "Tes Karakteristik Pribadi (TKP)",
+    "soal": "Teknologi Informasi dan Komunikasi (Adaptif)\nSuatu ketika Anda harus mengupload scan surat penting pekerjaan di sebuah website resmi. Namun, website tersebut menolak file Anda karena ukuran filenya terlalu besar. Jika Anda mengecilkan ukuran file agar dapat diupload, hasil scan menjadi buram dan tidak jelas sehingga bisa menimbulkan masalah validasi. Apa sikap Anda dalam menghadapi situasi inii ….",
+    "pilihan": {
+      "A": "Mencari cara terbaik untuk mengompres file tanpa mengurangi kualitas secara signifikan, misalnya menggunakan software khusus atau menghubungi tim IT.",
+      "B": "Melapor ke atasan atau pihak terkait tentang kendala teknis yang Anda hadapi dan meminta arahan atau bantuan teknis.",
+      "C": "Mengupload file versi buram untuk memenuhi batas waktu sambil menyiapkan versi asli untuk dikirimkan melalui jalur lain, seperti email atau langsung ke bagian terkait.",
+      "D": "Menghubungi layanan pelanggan atau support website untuk meminta solusi atau pengecualian terkait ukuran file.",
+      "E": "Menunda pengiriman file sampai mendapatkan cara yang pasti agar hasil scan tetap jelas dan diterima oleh website."
+    },
+    "jawaban": "A",
+    "pembahasan": "Solusi adaptif yang tepat adalah mencari cara teknis untuk mengompres file tanpa menurunkan kualitas, misalnya dengan software khusus atau bantuan tim IT."
+  },
+  {
+    "nomor": 31,
+    "subtes": "Tes Karakteristik Pribadi (TKP)",
+    "soal": "Jejaring Kerja (Kolaboratif)\nAnda sedang mengerjakan proyek penting bersama rekan satu tim di kantor. Proyek tersebut memiliki deadline ketat, dan Anda sedang berada dalam fase pengerjaan yang membutuhkan konsentrasi dan kerja sama penuh. Tiba-tiba, Anda menerima telepon dari keluarga terkait urusan penting yang tidak bisa ditunda atau diabaikan. Situasinya cukup mendesak dan menuntut perhatian Anda segera. Namun, jam kerja belum selesai, dan Anda sadar bahwa meninggalkan pekerjaan bisa berdampak pada progress proyek dan mengganggu ritme tim. Dalam situasi ini, apa yang akan Anda lakukan ….",
+    "pilihan": {
+      "A": "Menjelaskan kepada rekan kerja bahwa Anda harus pergi karena urusan penting, dan segera meminta izin kepada atasan sambil memastikan tugas yang tertunda bisa didelegasikan atau dikerjakan nanti.",
+      "B": "Menyampaikan kondisi darurat secara jujur ke atasan dan rekan kerja, lalu segera menangani urusan pribadi, serta berkomitmen untuk mengganti waktu kerja yang hilang setelah urusan selesai.",
+      "C": "Segera meminta izin keluar kepada atasan sambil menjelaskan bahwa Anda akan tetap menyelesaikan porsi pekerjaan Anda di luar jam kerja jika diperlukan.",
+      "D": "Menginformasikan kondisi Anda ke tim dan atasan melalui pesan/email resmi, lalu mengatur agar pekerjaan Anda bisa dialihkan sementara, dan memastikan Anda tetap bertanggung jawab atas hasil akhir.",
+      "E": "Menyampaikan dengan sopan dan terbuka bahwa Anda harus meninggalkan kantor karena urusan mendesak, namun sebelum itu memberikan catatan atau progres pekerjaan kepada rekan agar tidak menghambat proyek."
+    },
+    "jawaban": "B",
+    "pembahasan": "Sikap kolaboratif yang tepat adalah jujur tentang kondisi darurat, segera menangani urusan pribadi, dan berkomitmen mengganti waktu kerja yang hilang."
+  },
+  {
+    "nomor": 32,
+    "subtes": "Tes Karakteristik Pribadi (TKP)",
+    "soal": "Jejaring Kerja (Kolaboratif)\nAnda dan seorang rekan kerja memiliki latar belakang profesional yang berbeda. Anda ahli di bidang Anda sendiri, dan begitu pula rekan Anda, yang memiliki keahlian di bidang lain. Suatu ketika, Anda berdua ditugaskan untuk mengerjakan sebuah proyek bersama. Proyek ini menuntut kerja sama yang erat, karena keberhasilan proyek sangat bergantung pada sinkronisasi peran masing-masing bidang. Namun, perbedaan cara kerja, istilah teknis, hingga pendekatan penyelesaian masalah membuat proses kerja berpotensi menghadapi gesekan atau miskomunikasi. Dalam situasi ini, apa yang akan Anda lakukan untuk memastikan proyek berjalan efektif ….",
+    "pilihan": {
+      "A": "Menyepakati pembagian tugas secara jelas sejak awal, berdasarkan keahlian masing-masing, lalu menjaga komunikasi terbuka agar tidak ada tumpang tindih pekerjaan.",
+      "B": "Berdiskusi dengan rekan kerja untuk memahami pendekatan kerjanya, agar Anda bisa menyesuaikan dan menciptakan alur kerja yang saling melengkapi.",
+      "C": "Menjalin komunikasi yang intensif selama proyek berjalan untuk memastikan bahwa setiap keputusan atau langkah kerja saling dipahami oleh kedua pihak.",
+      "D": "Membangun komitmen bersama bahwa perbedaan latar belakang bukan penghalang, lalu menyusun strategi kerja yang menonjolkan kekuatan masing-masing.",
+      "E": "Membuka ruang diskusi rutin untuk membahas progres proyek, kesulitan yang dihadapi, dan solusi bersama, agar tidak terjadi kesalahpahaman dalam pelaksanaan."
+    },
+    "jawaban": "A",
+    "pembahasan": "Langkah kolaboratif paling fundamental adalah menyepakati pembagian tugas yang jelas sejak awal berdasarkan keahlian masing-masing, disertai komunikasi terbuka."
+  },
+  {
+    "nomor": 33,
+    "subtes": "Tes Karakteristik Pribadi (TKP)",
+    "soal": "Jejaring Kerja (Kolaboratif)\nAnda bekerja di bagian penjualan yang tugas utamanya adalah mencari pelanggan baru. Dalam pekerjaan Anda, Anda berhasil mendapatkan banyak pelanggan sehingga bonus Anda cukup besar. Sementara itu, teman kerja Anda di bagian yang sama justru sepi pelanggan dan jarang mendapatkan bonus. Anda tahu bahwa keterampilan teman Anda memang masih jauh di bawah Anda, sehingga hasil kerjanya kurang maksimal. Namun, Anda juga tahu bahwa teman Anda berusaha dengan keras dan ingin berkembang. Apa sikap Anda terhadap situasi ini ….",
+    "pilihan": {
+      "A": "Memberikan pujian atas usaha teman Anda dan mendorongnya untuk terus berlatih sambil menawarkan bantuan jika diperlukan.",
+      "B": "Tetap fokus pada pencapaian target pribadi, tetapi memberikan dukungan moral dan motivasi kepada teman Anda agar tidak putus asa.",
+      "C": "Mengajak teman Anda untuk belajar bersama dalam sesi informal agar kalian berdua bisa saling berbagi pengalaman dan memperbaiki performa.",
+      "D": "Membantu teman Anda dengan membagikan tips dan strategi mencari pelanggan yang efektif, agar ia dapat meningkatkan keterampilannya dan hasil kerjanya lebih baik.",
+      "E": "Mengamati perkembangan teman Anda secara berkala dan memberi masukan konstruktif ketika ada kesempatan yang tepat."
+    },
+    "jawaban": "D",
+    "pembahasan": "Sikap kolaboratif yang paling konkret dan membantu adalah membagikan tips dan strategi efektif secara langsung, bukan hanya motivasi atau pujian."
+  },
+  {
+    "nomor": 34,
+    "subtes": "Tes Karakteristik Pribadi (TKP)",
+    "soal": "Jejaring Kerja (Harmonis)\nAnda sedang mengerjakan tugas di kantor dan tanpa sengaja melakukan kesalahan dalam pekerjaan. Teman kerja Anda mengetahui kesalahan tersebut dan ternyata melaporkannya kepada atasan tanpa memberitahu Anda terlebih dahulu. Ketika Anda mengetahui hal ini, apa sikap Anda ….",
+    "pilihan": {
+      "A": "Menyampaikan permohonan maaf kepada atasan dan menunjukkan itikad baik untuk belajar dari kesalahan agar kinerja Anda lebih baik ke depan.",
+      "B": "Mengajak teman Anda berbicara secara baik-baik untuk memahami alasannya melapor ke atasan tanpa memberitahu Anda terlebih dahulu, sambil tetap fokus memperbaiki kesalahan.",
+      "C": "Menerima laporan teman dan atasan dengan sikap terbuka, kemudian segera bertanggung jawab memperbaiki kesalahan serta memastikan tidak terulang kembali.",
+      "D": "Tetap menjaga profesionalisme dengan berusaha memperbaiki kesalahan dan meningkatkan koordinasi dengan teman agar ke depannya komunikasi lebih baik.",
+      "E": "Memanfaatkan momen tersebut untuk mengevaluasi cara kerja Anda dan meningkatkan kewaspadaan agar kesalahan serupa tidak terjadi lagi."
+    },
+    "jawaban": "C",
+    "pembahasan": "Sikap harmonis dan profesional adalah menerima laporan dengan terbuka, bertanggung jawab memperbaiki kesalahan, dan fokus pada pencegahan ke depan, bukan menyalahkan atau konfrontasi."
+  },
+  {
+    "nomor": 35,
+    "subtes": "Tes Karakteristik Pribadi (TKP)",
+    "soal": "Jejaring Kerja (Harmonis)\nAnda bekerja di perusahaan dengan sistem shift dan bergantian menggunakan PC yang sama bersama teman kerja Anda. Setiap kali Anda mulai bekerja, Anda harus menghapus riwayat penggunaan PC yang dilakukan oleh teman Anda sebelumnya, karena menurut Anda riwayat tersebut mengganggu kenyamanan atau keamanan kerja Anda. Namun, waktu kerja Anda sangat ketat dan tugas yang harus diselesaikan cukup banyak sehingga menghapus riwayat tersebut terasa menghabiskan waktu yang seharusnya dipakai untuk bekerja. Apa sikap Anda dalam menghadapi situasi ini ….",
+    "pilihan": {
+      "A": "Menerima keadaan dan tetap rutin menghapus riwayat karena menjaga kenyamanan dan keamanan kerja penting, sambil berusaha mengatur waktu kerja agar tetap produktif.",
+      "B": "Mengomunikasikan masalah ini kepada atasan atau bagian IT agar ada solusi teknis yang lebih efisien, misalnya otomatisasi penghapusan riwayat atau PC yang terpisah.",
+      "C": "Membicarakan dengan teman kerja agar bersama-sama menjaga kebersihan dan keamanan data, sehingga mengurangi beban Anda dalam menghapus riwayat.",
+      "D": "Mengatur prioritas kerja dengan tetap menghapus riwayat sebagai bagian dari rutinitas, tapi berusaha meminimalkan waktu yang dihabiskan untuk itu agar tidak mengganggu penyelesaian tugas.",
+      "E": "Mencari cara alternatif untuk menghapus riwayat dengan cepat, misalnya menggunakan shortcut atau alat khusus, agar efisiensi kerja tetap terjaga."
+    },
+    "jawaban": "E",
+    "pembahasan": "Solusi paling praktis dan efisien adalah mencari cara alternatif untuk menghapus riwayat dengan cepat (shortcut/alat khusus), tanpa harus mengganggu teman atau atasan."
+  },
+  {
+    "nomor": 36,
+    "subtes": "Tes Karakteristik Pribadi (TKP)",
+    "soal": "Jejaring Kerja (Harmonis)\nSaat bekerja, Anda melakukan kesalahan yang tidak disengaja. Teman kerja Anda menegur Anda secara langsung di depan banyak rekan kerja lainnya. Bagaimana sikap Anda terhadap teguran tersebut ….",
+    "pilihan": {
+      "A": "Menghargai niat teman yang ingin mengingatkan Anda, namun berinisiatif mengajak teman tersebut bicara secara empat mata untuk menyampaikan masukan secara lebih sopan.",
+      "B": "Meminta maaf secara singkat kepada teman dan rekan kerja yang hadir, lalu berdiskusi secara pribadi dengan teman tersebut untuk membahas cara terbaik agar teguran tidak dilakukan di depan umum.",
+      "C": "Menerima teguran dengan sikap terbuka dan menunjukkan itikad untuk belajar dari kesalahan, sekaligus menjaga hubungan baik dengan teman dan rekan kerja.",
+      "D": "Tetap tenang dan menerima teguran teman dengan lapang dada, kemudian mengucapkan terima kasih atas masukannya dan berusaha memperbaiki kesalahan.",
+      "E": "Mengendalikan emosi dan tetap fokus pada perbaikan kesalahan, sembari berusaha menjaga profesionalisme dan keharmonisan dalam tim."
+    },
+    "jawaban": "D",
+    "pembahasan": "Sikap paling harmonis dan dewasa adalah tetap tenang, menerima teguran dengan lapang dada, berterima kasih atas masukannya, dan fokus memperbaiki kesalahan."
+  },
+  {
+    "nomor": 37,
+    "subtes": "Tes Karakteristik Pribadi (TKP)",
+    "soal": "Jejaring Kerja (Harmonis)\nAnda sedang mengalami masalah dengan seorang rekan kerja di kantor. Ada perbedaan pendapat yang cukup serius sehingga menimbulkan ketegangan. Namun, pekerjaan dan suasana tim sangat bergantung pada kerja sama. Apa sikap Anda dalam menghadapi situasi ini ….",
+    "pilihan": {
+      "A": "Mengajak rekan kerja tersebut untuk berdiskusi secara terbuka dan jujur dengan tujuan mencari solusi bersama yang dapat diterima kedua belah pihak.",
+      "B": "Menjaga sikap profesional dengan tidak membiarkan masalah pribadi mengganggu pekerjaan sambil berusaha tetap berkomunikasi sopan dan ramah.",
+      "C": "Mencari titik temu dengan rekan kerja melalui kompromi, meskipun mungkin harus mengalah dalam beberapa hal demi menjaga suasana kerja yang kondusif.",
+      "D": "Meminta bantuan pihak ketiga, seperti atasan atau HRD untuk memediasi masalah agar dapat diselesaikan secara adil dan objektif.",
+      "E": "Fokus pada pekerjaan Anda sendiri sambil menghindari konflik langsung, namun tetap menjaga interaksi yang sopan dan profesional."
+    },
+    "jawaban": "A",
+    "pembahasan": "Penyelesaian konflik yang paling harmonis dan konstruktif adalah diskusi terbuka dan jujur untuk mencari solusi bersama, bukan menghindar atau langsung melibatkan pihak ketiga."
+  },
+  {
+    "nomor": 38,
+    "subtes": "Tes Karakteristik Pribadi (TKP)",
+    "soal": "Anti Radikalisme (Harmonis)\nDi lingkungan sekitar Anda terjadi demo yang tiba-tiba memicu provokasi hingga penjarahan terhadap pemilik usaha keturunan asing yang ada di Indonesia. Situasi menjadi tegang dan berpotensi menimbulkan kerusuhan yang lebih besar. Sebagai warga masyarakat dan pekerja di lingkungan tersebut, apa sikap yang akan Anda lakukan ….",
+    "pilihan": {
+      "A": "Tetap tenang dan menghindari kerusuhan, sekaligus mengajak orang di sekitar Anda untuk menjaga ketertiban dan tidak terprovokasi oleh situasi yang memanas.",
+      "B": "Melaporkan kejadian tersebut ke pihak berwenang agar penanganan dilakukan secara profesional dan keamanan lingkungan tetap terjaga.",
+      "C": "Berusaha membantu korban penjarahan dengan cara yang aman, seperti memberi dukungan moral dan membantu menyampaikan kebutuhan mereka kepada pihak terkait.",
+      "D": "Menghindari keterlibatan langsung dalam konflik, namun tetap aktif mencari informasi yang akurat agar tidak terpengaruh oleh hoaks atau provokasi.",
+      "E": "Mengajak rekan kerja dan warga sekitar untuk tetap menjaga toleransi dan kerukunan antar kelompok agar situasi tidak semakin memburuk."
+    },
+    "jawaban": "A",
+    "pembahasan": "Prioritas utama dalam situasi kerusuhan adalah tetap tenang, menjaga ketertiban, dan mengajak orang lain untuk tidak terprovokasi, sebelum tindakan pelaporan atau bantuan korban."
+  },
+  {
+    "nomor": 39,
+    "subtes": "Tes Karakteristik Pribadi (TKP)",
+    "soal": "Anti Radikalisme (Harmonis)\nAnda adalah anggota TNI yang ditugaskan menjaga daerah perbatasan yang rawan terjadi serangan senjata dari kelompok tertentu. Tugas Anda adalah menjaga keamanan wilayah sekaligus memastikan keselamatan warga sekitar. Suatu malam, Anda mendapat informasi bahwa ada indikasi serangan akan terjadi dalam waktu dekat. Namun, kondisi medan sulit dan masyarakat sekitar sangat rentan terhadap dampak konflik bersenjata. Apa sikap dan tindakan yang paling tepat Anda ambil ….",
+    "pilihan": {
+      "A": "Fokus sepenuhnya pada pengamanan diri dan personel TNI, menghindari kontak langsung sampai ada konfirmasi serangan.",
+      "B": "Segera memperkuat posisi pertahanan dan mengkoordinasikan patroli bersama rekan satuan, sambil menginformasikan masyarakat untuk waspada dan menyiapkan langkah evakuasi jika diperlukan.",
+      "C": "Melakukan pendekatan persuasif kepada warga agar tetap tenang dan tidak panik, sambil menunggu perintah dari komando pusat.",
+      "D": "Mengabaikan ancaman sementara karena informasi belum pasti dan lebih fokus pada aktivitas rutin penjagaan.",
+      "E": "Mencari bantuan dari pihak lain seperti polisi atau aparat keamanan lain tanpa langsung mengambil tindakan sendiri."
+    },
+    "jawaban": "B",
+    "pembahasan": "Tindakan paling tepat adalah memperkuat pertahanan, koordinasi dengan satuan, dan menginformasikan serta menyiapkan evakuasi masyarakat. Ini mencerminkan kewaspadaan dan tanggung jawab terhadap keselamatan warga."
+  },
+  {
+    "nomor": 40,
+    "subtes": "Tes Karakteristik Pribadi (TKP)",
+    "soal": "Anti Radikalisme (Harmonis)\nAnda adalah narasumber utama dalam seminar kebangsaan yang bertujuan memperkuat rasa persatuan dan nilai-nilai Pancasila. Pada sesi diskusi, seorang mahasiswa dengan retorika yang cukup meyakinkan mulai mengangkat topik yang sangat sensitif dan cenderung mengarah ke paham radikal. Argumennya memicu respons dari peserta lain yang juga mulai mengajukan pertanyaan bernada provokatif dan berpotensi memecah belah peserta seminar. Situasi menjadi tegang, ada tanda-tanda ketidakharmonisan, dan bahkan ada yang mulai memanas dengan komentar emosional yang tidak produktif. Dalam kondisi ini, apa yang akan Anda lakukan ….",
+    "pilihan": {
+      "A": "Anda memilih mengalihkan perhatian peserta dengan memutar video atau presentasi lain yang berisi nilai-nilai kebangsaan, berharap dengan distraksi tersebut ketegangan mereda tanpa perlu intervensi langsung dalam diskusi.",
+      "B": "Anda memberikan ruang seluas-luasnya untuk mahasiswa tersebut mengemukakan pendapatnya sebagai bentuk penghormatan terhadap kebebasan berpendapat, kemudian mencoba menjawab secara ilmiah dan rasional di akhir sesi tanpa menghentikan diskusi saat itu juga.",
+      "C": "Anda menginstruksikan panitia atau moderator untuk menghentikan argumen yang berpotensi radikal dan mengingatkan bahwa seminar ini bukan tempat untuk menyebarkan paham yang bertentangan dengan nilai kebangsaan, sambil secara pribadi berbicara dengan mahasiswa tersebut di luar sesi.",
+      "D": "Dengan tegas dan diplomatis, Anda menyela dan mengajak semua peserta untuk kembali pada tema utama seminar, menekankan pentingnya menjaga dialog yang konstruktif dan menolak segala bentuk radikalisme, lalu membuka sesi tanya jawab yang terstruktur dengan moderator yang tegas.",
+      "E": "Anda membiarkan diskusi berlangsung dengan harapan peserta akan saling mengoreksi satu sama lain secara alami, dan Anda hanya memberikan kesimpulan di akhir sesi sebagai penyeimbang."
+    },
+    "jawaban": "D",
+    "pembahasan": "Sebagai narasumber, tindakan tegas namun diplomatis diperlukan untuk mengendalikan situasi, mengembalikan diskusi ke tema utama, dan menolak radikalisme secara konstruktif."
+  },
+  {
+    "nomor": 41,
+    "subtes": "Tes Karakteristik Pribadi (TKP)",
+    "soal": "Anti Radikalisme (Harmonis)\nAnda adalah seorang pegawai pemerintahan yang ditugaskan menjadi fasilitator dalam program literasi kebangsaan di sebuah wilayah yang dikenal memiliki riwayat paparan paham radikalisme cukup tinggi. Dalam suatu sesi diskusi, beberapa peserta muda mulai mempertanyakan konsep negara berdasarkan Pancasila dan lebih condong membenarkan ide pendirian sistem yang bertentangan dengan konstitusi. Peserta lain mulai resah, tetapi Anda menyadari bahwa pendekatan otoriter dapat membuat mereka semakin tertutup. Apa langkah yang paling tepat Anda ambil dalam situasi tersebut ….",
+    "pilihan": {
+      "A": "Menghubungi panitia keamanan dan meminta peserta yang menyuarakan paham bertentangan dikeluarkan dari forum agar tidak mempengaruhi peserta lain.",
+      "B": "Menegur peserta secara langsung di depan umum untuk memberikan efek jera, sekaligus memperingatkan seluruh peserta bahwa pernyataan yang bertentangan dengan Pancasila tidak akan ditoleransi.",
+      "C": "Menunda pembahasan dan mengalihkan topik diskusi ke hal yang lebih netral agar suasana tetap kondusif dan tidak menimbulkan gesekan antar peserta.",
+      "D": "Membiarkan peserta menyampaikan pendapatnya sepenuhnya tanpa intervensi terlebih dahulu, dengan harapan peserta lain akan memberikan bantahan secara alami.",
+      "E": "Menanggapi dengan pendekatan edukatif yang terbuka namun tegas, menjelaskan secara logis tentang bahaya paham radikal dan pentingnya Pancasila sebagai dasar negara, sekaligus membuka ruang dialog agar peserta tetap merasa didengar."
+    },
+    "jawaban": "E",
+    "pembahasan": "Pendekatan edukatif yang terbuka namun tegas lebih efektif untuk mengubah pola pikir daripada pendekatan otoriter atau penghindaran. Ini membuka ruang dialog tanpa mengkompromikan nilai Pancasila."
+  },
+  {
+    "nomor": 42,
+    "subtes": "Tes Karakteristik Pribadi (TKP)",
+    "soal": "Anti Radikalisme (Harmonis)\nAnda adalah seorang pejabat fungsional di bidang pengembangan wawasan kebangsaan di sebuah instansi pemerintah. Anda menerima laporan bahwa di salah satu sekolah binaan Anda, terdapat guru yang secara diam-diam menyebarkan narasi radikal kepada siswanya melalui grup diskusi online tertutup. Informasi ini belum dikonfirmasi secara resmi, namun sumbernya cukup kredibel. Kepala sekolah mengetahui hal tersebut namun ragu bertindak karena takut menimbulkan kegaduhan dan citra buruk bagi sekolah. Tindakan yang Anda ambil yaitu ….",
+    "pilihan": {
+      "A": "Melakukan pendekatan pribadi kepada guru tersebut untuk memastikan kebenaran informasi dan memberi kesempatan untuk menjelaskan secara langsung, sambil tetap menjaga kerahasiaan agar tidak terjadi kegaduhan.",
+      "B": "Melaporkan guru tersebut langsung ke aparat penegak hukum agar segera dilakukan tindakan hukum demi mencegah penyebaran lebih luas.",
+      "C": "Mengadakan pembinaan ideologi Pancasila secara menyeluruh di sekolah tersebut dengan topik sensitif secara umum, sambil mengamati respons guru dan siswa sebagai bentuk deteksi dini.",
+      "D": "Menegur kepala sekolah karena tidak bertindak tegas dan memintanya untuk segera memberikan sanksi administratif kepada guru tersebut demi memberi contoh bagi guru lainnya.",
+      "E": "Menyampaikan informasi tersebut ke media secara anonim agar publik tahu dan pihak sekolah merasa terdesak untuk bertindak."
+    },
+    "jawaban": "C",
+    "pembahasan": "Pendekatan preventif dan edukatif melalui pembinaan ideologi secara menyeluruh lebih tepat daripada tindakan represif langsung, karena informasi belum terkonfirmasi sepenuhnya."
+  },
+  {
+    "nomor": 43,
+    "subtes": "Tes Karakteristik Pribadi (TKP)",
+    "soal": "Anti Radikalisme (Harmonis)\nAnda adalah pejabat struktural muda di sebuah instansi pemerintah yang sedang menjalankan program penguatan nilai-nilai kebangsaan. Suatu hari, Anda menyadari bahwa salah satu rekan kerja Anda yang cukup senior aktif membagikan konten bermuatan ideologi transnasional dan anti-Pancasila melalui akun media sosial pribadinya. Sebagian konten yang ia bagikan tidak frontal, namun secara konsisten menunjukkan penolakan terhadap sistem demokrasi dan konstitusi negara. Beberapa pegawai junior mulai ikut menyukai dan membagikan ulang konten tersebut. Namun, pegawai tersebut dikenal luas sebagai pribadi baik, religius, dan cukup disegani. Apa langkah yang paling tepat Anda ambil ….",
+    "pilihan": {
+      "A": "Menyusun laporan internal berisi bukti digital aktivitas rekan Anda dan mengajukannya ke atasan secara tertutup untuk ditindaklanjuti secara struktural sesuai prosedur.",
+      "B": "Mengajak rekan tersebut berdiskusi secara pribadi, menjelaskan kekhawatiran Anda, dan mencoba memahami motif di balik aktivitas daringnya sebelum melibatkan pihak atasan.",
+      "C": "Membuat kampanye internal di kantor tentang bahaya ideologi transnasional dan pentingnya Pancasila, tanpa menyebut siapa pun, sambil memperkuat budaya literasi digital.",
+      "D": "Melaporkan langsung ke lembaga intelijen atau aparat penegak hukum karena radikalisme adalah isu serius yang harus segera ditindak tanpa menunggu perintah.",
+      "E": "Membiarkan saja selama belum ada tindakan yang melanggar hukum, karena setiap orang berhak atas kebebasan berpendapat di media sosial."
+    },
+    "jawaban": "C",
+    "pembahasan": "Pendekatan terbaik adalah kampanye internal yang bersifat edukatif dan preventif tanpa menyebut nama, untuk memperkuat literasi digital dan pemahaman kebangsaan secara kolektif."
+  },
+  {
+    "nomor": 44,
+    "subtes": "Tes Karakteristik Pribadi (TKP)",
+    "soal": "Anti Radikalisme (Harmonis)\nAnda adalah pembina komunitas kepemudaan di tingkat kecamatan. Komunitas ini rutin mengadakan kegiatan positif seperti diskusi kebangsaan, pelatihan kewirausahaan, dan bakti sosial. Namun, Anda mendapati bahwa salah satu anggota baru yang cukup aktif dan mulai menjadi panutan, ternyata memiliki latar belakang dari kelompok eksklusif yang terindikasi pernah terpapar paham radikal. Ia tidak menunjukkan perilaku ekstrem secara langsung, namun dalam beberapa diskusi ia mulai menyisipkan narasi anti demokrasi dan mempermasalahkan pluralisme. Sebagian anggota muda tampak tertarik dan terpengaruh dengan cara bicaranya yang tenang dan logis. Apa langkah paling tepat Anda lakukan ….",
+    "pilihan": {
+      "A": "Mengajak anggota tersebut berdiskusi secara pribadi untuk mengevaluasi pandangan-pandangan yang ia sampaikan, sambil menjelaskan batasan nilai dan tujuan komunitas agar tidak menyimpang dari prinsip kebangsaan.",
+      "B": "Mengeluarkan anggota tersebut secara diam-diam dari komunitas untuk mencegah pengaruh buruknya terhadap anggota lain, tanpa perlu menjelaskan secara terbuka.",
+      "C": "Mengumumkan kepada seluruh anggota bahwa terdapat individu dalam komunitas yang berpotensi menyebarkan radikalisme dan meminta semua waspada terhadap narasi menyimpang.",
+      "D": "Menyusun program khusus penguatan moderasi beragama dan toleransi dalam setiap kegiatan komunitas, agar anggota tidak mudah terpengaruh narasi radikal tanpa perlu menyebut nama siapa pun.",
+      "E": "Melaporkan langsung anggota tersebut ke aparat atau pihak berwenang agar dapat dimonitor dan ditangani lebih lanjut sebelum terlambat."
+    },
+    "jawaban": "D",
+    "pembahasan": "Pendekatan paling tepat adalah penguatan moderasi dan toleransi melalui program komunitas secara umum, tanpa stigmatisasi individu, sehingga anggota memiliki ketahanan terhadap narasi radikal."
+  },
+  {
+    "nomor": 45,
+    "subtes": "Tes Karakteristik Pribadi (TKP)",
+    "soal": "Anti Radikalisme (Harmonis)\nAnda adalah dosen muda yang baru ditunjuk sebagai Pembina Unit Kegiatan Mahasiswa (UKM) di sebuah universitas negeri. Salah satu UKM yang Anda bina bergerak di bidang kajian keagamaan dan sering mengadakan diskusi terbuka. Setelah beberapa kali hadir, Anda mulai mengamati bahwa beberapa narasumber yang diundang menyampaikan pandangan yang mengarah pada intoleransi, penolakan terhadap sistem demokrasi, serta penggunaan simbol-simbol ideologis transnasional. Diskusi berlangsung rapi, tidak frontal, dan peserta tampak sangat antusias. Pihak kampus belum menyadari hal ini karena tidak ada laporan resmi. Apa langkah paling tepat yang Anda ambil ….",
+    "pilihan": {
+      "A": "Mengadakan pertemuan dengan pengurus UKM untuk membahas arah kegiatan, menekankan pentingnya seleksi narasumber yang sejalan dengan nilai Pancasila, serta menawarkan pendampingan dalam perencanaan kegiatan ke depan.",
+      "B": "Melaporkan UKM tersebut ke rektorat agar segera dibekukan sementara waktu, sambil menunggu audit ideologis dan evaluasi kegiatan secara menyeluruh.",
+      "C": "Menyusup sebagai pengamat pasif dalam diskusi-diskusi mereka untuk mengumpulkan bukti sebelum mengambil tindakan apapun.",
+      "D": "Membiarkan kegiatan tersebut berjalan dengan tetap mengawasi dari jauh, karena belum ada pelanggaran hukum eksplisit dan belum tentu berdampak negatif.",
+      "E": "Menyampaikan kekhawatiran Anda ke media atau media sosial secara anonim untuk menarik perhatian publik dan menekan kampus agar bertindak cepat."
+    },
+    "jawaban": "A",
+    "pembahasan": "Sebagai pembina, langkah paling tepat adalah melakukan pendekatan edukatif dan kolaboratif dengan pengurus UKM, bukan tindakan represif atau pelaporan langsung. Pendampingan dan penguatan nilai Pancasila lebih efektif."
+  }
+]

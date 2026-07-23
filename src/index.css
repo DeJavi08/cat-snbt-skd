@@ -1,0 +1,151 @@
+@import "tailwindcss";
+
+@variant dark (&:where(.dark, .dark *));
+
+/* Custom sleek scrollbar for sidebar and clean overflow areas */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(148, 163, 184, 0.3);
+  border-radius: 9999px;
+  transition: background 0.2s ease;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(99, 102, 241, 0.5);
+}
+
+.dark ::-webkit-scrollbar-thumb {
+  background: rgba(148, 163, 184, 0.15);
+}
+
+.dark ::-webkit-scrollbar-thumb:hover {
+  background: rgba(99, 102, 241, 0.4);
+}
+
+/* Custom utility to completely hide scrollbars */
+.scrollbar-none::-webkit-scrollbar {
+  display: none;
+}
+.scrollbar-none {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
+
+/* Base styles for dark mode */
+html, body {
+  @apply transition-colors duration-200;
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+/* Glassmorphism Premium Utilities */
+.glass-card {
+  @apply bg-white/70 dark:bg-slate-900/40 backdrop-blur-lg border border-slate-200/50 dark:border-slate-800/65 transition-all duration-300;
+}
+
+.glass-card-hover {
+  @apply hover:bg-white/95 dark:hover:bg-slate-900/60 hover:border-indigo-200/60 dark:hover:border-indigo-500/35 hover:shadow-xl hover:shadow-indigo-500/5 transition-all duration-300;
+}
+
+/* Custom animation for background glowing blur circles */
+@keyframes float-glow {
+  0%, 100% {
+    transform: translate(0, 0) scale(1);
+  }
+  50% {
+    transform: translate(20px, -20px) scale(1.05);
+  }
+}
+
+.animate-float-slow {
+  animation: float-glow 8s ease-in-out infinite;
+}
+
+/* @media print for Ink-Friendly Black & White PDF Report Generation */
+@media print {
+  body, html {
+    background: #ffffff !important;
+    color: #000000 !important;
+    font-family: "Inter", -apple-system, sans-serif !important;
+    font-size: 11pt !important;
+    width: 100% !important;
+    height: auto !important;
+    margin: 0 !important;
+    padding: 20mm 15mm !important;
+    overflow: visible !important;
+  }
+
+  /* Disable all screens and controls that are not the active scorecard */
+  #main-navigation-header,
+  #app-sidebar-menu-panel,
+  #sidebar-navigation,
+  #sidebar-mobile-view,
+  #confirmation-modal-backdrop,
+  .no-print,
+  button,
+  footer,
+  aside,
+  header {
+    display: none !important;
+  }
+
+  /* Expand result card to full width printable paper */
+  #exam-result-board {
+    display: block !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    box-shadow: none !important;
+    border: none !important;
+    background: transparent !important;
+  }
+
+  #exam-result-board .bg-white {
+    background: #ffffff !important;
+    border: none !important;
+    box-shadow: none !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    color: #000000 !important;
+  }
+
+  /* High contrast table borders and ink saving elements */
+  .bg-slate-50, .bg-indigo-50, .bg-emerald-50, .bg-amber-50, .bg-red-50 {
+    background: #fdfdfd !important;
+    border: 1px solid #111111 !important;
+    color: #000000 !important;
+  }
+
+  p, span, h1, h2, h3, h4, text {
+    color: #000000 !important;
+    fill: #000000 !important;
+  }
+
+  /* Simple Black/White borders */
+  div, section {
+    border-color: #333333 !important;
+  }
+
+  /* Hide progress bar trackers or display simple box outlines */
+  .bg-slate-100, .bg-slate-150 {
+    background: #e2e8f0 !important;
+    border: 1px solid #33a !important;
+  }
+
+  /* Print color compatibility override */
+  * {
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+    box-shadow: none !important;
+    filter: none !important;
+  }
+}
